@@ -1,0 +1,9 @@
+.preview/
+node_modules/
+oh_modules/
+build/
+.cxx/
+.idea/
+*.hap
+*.app
+local.properties

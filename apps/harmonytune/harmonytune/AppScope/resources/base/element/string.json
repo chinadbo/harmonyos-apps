@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyTune"
+    },
+    {
+      "name": "app_name_en",
+      "value": "HarmonyTune"
+    },
+    {
+      "name": "app_desc",
+      "value": "HarmonyOS 本地音乐播放器"
+    },
+    {
+      "name": "app_desc_en",
+      "value": "Local music player for HarmonyOS"
+    }
+  ]
+}

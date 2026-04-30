@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/FeedListPage",
+    "pages/ArticleListPage",
+    "pages/ArticleReaderPage",
+    "pages/DiscoverPage",
+    "pages/SearchPage",
+    "pages/BookmarkPage",
+    "pages/SettingsPage"
+  ]
+}

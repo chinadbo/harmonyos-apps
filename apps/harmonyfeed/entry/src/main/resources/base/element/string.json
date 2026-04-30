@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_description",
+      "value": "HarmonyFeed 入口模块"
+    },
+    {
+      "name": "EntryAbility_description",
+      "value": "RSS/Atom 智能阅读器"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyFeed"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "获取 RSS 订阅源内容"
+    },
+    {
+      "name": "permission_network_reason",
+      "value": "检测网络状态"
+    },
+    {
+      "name": "tab_feeds",
+      "value": "订阅"
+    },
+    {
+      "name": "tab_articles",
+      "value": "文章"
+    },
+    {
+      "name": "tab_bookmarks",
+      "value": "收藏"
+    },
+    {
+      "name": "tab_settings",
+      "value": "设置"
+    },
+    {
+      "name": "add_feed_title",
+      "value": "添加订阅"
+    },
+    {
+      "name": "feed_url_hint",
+      "value": "输入 RSS/Atom 源地址"
+    },
+    {
+      "name": "refresh_all",
+      "value": "全部刷新"
+    },
+    {
+      "name": "mark_all_read",
+      "value": "全部已读"
+    },
+    {
+      "name": "no_articles",
+      "value": "暂无文章"
+    },
+    {
+      "name": "no_feeds",
+      "value": "还没有订阅源，点击 + 添加"
+    },
+    {
+      "name": "loading",
+      "value": "加载中..."
+    },
+    {
+      "name": "network_error",
+      "value": "网络请求失败，请检查网络连接"
+    },
+    {
+      "name": "parse_error",
+      "value": "无法解析该 Feed，请确认地址是否正确"
+    },
+    {
+      "name": "search_hint",
+      "value": "搜索文章..."
+    },
+    {
+      "name": "bookmarked",
+      "value": "已收藏"
+    },
+    {
+      "name": "bookmark",
+      "value": "收藏"
+    },
+    {
+      "name": "open_original",
+      "value": "查看原文"
+    },
+    {
+      "name": "settings_refresh_interval",
+      "value": "刷新间隔"
+    },
+    {
+      "name": "settings_theme",
+      "value": "主题"
+    },
+    {
+      "name": "settings_font_size",
+      "value": "字体大小"
+    },
+    {
+      "name": "settings_notification",
+      "value": "新文章通知"
+    },
+    {
+      "name": "settings_export_opml",
+      "value": "导出 OPML"
+    },
+    {
+      "name": "settings_import_opml",
+      "value": "导入 OPML"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "清除缓存"
+    },
+    {
+      "name": "discover_title",
+      "value": "发现订阅源"
+    },
+    {
+      "name": "popular_feeds",
+      "value": "热门订阅源"
+    }
+  ]
+}

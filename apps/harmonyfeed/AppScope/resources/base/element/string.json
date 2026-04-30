@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyFeed"
+    },
+    {
+      "name": "app_description",
+      "value": "RSS/Atom 智能阅读器，纯血鸿蒙原生体验"
+    }
+  ]
+}

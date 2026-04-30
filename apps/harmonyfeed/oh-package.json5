@@ -1,0 +1,8 @@
+{
+  "modelVersion": 5,
+  "description": "HarmonyFeed RSS/Atom 智能阅读器",
+  "packages": {},
+  "name": "harmonyfeed",
+  "version": "1.0.0",
+  "author": "chinadbo"
+}

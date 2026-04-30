@@ -1,0 +1,10 @@
+.hvigor/
+.cxx/
+build/
+node_modules/
+.idea/
+*.hap
+*.app
+*.p12
+*.csr
+signing/

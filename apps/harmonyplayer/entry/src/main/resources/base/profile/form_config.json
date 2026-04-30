@@ -1,0 +1,16 @@
+{
+  "forms": [
+    {
+      "name": "player_widget",
+      "displayName": "HarmonyPlayer",
+      "description": "当前播放控制卡片",
+      "src": "./ets/entryformability/EntryFormAbility.ets",
+      "uiSyntax": "arkts",
+      "isDefault": true,
+      "defaultDimension": "2*4",
+      "supportDimensions": ["2*4"],
+      "scheduledUpdateTime": "00:30",
+      "updateEnabled": false
+    }
+  ]
+}

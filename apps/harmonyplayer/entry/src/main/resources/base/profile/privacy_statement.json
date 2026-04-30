@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "app": "HarmonyPlayer",
+  "permissions": [
+    {
+      "name": "ohos.permission.READ_AUDIO",
+      "purpose": "读取本地音乐文件并构建播放列表",
+      "dataScope": "仅限本地设备音频文件元数据与路径",
+      "networkTransmission": false,
+      "thirdPartySharing": false
+    }
+  ],
+  "thirdPartySdk": [],
+  "statement": "HarmonyPlayer 仅申请 READ_AUDIO 权限用于扫描和播放本地音乐，不进行网络传输，也不集成第三方 SDK。"
+}

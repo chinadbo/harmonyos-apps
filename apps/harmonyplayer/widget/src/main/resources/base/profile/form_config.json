@@ -1,0 +1,15 @@
+{
+  "forms": [
+    {
+      "name": "player_widget",
+      "displayName": "HarmonyPlayer Widget",
+      "description": "HarmonyPlayer 桌面播放器卡片",
+      "src": "./ets/widget/EntryFormAbility.ets",
+      "uiSyntax": "arkts",
+      "isDefault": true,
+      "defaultDimension": "2*4",
+      "supportDimensions": ["2*4"],
+      "updateEnabled": false
+    }
+  ]
+}

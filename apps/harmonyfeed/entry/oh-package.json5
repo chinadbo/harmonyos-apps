@@ -1,0 +1,10 @@
+{
+  "modelVersion": 5,
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "HarmonyFeed 入口模块",
+  "main": "",
+  "author": "chinadbo",
+  "license": "MIT",
+  "dependencies": {}
+}

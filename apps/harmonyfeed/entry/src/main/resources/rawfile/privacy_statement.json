@@ -1,0 +1,21 @@
+{
+  "privacyStatement": {
+    "appName": "HarmonyFeed",
+    "version": "1.0.0",
+    "effectiveDate": "2026-04-28",
+    "dataCollection": [
+      {
+        "type": "网络访问",
+        "purpose": "获取用户主动订阅的 RSS/Atom Feed 内容",
+        "storage": "本地设备缓存",
+        "sharing": "不与第三方共享"
+      }
+    ],
+    "userRights": [
+      "用户可随时删除所有本地缓存数据",
+      "用户可导出/删除所有订阅源数据",
+      "不收集任何个人身份信息"
+    ],
+    "contact": "feedback@harmonyfeed.app"
+  }
+}
