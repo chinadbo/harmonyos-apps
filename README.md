@@ -11,6 +11,7 @@
 | 3 | 2026-04-26 | HarmonyTune | 音乐播放器 | ✅ |
 | 4 | 2026-04-28 | HarmonyFeed | RSS 阅读器 | 🚧 |
 | 5 | 2026-04-30 | HarmonyPlayer | 音乐播放器 | ✅ |
+| 6 | 2026-05-01 | HarmonyFocus | 番茄钟/专注计时 | ✅ |
 
 ## 技术栈
 
@@ -28,5 +29,6 @@ apps/
 ├── harmonyvault/
 ├── harmonytune/
 ├── harmonyfeed/
-└── harmonyplayer/
+├── harmonyplayer/
+└── harmony-focus/
 ```

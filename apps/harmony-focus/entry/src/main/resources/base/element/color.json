@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFF8F9FA"
+    },
+    {
+      "name": "focus_red",
+      "value": "#FFFF6B6B"
+    },
+    {
+      "name": "rest_green",
+      "value": "#FF51CF66"
+    },
+    {
+      "name": "primary_text",
+      "value": "#FF212529"
+    },
+    {
+      "name": "secondary_text",
+      "value": "#FF868E96"
+    },
+    {
+      "name": "surface",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "surface_alt",
+      "value": "#FFF1F3F5"
+    }
+  ]
+}

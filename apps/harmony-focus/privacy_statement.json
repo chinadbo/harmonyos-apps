@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "language": "zh-CN",
+  "appName": "HarmonyFocus",
+  "summary": "HarmonyFocus 仅在本地保存任务、番茄记录与设置，并在用户启用时发送本地通知。",
+  "dataCollection": [
+    {
+      "name": "任务与番茄记录",
+      "purpose": "保存用户的任务、专注记录与统计图表数据",
+      "storage": "local",
+      "shared": false
+    },
+    {
+      "name": "本地设置",
+      "purpose": "保存计时参数、白噪音和通知开关",
+      "storage": "local",
+      "shared": false
+    }
+  ],
+  "permissions": [
+    {
+      "name": "ohos.permission.POST_NOTIFICATIONS",
+      "purpose": "在计时结束时推送本地提醒通知"
+    }
+  ],
+  "contact": "support@example.com"
+}

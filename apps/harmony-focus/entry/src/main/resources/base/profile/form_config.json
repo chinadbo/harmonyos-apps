@@ -1,0 +1,22 @@
+{
+  "forms": [
+    {
+      "name": "HarmonyFocusWidget",
+      "description": "今日番茄与当前状态",
+      "src": "./ets/widget/pages/WidgetCard.ets",
+      "uiSyntax": "arkts",
+      "displayName": "$string:widget_name",
+      "isDefault": true,
+      "type": "arkts",
+      "colorMode": "auto",
+      "supportDimensions": [
+        1,
+        2
+      ],
+      "defaultDimension": 2,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "30",
+      "updateDuration": 30
+    }
+  ]
+}

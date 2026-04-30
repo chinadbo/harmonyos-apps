@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyFocus"
+    },
+    {
+      "name": "app_description",
+      "value": "HarmonyOS 番茄钟与专注管理应用"
+    }
+  ]
+}

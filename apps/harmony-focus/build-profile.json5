@@ -1,0 +1,55 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "strictMode": {
+      "useNormalizedOHMUrl": true
+    }
+  },
+  "app": {
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": "./signature/default.p12",
+          "storePassword": "123456",
+          "keyAlias": "debugKey",
+          "keyPassword": "123456",
+          "signAlg": "SHA256withECDSA",
+          "profile": "./signature/default.p7b",
+          "certpath": "./signature/default.cer"
+        }
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

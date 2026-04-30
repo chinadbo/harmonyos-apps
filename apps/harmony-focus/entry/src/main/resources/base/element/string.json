@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyFocus"
+    },
+    {
+      "name": "module_desc",
+      "value": "番茄钟、任务与统计一体化专注应用"
+    },
+    {
+      "name": "widget_name",
+      "value": "HarmonyFocus 小组件"
+    }
+  ]
+}
