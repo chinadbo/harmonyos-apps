@@ -1,0 +1,25 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "strictMode": {
+      "useNormalizedOHMUrl": true
+    }
+  },
+  "targets": [
+    {
+      "name": "default",
+      "runtimeOS": "HarmonyOS"
+    }
+  ],
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/AddTransaction",
+    "pages/TransactionDetail",
+    "pages/Statistics",
+    "pages/Budget",
+    "pages/CategoryManage",
+    "pages/Settings"
+  ]
+}

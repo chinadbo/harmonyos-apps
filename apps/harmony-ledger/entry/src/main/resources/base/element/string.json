@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "entry_ability_label",
+      "value": "HarmonyLedger"
+    },
+    {
+      "name": "entry_formability_label",
+      "value": "HarmonyLedger Widget"
+    },
+    {
+      "name": "add_transaction",
+      "value": "记一笔"
+    },
+    {
+      "name": "statistics",
+      "value": "统计"
+    },
+    {
+      "name": "budget",
+      "value": "预算"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    }
+  ]
+}

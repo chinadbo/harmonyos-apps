@@ -30,5 +30,6 @@ apps/
 ├── harmonytune/
 ├── harmonyfeed/
 ├── harmonyplayer/
-└── harmony-focus/
+├── harmony-focus/
+└── harmony-ledger/
 ```

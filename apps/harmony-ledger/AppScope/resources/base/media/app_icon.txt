@@ -1,0 +1,2 @@
+HarmonyLedger app icon placeholder.
+Replace with a valid image asset named app_icon in production.
