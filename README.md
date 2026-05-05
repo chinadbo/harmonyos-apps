@@ -12,10 +12,12 @@
 | 4 | 2026-04-28 | HarmonyFeed | RSS 阅读器 | 🚧 |
 | 5 | 2026-04-30 | HarmonyPlayer | 音乐播放器 | ✅ |
 | 6 | 2026-05-01 | HarmonyFocus | 番茄钟/专注计时 | ✅ |
+| 7 | 2026-05-04 | HarmonyLedger | 记账/预算管理 | ✅ |
+| 8 | 2026-05-06 | HarmonyHabit | 习惯追踪/打卡 | ✅ |
 
 ## 技术栈
 
-- HarmonyOS 5.0+ (API 16)
+- HarmonyOS 5.0+ (API 12)
 - ArkTS + ArkUI
 - 纯血鸿蒙原生开发（无跨平台框架）
 
@@ -31,5 +33,6 @@ apps/
 ├── harmonyfeed/
 ├── harmonyplayer/
 ├── harmony-focus/
-└── harmony-ledger/
+├── harmony-ledger/
+└── harmony-habit/
 ```

@@ -1,0 +1,15 @@
+{
+  "forms": [
+    {
+      "name": "HabitWidget",
+      "description": "HarmonyHabit 2x2 summary widget",
+      "src": "./ets/widget/HabitWidget.ets",
+      "uiSyntax": "arkts",
+      "isDefault": true,
+      "scheduledUpdateTime": "00:15",
+      "updateEnabled": true,
+      "defaultDimension": "2*2",
+      "supportDimensions": ["2*2"]
+    }
+  ]
+}

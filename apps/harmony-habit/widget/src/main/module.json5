@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "widget",
+    "type": "feature",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "extensionAbilities": [
+      {
+        "name": "HabitFormAbility",
+        "srcEntry": "./ets/formability/HabitFormAbility.ets",
+        "label": "$string:app_name",
+        "description": "HarmonyHabit widget form ability",
+        "type": "form",
+        "exported": true,
+        "metadata": [
+          {
+            "name": "ohos.extension.form",
+            "resource": "$profile:form_config"
+          }
+        ]
+      }
+    ]
+  }
+}

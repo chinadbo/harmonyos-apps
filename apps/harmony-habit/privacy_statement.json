@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "app": {
+    "name": "HarmonyHabit",
+    "bundleName": "com.chinadbo.harmonyhabit"
+  },
+  "privacy": {
+    "collectPersonalInfo": false,
+    "collectSensitiveInfo": false,
+    "shareWithThirdParties": false,
+    "dataItems": [
+      {
+        "name": "habit_data",
+        "purpose": "Store habits, check-in records, reminder settings, and local widget summary data on device only.",
+        "type": "local"
+      }
+    ],
+    "permissions": [
+      {
+        "name": "ohos.permission.PUBLISH_AGENT_REMINDER",
+        "purpose": "Schedule local reminderAgentManager reminders for habit check-ins."
+      }
+    ]
+  }
+}

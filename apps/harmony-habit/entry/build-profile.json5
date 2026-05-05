@@ -1,0 +1,8 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "strictMode": {
+      "useNormalizedOHMUrl": true
+    }
+  }
+}

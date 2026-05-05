@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyHabit"
+    },
+    {
+      "name": "entry_desc",
+      "value": "HarmonyHabit main module"
+    }
+  ]
+}
