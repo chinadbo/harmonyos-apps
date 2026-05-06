@@ -1,0 +1,9 @@
+{
+  "name": "harmonyweather",
+  "version": "1.0.0",
+  "description": "HarmonyWeather application built with HarmonyOS ArkTS.",
+  "main": "",
+  "author": "OpenClaw",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

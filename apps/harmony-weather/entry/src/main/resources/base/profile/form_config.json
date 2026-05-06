@@ -1,0 +1,19 @@
+{
+  "forms": [
+    {
+      "name": "weather_form",
+      "description": "$string:form_desc",
+      "src": "./ets/widget/pages/WeatherCard.ets",
+      "uiSyntax": "arkts",
+      "type": "eTS",
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "07:00",
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2",
+        "4*2"
+      ]
+    }
+  ]
+}

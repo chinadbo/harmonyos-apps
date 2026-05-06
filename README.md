@@ -14,6 +14,7 @@
 | 6 | 2026-05-01 | HarmonyFocus | 番茄钟/专注计时 | ✅ |
 | 7 | 2026-05-04 | HarmonyLedger | 记账/预算管理 | ✅ |
 | 8 | 2026-05-06 | HarmonyHabit | 习惯追踪/打卡 | ✅ |
+| 9 | 2026-05-07 | HarmonyWeather | 天气/气象 | ✅ |
 
 ## 技术栈
 
@@ -34,5 +35,6 @@ apps/
 ├── harmonyplayer/
 ├── harmony-focus/
 ├── harmony-ledger/
-└── harmony-habit/
+├── harmony-habit/
+└── harmony-weather/
 ```

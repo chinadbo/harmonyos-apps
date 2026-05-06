@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyWeather"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyWeather entry module"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "Weather experience and city management"
+    },
+    {
+      "name": "form_label",
+      "value": "Weather Card"
+    },
+    {
+      "name": "form_desc",
+      "value": "Current weather widget"
+    },
+    {
+      "name": "location_reason",
+      "value": "Used to fetch local weather automatically"
+    }
+  ]
+}
