@@ -1,0 +1,22 @@
+{
+  "string": [
+    { "name": "app_name", "value": "HarmonyRecipe" },
+    { "name": "module_desc", "value": "HarmonyRecipe 主模块" },
+    { "name": "EntryAbility_desc", "value": "HarmonyRecipe UIAbility" },
+    { "name": "notification_permission_reason", "value": "用于烹饪步骤倒计时结束后发送提醒通知" },
+    { "name": "tab_discover", "value": "发现" },
+    { "name": "tab_favorites", "value": "收藏" },
+    { "name": "tab_profile", "value": "我的" },
+    { "name": "discover_title", "value": "今日想做什么" },
+    { "name": "search_placeholder", "value": "搜索菜谱、食材或关键字" },
+    { "name": "favorite_empty", "value": "还没有收藏的菜谱" },
+    { "name": "profile_title", "value": "我的厨房" },
+    { "name": "start_cooking", "value": "开始烹饪" },
+    { "name": "ingredients", "value": "食材" },
+    { "name": "steps", "value": "步骤" },
+    { "name": "cook_time_unit", "value": "分钟" },
+    { "name": "servings_unit", "value": "人份" },
+    { "name": "timer_title", "value": "烹饪计时" },
+    { "name": "search_title", "value": "搜索菜谱" }
+  ]
+}

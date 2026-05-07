@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "app": "HarmonyRecipe",
+  "statement": "HarmonyRecipe 仅在本地保存食谱、收藏状态与烹饪计时提醒信息，不上传个人数据。",
+  "dataCollection": [
+    {
+      "name": "通知提醒",
+      "purpose": "用于烹饪计时结束时发送本地提醒通知",
+      "type": "device_permission",
+      "permission": "ohos.permission.NOTIFICATION",
+      "sharing": false
+    },
+    {
+      "name": "本地食谱数据",
+      "purpose": "用于存储预置食谱、收藏状态与检索索引",
+      "type": "local_storage",
+      "sharing": false
+    }
+  ]
+}

@@ -15,6 +15,7 @@
 | 7 | 2026-05-04 | HarmonyLedger | 记账/预算管理 | ✅ |
 | 8 | 2026-05-06 | HarmonyHabit | 习惯追踪/打卡 | ✅ |
 | 9 | 2026-05-07 | HarmonyWeather | 天气/气象 | ✅ |
+| 10 | 2026-05-08 | HarmonyRecipe | 食谱/菜谱/烹饪 | ✅ |
 
 ## 技术栈
 

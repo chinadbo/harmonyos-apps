@@ -1,0 +1,25 @@
+{
+  module: {
+    name: 'widget',
+    type: 'shared',
+    deviceTypes: ['phone', 'tablet'],
+    deliveryWithInstall: true,
+    installationFree: false,
+    extensionAbilities: [
+      {
+        name: 'RecipeWidgetAbility',
+        srcEntry: './ets/formability/RecipeWidgetAbility.ets',
+        label: '$string:widget_label',
+        description: '$string:widget_desc',
+        type: 'form',
+        exported: true,
+        metadata: [
+          {
+            name: 'ohos.extension.form',
+            resource: '$profile:form_config'
+          }
+        ]
+      }
+    ]
+  }
+}

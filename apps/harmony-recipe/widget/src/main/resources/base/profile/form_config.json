@@ -1,0 +1,16 @@
+{
+  "forms": [
+    {
+      "name": "recipe_widget",
+      "description": "HarmonyRecipe 今日推荐 2x2 卡片",
+      "src": "./ets/pages/WidgetCard.ets",
+      "uiSyntax": "arkts",
+      "isDefault": true,
+      "defaultDimension": "2*2",
+      "supportDimensions": ["2*2"],
+      "updateEnabled": true,
+      "scheduledUpdateTime": "08:00",
+      "updateDuration": 30
+    }
+  ]
+}

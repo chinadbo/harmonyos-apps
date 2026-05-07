@@ -1,0 +1,470 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "番茄炒蛋",
+      "category": "早餐",
+      "description": "经典家常菜，酸甜可口，营养丰富，5分钟上桌",
+      "cookTime": 10,
+      "servings": 2,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "番茄", "amount": "2个"},
+        {"name": "鸡蛋", "amount": "3个"},
+        {"name": "食盐", "amount": "适量"},
+        {"name": "食用油", "amount": "适量"},
+        {"name": "白糖", "amount": "少许"}
+      ],
+      "steps": [
+        {"index": 1, "description": "番茄洗净切块，鸡蛋打入碗中加少许盐打散", "duration": 120},
+        {"index": 2, "description": "热锅加油，倒入蛋液翻炒至半凝固，盛出备用", "duration": 90},
+        {"index": 3, "description": "同锅加油，放入番茄翻炒出汁，加盐和少许白糖调味", "duration": 120},
+        {"index": 4, "description": "倒入炒好的鸡蛋，翻炒均匀即可出锅", "duration": 60}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "皮蛋瘦肉粥",
+      "category": "早餐",
+      "description": "软糯香滑，皮蛋的特殊风味与瘦肉完美融合，暖胃早餐",
+      "cookTime": 45,
+      "servings": 3,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "大米", "amount": "100g"},
+        {"name": "皮蛋", "amount": "2个"},
+        {"name": "猪瘦肉", "amount": "100g"},
+        {"name": "生姜", "amount": "3片"},
+        {"name": "食盐", "amount": "适量"},
+        {"name": "香葱", "amount": "少许"}
+      ],
+      "steps": [
+        {"index": 1, "description": "大米淘洗后加少许盐腌制；瘦肉切丝，皮蛋切块", "duration": 300},
+        {"index": 2, "description": "锅中加水烧开，放入大米和生姜片，大火煮沸", "duration": 300},
+        {"index": 3, "description": "转小火慢煮30分钟，期间不断搅拌防粘锅", "duration": 1800},
+        {"index": 4, "description": "加入瘦肉丝和皮蛋，继续煮10分钟", "duration": 600},
+        {"index": 5, "description": "加盐调味，撒上香葱末即可", "duration": 60}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "煎蛋饼",
+      "category": "早餐",
+      "description": "外酥内软，简单快手，搭配豆浆或牛奶是完美的早餐组合",
+      "cookTime": 15,
+      "servings": 2,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "面粉", "amount": "150g"},
+        {"name": "鸡蛋", "amount": "2个"},
+        {"name": "清水", "amount": "200ml"},
+        {"name": "葱花", "amount": "适量"},
+        {"name": "食盐", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "面粉加水、盐调成面糊，静置10分钟", "duration": 600},
+        {"index": 2, "description": "热锅刷油，倒入适量面糊摊圆，小火加热", "duration": 120},
+        {"index": 3, "description": "面糊表面出现气泡时，打入鸡蛋，撒葱花", "duration": 60},
+        {"index": 4, "description": "翻面煎至两面金黄即可", "duration": 90}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "豆浆煮蛋",
+      "category": "早餐",
+      "description": "豆香浓郁，蛋白质丰富，营养均衡的健康早餐",
+      "cookTime": 15,
+      "servings": 2,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "鸡蛋", "amount": "4个"},
+        {"name": "豆浆", "amount": "500ml"},
+        {"name": "白糖", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "豆浆倒入锅中，小火加热至微沸", "duration": 300},
+        {"index": 2, "description": "轻轻打入鸡蛋，保持小火", "duration": 60},
+        {"index": 3, "description": "煮至鸡蛋熟透，根据口味加糖即可", "duration": 300}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "宫保鸡丁",
+      "category": "午餐",
+      "description": "麻辣鲜香，鸡肉嫩滑，花生酥脆，经典川菜",
+      "cookTime": 25,
+      "servings": 3,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "鸡胸肉", "amount": "300g"},
+        {"name": "干辣椒", "amount": "8个"},
+        {"name": "花生米", "amount": "50g"},
+        {"name": "葱段", "amount": "适量"},
+        {"name": "生抽", "amount": "2勺"},
+        {"name": "醋", "amount": "1勺"},
+        {"name": "糖", "amount": "1勺"}
+      ],
+      "steps": [
+        {"index": 1, "description": "鸡胸肉切丁，加生抽、淀粉腌制15分钟", "duration": 900},
+        {"index": 2, "description": "调碗汁：生抽+醋+糖+淀粉+少量水混合", "duration": 120},
+        {"index": 3, "description": "热油炒香干辣椒，倒入鸡丁翻炒至变色", "duration": 180},
+        {"index": 4, "description": "加入葱段和花生米，倒入碗汁翻炒均匀", "duration": 120}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "鱼香肉丝",
+      "category": "午餐",
+      "description": "酸甜咸辣，层次丰富，下饭神器，无鱼却有鱼香味的神奇川菜",
+      "cookTime": 20,
+      "servings": 3,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "猪里脊", "amount": "200g"},
+        {"name": "木耳", "amount": "50g"},
+        {"name": "青椒", "amount": "1个"},
+        {"name": "胡萝卜", "amount": "半根"},
+        {"name": "郫县豆瓣酱", "amount": "1勺"},
+        {"name": "姜蒜末", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "里脊切丝加盐淀粉腌制；木耳、胡萝卜、青椒切丝", "duration": 600},
+        {"index": 2, "description": "热油爆香姜蒜末，加豆瓣酱炒出红油", "duration": 120},
+        {"index": 3, "description": "倒入肉丝翻炒至变色", "duration": 120},
+        {"index": 4, "description": "加入其他配菜翻炒，调入生抽、醋、糖，大火收汁", "duration": 180}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "红烧肉",
+      "category": "午餐",
+      "description": "色泽红亮，肥而不腻，入口即化，苏式红烧肉经典配方",
+      "cookTime": 90,
+      "servings": 4,
+      "difficulty": "困难",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "五花肉", "amount": "500g"},
+        {"name": "生抽", "amount": "3勺"},
+        {"name": "老抽", "amount": "1勺"},
+        {"name": "冰糖", "amount": "30g"},
+        {"name": "料酒", "amount": "2勺"},
+        {"name": "八角", "amount": "2个"},
+        {"name": "桂皮", "amount": "1段"}
+      ],
+      "steps": [
+        {"index": 1, "description": "五花肉切块，焯水去腥，捞出备用", "duration": 300},
+        {"index": 2, "description": "锅中炒糖色：冰糖小火溶化至琥珀色", "duration": 300},
+        {"index": 3, "description": "放入肉块翻炒上色，加料酒去腥", "duration": 180},
+        {"index": 4, "description": "加生抽老抽、八角桂皮，加热水没过肉，大火烧开转小火", "duration": 300},
+        {"index": 5, "description": "小火焖煮60分钟，大火收汁至浓稠即可", "duration": 3600}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "蒜蓉西兰花",
+      "category": "午餐",
+      "description": "清脆爽口，蒜香四溢，简单健康，保留最多营养素",
+      "cookTime": 10,
+      "servings": 2,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "西兰花", "amount": "300g"},
+        {"name": "大蒜", "amount": "5瓣"},
+        {"name": "食盐", "amount": "适量"},
+        {"name": "食用油", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "西兰花掰成小朵，盐水浸泡10分钟洗净", "duration": 600},
+        {"index": 2, "description": "锅中烧开水，加盐加油，焯西兰花2分钟", "duration": 180},
+        {"index": 3, "description": "热锅加油，爆香蒜末，倒入西兰花大火翻炒", "duration": 120},
+        {"index": 4, "description": "加盐调味，翻炒均匀即可", "duration": 60}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "清蒸鱼",
+      "category": "午餐",
+      "description": "鱼肉鲜嫩，保留原汁原味，粤式家常做法",
+      "cookTime": 20,
+      "servings": 3,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "鲈鱼", "amount": "1条（约500g）"},
+        {"name": "生姜", "amount": "5片"},
+        {"name": "香葱", "amount": "适量"},
+        {"name": "蒸鱼豉油", "amount": "3勺"},
+        {"name": "食用油", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "鱼处理干净，鱼身划斜刀，放姜片腌制5分钟", "duration": 300},
+        {"index": 2, "description": "蒸锅烧开水，放入鱼大火蒸8分钟", "duration": 480},
+        {"index": 3, "description": "蒸好倒掉蒸鱼水，铺上葱丝姜丝", "duration": 60},
+        {"index": 4, "description": "淋上蒸鱼豉油，浇上烧热的油激香", "duration": 60}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "麻婆豆腐",
+      "category": "晚餐",
+      "description": "麻辣鲜香，豆腐嫩滑，配料丰富，下饭必备川菜",
+      "cookTime": 20,
+      "servings": 3,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "嫩豆腐", "amount": "400g"},
+        {"name": "猪肉末", "amount": "100g"},
+        {"name": "郫县豆瓣酱", "amount": "1.5勺"},
+        {"name": "花椒粉", "amount": "适量"},
+        {"name": "姜蒜末", "amount": "适量"},
+        {"name": "葱花", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "豆腐切块，用盐水浸泡5分钟，去腥增嫩", "duration": 300},
+        {"index": 2, "description": "热油炒香肉末，加豆瓣酱炒出红油", "duration": 180},
+        {"index": 3, "description": "加姜蒜末、高汤，放入豆腐块轻轻翻炒", "duration": 120},
+        {"index": 4, "description": "加生抽调味，水淀粉勾芡，撒花椒粉和葱花", "duration": 120}
+      ]
+    },
+    {
+      "id": 11,
+      "name": "糖醋排骨",
+      "category": "晚餐",
+      "description": "外酥内嫩，酸甜适口，老少皆宜的经典菜肴",
+      "cookTime": 50,
+      "servings": 3,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "猪排骨", "amount": "500g"},
+        {"name": "白糖", "amount": "3勺"},
+        {"name": "白醋", "amount": "3勺"},
+        {"name": "生抽", "amount": "2勺"},
+        {"name": "料酒", "amount": "1勺"},
+        {"name": "番茄酱", "amount": "2勺"}
+      ],
+      "steps": [
+        {"index": 1, "description": "排骨斩块焯水，捞出沥干", "duration": 300},
+        {"index": 2, "description": "锅中少油，排骨煎至两面金黄", "duration": 600},
+        {"index": 3, "description": "加料酒、生抽翻炒，加清水没过排骨，大火烧开", "duration": 300},
+        {"index": 4, "description": "转小火焖20分钟，加糖、醋、番茄酱翻炒均匀", "duration": 1200},
+        {"index": 5, "description": "大火收汁至浓稠，翻炒上色即可", "duration": 300}
+      ]
+    },
+    {
+      "id": 12,
+      "name": "蒸蛋羹",
+      "category": "晚餐",
+      "description": "嫩滑如豆腐，入口即化，老人孩子都爱的温柔料理",
+      "cookTime": 20,
+      "servings": 2,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "鸡蛋", "amount": "3个"},
+        {"name": "温水", "amount": "1:1.5比例"},
+        {"name": "食盐", "amount": "少许"},
+        {"name": "生抽", "amount": "少许"},
+        {"name": "香油", "amount": "几滴"}
+      ],
+      "steps": [
+        {"index": 1, "description": "鸡蛋打散，加盐，加1.5倍温水（约40°C）轻轻搅匀", "duration": 120},
+        {"index": 2, "description": "过筛去除气泡，用保鲜膜封口", "duration": 60},
+        {"index": 3, "description": "蒸锅上汽后放入，中火蒸12分钟", "duration": 720},
+        {"index": 4, "description": "取出后淋上生抽和香油，撒葱花点缀", "duration": 30}
+      ]
+    },
+    {
+      "id": 13,
+      "name": "土豆丝",
+      "category": "晚餐",
+      "description": "爽脆可口，简单家常，快炒保留最佳口感",
+      "cookTime": 10,
+      "servings": 2,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "土豆", "amount": "2个"},
+        {"name": "干辣椒", "amount": "3个"},
+        {"name": "食醋", "amount": "1勺"},
+        {"name": "食盐", "amount": "适量"},
+        {"name": "葱蒜", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "土豆切细丝，浸泡冷水10分钟去淀粉，捞出沥干", "duration": 600},
+        {"index": 2, "description": "热锅加油，爆香干辣椒和葱蒜", "duration": 60},
+        {"index": 3, "description": "倒入土豆丝，大火快炒2分钟", "duration": 120},
+        {"index": 4, "description": "加盐和醋翻炒均匀即可", "duration": 60}
+      ]
+    },
+    {
+      "id": 14,
+      "name": "青椒炒肉",
+      "category": "晚餐",
+      "description": "辣味十足，肉香四溢，最朴实的下饭组合",
+      "cookTime": 15,
+      "servings": 2,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "猪五花肉", "amount": "200g"},
+        {"name": "青椒", "amount": "3个"},
+        {"name": "豆豉", "amount": "1勺"},
+        {"name": "生抽", "amount": "1勺"},
+        {"name": "食盐", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "五花肉切薄片，青椒切块", "duration": 180},
+        {"index": 2, "description": "热锅少油，煸炒肉片至出油微焦", "duration": 180},
+        {"index": 3, "description": "加入豆豉和生抽翻炒", "duration": 60},
+        {"index": 4, "description": "倒入青椒大火翻炒2分钟，加盐调味出锅", "duration": 120}
+      ]
+    },
+    {
+      "id": 15,
+      "name": "葱花饼",
+      "category": "小吃",
+      "description": "外酥内软，葱香浓郁，街头最受欢迎的面食小吃",
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "面粉", "amount": "300g"},
+        {"name": "热水", "amount": "160ml"},
+        {"name": "香葱", "amount": "100g"},
+        {"name": "食盐", "amount": "适量"},
+        {"name": "食用油", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "面粉加热水揉成软面团，醒发15分钟", "duration": 900},
+        {"index": 2, "description": "面团擀薄，抹油撒盐，铺上葱花，卷起后盘成圆饼", "duration": 300},
+        {"index": 3, "description": "擀成薄饼，厚约3mm", "duration": 120},
+        {"index": 4, "description": "平底锅小火烙至两面金黄，按压有弹性即熟", "duration": 480}
+      ]
+    },
+    {
+      "id": 16,
+      "name": "老北京炸酱面",
+      "category": "小吃",
+      "description": "传统京味美食，酱香浓郁，配菜丰富，满满的老北京情怀",
+      "cookTime": 40,
+      "servings": 2,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "面条", "amount": "300g"},
+        {"name": "猪肉末", "amount": "200g"},
+        {"name": "干黄酱", "amount": "3勺"},
+        {"name": "甜面酱", "amount": "2勺"},
+        {"name": "黄瓜", "amount": "1根"},
+        {"name": "大葱", "amount": "1根"}
+      ],
+      "steps": [
+        {"index": 1, "description": "干黄酱和甜面酱用水稀释，大葱切丁，黄瓜切丝备用", "duration": 300},
+        {"index": 2, "description": "热锅少油炒香葱丁，加入肉末炒散炒熟", "duration": 180},
+        {"index": 3, "description": "倒入稀释好的酱，小火慢炒20分钟至浓稠起泡", "duration": 1200},
+        {"index": 4, "description": "煮面条至熟，捞出过冷水，码上配菜，浇上炸酱", "duration": 480}
+      ]
+    },
+    {
+      "id": 17,
+      "name": "鸡蛋灌饼",
+      "category": "小吃",
+      "description": "外脆内鲜，鸡蛋蔬菜样样俱全，北方街头最受欢迎的早点",
+      "cookTime": 20,
+      "servings": 2,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "面粉", "amount": "200g"},
+        {"name": "温水", "amount": "110ml"},
+        {"name": "鸡蛋", "amount": "2个"},
+        {"name": "生菜", "amount": "适量"},
+        {"name": "甜面酱", "amount": "适量"}
+      ],
+      "steps": [
+        {"index": 1, "description": "面粉加温水揉成软面团醒10分钟，分成剂子", "duration": 600},
+        {"index": 2, "description": "擀成薄饼，两张叠起，中间抹油", "duration": 180},
+        {"index": 3, "description": "饼铛小火烙，表面鼓起时，从侧面戳口灌入蛋液", "duration": 120},
+        {"index": 4, "description": "翻面烙熟，从中间剪开，抹酱夹生菜", "duration": 120}
+      ]
+    },
+    {
+      "id": 18,
+      "name": "芒果布丁",
+      "category": "甜品",
+      "description": "香甜软嫩，芒果香气浓郁，无需烤箱的简单甜品",
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "芒果", "amount": "2个（约400g果肉）"},
+        {"name": "吉利丁片", "amount": "10g"},
+        {"name": "淡奶油", "amount": "150ml"},
+        {"name": "白糖", "amount": "30g"},
+        {"name": "牛奶", "amount": "100ml"}
+      ],
+      "steps": [
+        {"index": 1, "description": "吉利丁片冷水泡软；芒果取果肉打成泥", "duration": 600},
+        {"index": 2, "description": "牛奶加糖小火加热至糖溶化，离火加吉利丁片搅匀", "duration": 180},
+        {"index": 3, "description": "加入芒果泥和淡奶油搅拌均匀", "duration": 120},
+        {"index": 4, "description": "倒入模具，冰箱冷藏4小时以上至凝固", "duration": 14400}
+      ]
+    },
+    {
+      "id": 19,
+      "name": "双皮奶",
+      "category": "甜品",
+      "description": "广式经典甜品，奶皮嫩滑，口感细腻，香甜不腻",
+      "cookTime": 40,
+      "servings": 3,
+      "difficulty": "中等",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "全脂牛奶", "amount": "500ml"},
+        {"name": "鸡蛋清", "amount": "3个"},
+        {"name": "白糖", "amount": "40g"}
+      ],
+      "steps": [
+        {"index": 1, "description": "牛奶倒碗中小火加热至表面结皮，让奶皮收缩成碗边", "duration": 600},
+        {"index": 2, "description": "从边缘将牛奶倒出，留奶皮在碗底", "duration": 120},
+        {"index": 3, "description": "倒出的牛奶加糖和打散的蛋清搅匀，过筛", "duration": 180},
+        {"index": 4, "description": "慢慢倒回有奶皮的碗中，让奶皮浮起", "duration": 60},
+        {"index": 5, "description": "蒸锅上汽后中火蒸15分钟，焖5分钟", "duration": 1200}
+      ]
+    },
+    {
+      "id": 20,
+      "name": "红豆汤",
+      "category": "甜品",
+      "description": "软糯香甜，暖胃养颜，简单易做的传统甜汤",
+      "cookTime": 60,
+      "servings": 4,
+      "difficulty": "简单",
+      "coverImage": "",
+      "ingredients": [
+        {"name": "红豆", "amount": "200g"},
+        {"name": "冰糖", "amount": "60g"},
+        {"name": "清水", "amount": "1500ml"},
+        {"name": "陈皮", "amount": "1片（可选）"}
+      ],
+      "steps": [
+        {"index": 1, "description": "红豆提前浸泡4-8小时，冲洗干净", "duration": 28800},
+        {"index": 2, "description": "红豆放入锅中，加足量清水和陈皮，大火烧开", "duration": 300},
+        {"index": 3, "description": "转小火煮45分钟至红豆软烂", "duration": 2700},
+        {"index": 4, "description": "加入冰糖，搅拌至溶化即可", "duration": 120}
+      ]
+    }
+  ]
+}
