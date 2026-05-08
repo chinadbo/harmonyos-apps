@@ -1,0 +1,10 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "HarmonyFlash - 间隔重复单词闪卡学习 App",
+  "homePage": "https://github.com/chinadbo/harmonyos-apps",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.16"
+  }
+}

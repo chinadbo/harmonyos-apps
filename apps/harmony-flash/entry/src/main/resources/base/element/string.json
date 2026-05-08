@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyFlash entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Flash card learning app"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyFlash"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "每日单词"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "每日单词 Widget"
+    },
+    {
+      "name": "form_description",
+      "value": "显示今日单词"
+    }
+  ]
+}

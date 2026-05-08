@@ -1,0 +1,13 @@
+{
+  "privacyStatementVersion": "1.0",
+  "privacyStatement": {
+    "zh": "HarmonyFlash 不收集任何个人信息。所有学习数据（词库、卡片、学习记录）仅存储在您的设备本地，不会上传到任何服务器。应用不需要网络访问权限。",
+    "en": "HarmonyFlash does not collect any personal information. All learning data (decks, cards, study records) is stored locally on your device and is never uploaded to any server. The app requires no network access permissions."
+  },
+  "dataCollection": {
+    "collectsPersonalData": false,
+    "collectsLocation": false,
+    "collectsContacts": false,
+    "collectsFiles": false
+  }
+}
