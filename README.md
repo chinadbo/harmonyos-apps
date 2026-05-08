@@ -16,6 +16,7 @@
 | 8 | 2026-05-06 | HarmonyHabit | 习惯追踪/打卡 | ✅ |
 | 9 | 2026-05-07 | HarmonyWeather | 天气/气象 | ✅ |
 | 10 | 2026-05-08 | HarmonyRecipe | 食谱/菜谱/烹饪 | ✅ |
+| 11 | 2026-05-09 | HarmonyFlash | 单词闪卡/间隔重复 | ✅ |
 
 ## 技术栈
 
@@ -37,5 +38,7 @@ apps/
 ├── harmony-focus/
 ├── harmony-ledger/
 ├── harmony-habit/
-└── harmony-weather/
+├── harmony-weather/
+├── harmony-recipe/
+└── harmony-flash/
 ```
