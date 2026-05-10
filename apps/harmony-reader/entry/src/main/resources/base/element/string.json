@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyReader"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyReader entry module"
+    },
+    {
+      "name": "entry_desc",
+      "value": "HarmonyReader main ability"
+    }
+  ]
+}

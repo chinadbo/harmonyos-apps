@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "statement": {
+    "title": "HarmonyReader 隐私声明",
+    "content": [
+      "HarmonyReader 仅在用户主动选择文件时访问文本文件。",
+      "导入的 txt 文件会复制到应用沙箱中用于阅读、解析章节和保存阅读进度。",
+      "应用不会上传书籍内容、书签或阅读记录到任何远程服务器。"
+    ],
+    "contact": "support@chinadbo.com"
+  }
+}

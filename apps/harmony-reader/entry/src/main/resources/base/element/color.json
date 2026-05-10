@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFF7F7F7"
+    },
+    {
+      "name": "reader_light_background",
+      "value": "#FFF7F4ED"
+    },
+    {
+      "name": "reader_eye_background",
+      "value": "#FFEAF4E1"
+    },
+    {
+      "name": "reader_dark_background",
+      "value": "#FF1E1F22"
+    },
+    {
+      "name": "reader_dark_text",
+      "value": "#FFF4F4F4"
+    }
+  ]
+}
