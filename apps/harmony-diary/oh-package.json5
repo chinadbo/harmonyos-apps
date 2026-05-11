@@ -1,0 +1,6 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "HarmonyDiary encrypted diary and mood tracking app",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

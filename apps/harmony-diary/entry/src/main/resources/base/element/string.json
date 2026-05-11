@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyDiary"
+    },
+    {
+      "name": "module_desc",
+      "value": "Encrypted diary and mood tracker"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "HarmonyDiary main ability"
+    },
+    {
+      "name": "permission_read_images_reason",
+      "value": "Used to select diary photos from the system album"
+    }
+  ]
+}

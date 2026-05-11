@@ -18,6 +18,7 @@
 | 10 | 2026-05-08 | HarmonyRecipe | 食谱/菜谱/烹饪 | ✅ |
 | 11 | 2026-05-09 | HarmonyFlash | 单词闪卡/间隔重复 | ✅ |
 | 12 | 2026-05-11 | HarmonyReader | 电子书阅读器 | ✅ |
+| 13 | 2026-05-12 | HarmonyDiary | 日记/心情记录 | ✅ |
 
 ## 技术栈
 
@@ -42,5 +43,6 @@ apps/
 ├── harmony-weather/
 ├── harmony-recipe/
 ├── harmony-flash/
-└── harmony-reader/
+├── harmony-reader/
+└── harmony-diary/
 ```

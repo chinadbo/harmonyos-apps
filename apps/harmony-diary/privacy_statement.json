@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "app": "HarmonyDiary",
+  "locale": "zh-CN",
+  "dataCollection": [
+    {
+      "name": "日记标题与正文",
+      "purpose": "用于本地保存用户的日记内容",
+      "storage": "本地关系型数据库，加密后存储",
+      "shared": false
+    },
+    {
+      "name": "图片文件",
+      "purpose": "用于为日记附加配图",
+      "storage": "复制到应用沙箱目录",
+      "shared": false
+    },
+    {
+      "name": "搜索摘要索引",
+      "purpose": "用于本地全文搜索标题和正文前100字",
+      "storage": "本地 FTS5 索引表",
+      "shared": false
+    }
+  ],
+  "permissions": [
+    {
+      "name": "ohos.permission.READ_IMAGEVIDEO",
+      "purpose": "允许用户主动从系统相册选择图片作为日记配图"
+    }
+  ],
+  "networkAccess": false,
+  "thirdPartySharing": false
+}
