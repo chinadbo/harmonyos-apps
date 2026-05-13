@@ -1,0 +1,26 @@
+{
+  "forms": [
+    {
+      "name": "Widget2x2Card",
+      "description": "HarmonyCountdown 2x2 widget",
+      "src": "./ets/widgets/Widget2x2Card",
+      "uiSyntax": "arkts",
+      "isDefault": true,
+      "defaultDimension": "2*2",
+      "supportDimensions": ["2*2"],
+      "scheduledUpdateTime": "00:00",
+      "updateDuration": 0
+    },
+    {
+      "name": "Widget4x4Card",
+      "description": "HarmonyCountdown 4x4 widget",
+      "src": "./ets/widgets/Widget4x4Card",
+      "uiSyntax": "arkts",
+      "isDefault": false,
+      "defaultDimension": "4*4",
+      "supportDimensions": ["4*4"],
+      "scheduledUpdateTime": "00:00",
+      "updateDuration": 0
+    }
+  ]
+}

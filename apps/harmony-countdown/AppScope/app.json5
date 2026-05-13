@@ -1,0 +1,9 @@
+{
+  "app": {
+    "bundleName": "com.chinadbo.harmonycountdown",
+    "vendor": "chinadbo",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "label": "$string:app_name"
+  }
+}

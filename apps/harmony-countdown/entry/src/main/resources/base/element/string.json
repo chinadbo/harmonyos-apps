@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyCountdown"
+    },
+    {
+      "name": "entry_desc",
+      "value": "Countdown and anniversary manager"
+    }
+  ]
+}

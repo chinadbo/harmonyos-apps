@@ -1,0 +1,30 @@
+{
+  "app": {
+    "name": "HarmonyCountdown",
+    "bundleName": "com.chinadbo.harmonycountdown"
+  },
+  "privacy": {
+    "summary": "HarmonyCountdown 仅在本地保存倒计时事件，并在用户开启提醒时调用系统级日历提醒能力。",
+    "dataCollection": [
+      {
+        "name": "倒计时事件",
+        "purpose": "保存标题、目标日期、备注、提醒时间和重复规则，用于展示倒计时和生成桌面卡片。",
+        "storage": "本地 RDB 数据库 countdown.db",
+        "shared": false
+      },
+      {
+        "name": "桌面卡片实例标识",
+        "purpose": "记录当前已创建的桌面卡片 formId，并在数据更新后刷新卡片。",
+        "storage": "本地 Preferences",
+        "shared": false
+      }
+    ],
+    "permissions": [
+      {
+        "name": "ohos.permission.PUBLISH_AGENT_REMINDER",
+        "purpose": "发布系统级纪念日提醒。"
+      }
+    ],
+    "thirdPartySharing": "不向第三方服务上传用户事件数据；分享卡片时仅通过系统分享面板由用户自行选择目标应用。"
+  }
+}

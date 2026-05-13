@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "widget",
+    "type": "feature",
+    "description": "$string:widget_desc",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "extensionAbilities": [
+      {
+        "name": "WidgetAbility",
+        "srcEntry": "./ets/widgets/WidgetAbility.ets",
+        "description": "$string:widget_desc",
+        "type": "form",
+        "exported": true,
+        "metadata": [
+          {
+            "name": "ohos.extension.form",
+            "resource": "$profile:form_config"
+          }
+        ]
+      }
+    ]
+  }
+}

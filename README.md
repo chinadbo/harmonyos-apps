@@ -19,6 +19,7 @@
 | 11 | 2026-05-09 | HarmonyFlash | 单词闪卡/间隔重复 | ✅ |
 | 12 | 2026-05-11 | HarmonyReader | 电子书阅读器 | ✅ |
 | 13 | 2026-05-12 | HarmonyDiary | 日记/心情记录 | ✅ |
+| 14 | 2026-05-14 | HarmonyCountdown | 倒计时/纪念日 | ✅ |
 
 ## 技术栈
 
@@ -44,5 +45,6 @@ apps/
 ├── harmony-recipe/
 ├── harmony-flash/
 ├── harmony-reader/
-└── harmony-diary/
+├── harmony-diary/
+└── harmony-countdown/
 ```

@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/CalendarPage",
+    "pages/EditPage",
+    "pages/DetailPage",
+    "pages/SettingPage"
+  ]
+}
