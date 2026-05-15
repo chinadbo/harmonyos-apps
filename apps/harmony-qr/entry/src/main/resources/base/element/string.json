@@ -1,0 +1,22 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyQR"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyQR entry module"
+    },
+    {
+      "name": "entry_desc",
+      "value": "HarmonyQR ability"
+    }
+  ],
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFF7F8FA"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/ScanPage",
+    "pages/GeneratePage",
+    "pages/HistoryPage",
+    "pages/ResultPage"
+  ]
+}

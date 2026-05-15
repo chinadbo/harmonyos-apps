@@ -48,3 +48,5 @@ apps/
 ├── harmony-diary/
 └── harmony-countdown/
 ```
+
+| 2026-05-16 | HarmonyQR | 二维码工具 | 扫码+生成+历史管理，customScan+RDB | apps/harmony-qr |

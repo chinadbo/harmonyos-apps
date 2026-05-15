@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "app": "HarmonyQR",
+  "bundleName": "com.harmonyqr.app",
+  "privacy": [
+    {
+      "permission": "ohos.permission.CAMERA",
+      "reason": "Used to scan QR codes in ScanPage.",
+      "usedScene": "In-use while scanning QR codes."
+    },
+    {
+      "permission": "ohos.permission.READ_IMAGEVIDEO",
+      "reason": "Used to read generated QR code images from the photo library.",
+      "usedScene": "In-use while selecting or sharing QR code images."
+    },
+    {
+      "permission": "ohos.permission.WRITE_IMAGEVIDEO",
+      "reason": "Used to save generated QR code images to the photo library.",
+      "usedScene": "In-use while saving QR code images."
+    }
+  ]
+}

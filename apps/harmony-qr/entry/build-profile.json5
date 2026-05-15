@@ -1,0 +1,13 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "arkOptions": {
+      "apPath": "./modules.ap"
+    }
+  },
+  "targets": [
+    {
+      "name": "default"
+    }
+  ]
+}
