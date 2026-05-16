@@ -1,0 +1,11 @@
+{
+  "appId": "com.chinadbo.harmonyfit",
+  "stepsDataCollection": {
+    "collected": true,
+    "purpose": "计步功能，仅本地存储，不上传",
+    "storageLocation": "local"
+  },
+  "permissionsRequired": ["ohos.permission.ACTIVITY_MOTION"],
+  "dataSharing": false,
+  "contactInfo": "chinadbo@example.com"
+}

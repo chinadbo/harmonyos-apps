@@ -1,0 +1,9 @@
+{
+  "name": "harmonyfit",
+  "version": "1.0.0",
+  "description": "HarmonyFit - 健康运动记录",
+  "main": "",
+  "author": "chinadbo",
+  "license": "MIT",
+  "dependencies": {}
+}
