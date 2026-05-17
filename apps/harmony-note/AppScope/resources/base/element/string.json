@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyNote"
+    },
+    {
+      "name": "app_desc",
+      "value": "鸿蒙原生 Markdown 笔记应用"
+    }
+  ]
+}

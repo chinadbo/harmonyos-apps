@@ -1,0 +1,9 @@
+{
+  "name": "harmony-note",
+  "version": "1.0.0",
+  "description": "HarmonyOS Markdown Note App",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

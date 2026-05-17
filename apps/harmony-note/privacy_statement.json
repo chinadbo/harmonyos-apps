@@ -1,0 +1,22 @@
+{
+  "project": "HarmonyNote",
+  "bundleName": "com.harmony.note",
+  "version": "1.0.0",
+  "dataCollection": [
+    {
+      "name": "本地笔记内容",
+      "purpose": "用于在本地设备中保存与展示用户创建的 Markdown 笔记",
+      "storage": "仅保存在应用沙箱目录中，不上传到网络服务",
+      "shared": false
+    },
+    {
+      "name": "笔记分类信息",
+      "purpose": "用于在本地维护笔记本与分类管理能力",
+      "storage": "仅保存在应用沙箱目录中，不上传到网络服务",
+      "shared": false
+    }
+  ],
+  "permissions": [],
+  "networkAccess": false,
+  "contact": "local-only"
+}

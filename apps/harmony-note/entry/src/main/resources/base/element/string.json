@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyNote main module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyNote entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyNote"
+    },
+    {
+      "name": "page_home_title",
+      "value": "HarmonyNote"
+    },
+    {
+      "name": "action_save",
+      "value": "保存"
+    },
+    {
+      "name": "action_preview",
+      "value": "预览"
+    },
+    {
+      "name": "action_search",
+      "value": "搜索"
+    }
+  ]
+}
