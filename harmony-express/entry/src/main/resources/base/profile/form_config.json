@@ -1,0 +1,18 @@
+{
+  "forms": [
+    {
+      "name": "express_status_form",
+      "description": "$string:widget_desc",
+      "type": "JS",
+      "uiSyntax": "arkts",
+      "isDefault": true,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2"
+      ],
+      "updateEnabled": true,
+      "scheduledUpdateTime": "08:00",
+      "updateDuration": 30
+    }
+  ]
+}

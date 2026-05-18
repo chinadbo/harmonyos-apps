@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Harmony Express"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyOS NEXT 快递追踪应用"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "Harmony Express 主入口"
+    },
+    {
+      "name": "widget_name",
+      "value": "快递卡片"
+    },
+    {
+      "name": "widget_desc",
+      "value": "展示最近一个快递状态的服务卡片"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.preview/
+build/
+.hvigorrc.json
+node_modules/
+*.hap
+*.app
+.cxx/
+.mc/
