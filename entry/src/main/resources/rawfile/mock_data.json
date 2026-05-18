@@ -1,0 +1,83 @@
+{
+  "SF1234567890": {
+    "courierCode": "SF",
+    "courierName": "顺丰速运",
+    "status": 3,
+    "events": [
+      {
+        "time": "2026-05-19 09:18",
+        "location": "深圳市南山区",
+        "description": "快件已签收，签收人：前台代收",
+        "eventType": "SIGNED"
+      },
+      {
+        "time": "2026-05-19 08:10",
+        "location": "深圳市南山区",
+        "description": "快件派送中，派件员正在前往收件地址",
+        "eventType": "DELIVERING"
+      },
+      {
+        "time": "2026-05-18 23:40",
+        "location": "深圳转运中心",
+        "description": "快件已到达深圳转运中心",
+        "eventType": "ARRIVED"
+      },
+      {
+        "time": "2026-05-18 16:15",
+        "location": "广州航空中心",
+        "description": "快件已装车发往深圳",
+        "eventType": "SHIPPED"
+      }
+    ]
+  },
+  "JDVA12345678901": {
+    "courierCode": "JD",
+    "courierName": "京东物流",
+    "status": 2,
+    "events": [
+      {
+        "time": "2026-05-19 10:03",
+        "location": "杭州市余杭区",
+        "description": "包裹正在派送，预计今日送达",
+        "eventType": "DELIVERING"
+      },
+      {
+        "time": "2026-05-19 06:35",
+        "location": "杭州分拣中心",
+        "description": "包裹已离开分拣中心，交由配送员",
+        "eventType": "OUT_FOR_DELIVERY"
+      },
+      {
+        "time": "2026-05-18 20:26",
+        "location": "上海亚一仓",
+        "description": "包裹已发货，正在送往杭州",
+        "eventType": "SHIPPED"
+      }
+    ]
+  },
+  "YT202605190001": {
+    "courierCode": "YT",
+    "courierName": "圆通速递",
+    "status": 1,
+    "events": [
+      {
+        "time": "2026-05-19 07:50",
+        "location": "南京转运中心",
+        "description": "快件已发出，下一站无锡转运中心",
+        "eventType": "IN_TRANSIT"
+      },
+      {
+        "time": "2026-05-18 22:45",
+        "location": "南京转运中心",
+        "description": "快件已到达南京转运中心",
+        "eventType": "ARRIVED"
+      },
+      {
+        "time": "2026-05-18 14:20",
+        "location": "上海青浦区",
+        "description": "商家已发货，圆通已揽件",
+        "eventType": "PICKED_UP"
+      }
+    ]
+  }
+}
