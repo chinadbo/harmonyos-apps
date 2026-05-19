@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyCalc"
+    },
+    {
+      "name": "tab_standard",
+      "value": "标准"
+    },
+    {
+      "name": "tab_scientific",
+      "value": "科学"
+    },
+    {
+      "name": "tab_unit",
+      "value": "单位"
+    },
+    {
+      "name": "tab_currency",
+      "value": "汇率"
+    },
+    {
+      "name": "history",
+      "value": "历史记录"
+    },
+    {
+      "name": "clear",
+      "value": "清空"
+    },
+    {
+      "name": "refresh",
+      "value": "刷新"
+    },
+    {
+      "name": "loading",
+      "value": "加载中..."
+    },
+    {
+      "name": "no_history",
+      "value": "暂无历史记录"
+    }
+  ]
+}

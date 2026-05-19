@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "app_background",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "button_number",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "button_operator",
+      "value": "#FF9F0A"
+    },
+    {
+      "name": "button_function",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "card_background",
+      "value": "#242426"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#A0A0A5"
+    },
+    {
+      "name": "divider",
+      "value": "#3A3A3C"
+    }
+  ]
+}
