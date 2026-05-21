@@ -1,0 +1,26 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "HarmonyPhoto Module" },
+    { "name": "EntryAbility_desc", "value": "HarmonyPhoto App" },
+    { "name": "permission_read_imagevideo_reason", "value": "访问相册以浏览和编辑照片" },
+    { "name": "permission_write_imagevideo_reason", "value": "保存编辑后的照片到相册" },
+    { "name": "tab_gallery", "value": "相册" },
+    { "name": "tab_edit", "value": "编辑" },
+    { "name": "tab_favorite", "value": "收藏" },
+    { "name": "gallery_title", "value": "相册" },
+    { "name": "select", "value": "选择" },
+    { "name": "done", "value": "完成" },
+    { "name": "favorite", "value": "收藏" },
+    { "name": "unfavorite", "value": "已收藏" },
+    { "name": "edit", "value": "编辑" },
+    { "name": "share", "value": "分享" },
+    { "name": "delete", "value": "删除" },
+    { "name": "back", "value": "返回" },
+    { "name": "save", "value": "保存" },
+    { "name": "no_image_selected", "value": "点击选择照片" },
+    { "name": "filter_brightness", "value": "亮度" },
+    { "name": "filter_contrast", "value": "对比度" },
+    { "name": "filter_saturate", "value": "饱和度" },
+    { "name": "filter_blur", "value": "模糊" }
+  ]
+}

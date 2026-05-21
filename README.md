@@ -57,3 +57,4 @@ apps/
 | 2026-05-16 | HarmonyQR | 二维码工具 | 扫码+生成+历史管理，customScan+RDB | apps/harmony-qr |
 
 | 2026-05-18 | [HarmonyNote](apps/harmony-note) | Markdown笔记/效率工具 | ✅ completed |
+| HarmonyPhoto | 相册管理/照片编辑/滤镜 | [apps/harmony-photo](apps/harmony-photo) | 2026-05-22 |

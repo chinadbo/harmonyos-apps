@@ -1,0 +1,9 @@
+{
+  "name": "harmony-photo",
+  "version": "1.0.0",
+  "description": "HarmonyPhoto - 相册管理与照片编辑 App",
+  "main": "",
+  "author": "chinadbo",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

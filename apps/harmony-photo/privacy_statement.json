@@ -1,0 +1,22 @@
+{
+  "privacyStatements": [
+    {
+      "locale": "zh-CN",
+      "label": "隐私声明",
+      "url": ""
+    }
+  ],
+  "permissionUsages": [
+    {
+      "permissionName": "ohos.permission.READ_IMAGEVIDEO",
+      "usages": [
+        {
+          "reason": "访问您的相册以显示和编辑照片",
+          "scene": {
+            "scenario": "inuse"
+          }
+        }
+      ]
+    }
+  ]
+}
