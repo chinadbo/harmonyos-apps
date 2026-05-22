@@ -1,0 +1,12 @@
+{
+  "privacyStatement": {
+    "version": "1.0.0",
+    "permissions": [
+      {
+        "permission": "ohos.permission.READ_MEDIA",
+        "reason": "HarmonyFiles requires read access to your device media storage in order to browse, search, and display files and folders. No files are uploaded, shared, or modified without explicit user action. Access is only requested while the app is in use.",
+        "usedScene": "inuse"
+      }
+    ]
+  }
+}

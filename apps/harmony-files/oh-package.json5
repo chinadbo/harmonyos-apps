@@ -1,0 +1,9 @@
+{
+  "name": "harmony-files",
+  "version": "1.0.0",
+  "description": "HarmonyOS File Manager App",
+  "main": "",
+  "author": "chinadbo",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyFiles entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyFiles main ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyFiles"
+    },
+    {
+      "name": "read_media_reason",
+      "value": "HarmonyFiles needs access to your media files to browse and manage them."
+    },
+    {
+      "name": "write_media_reason",
+      "value": "HarmonyFiles needs write access to your media files to save and manage them."
+    },
+    {
+      "name": "empty_folder",
+      "value": "This folder is empty"
+    },
+    {
+      "name": "no_preview",
+      "value": "No preview available"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "Search files and folders..."
+    }
+  ]
+}
