@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_primary",
+      "value": "#007DFF"
+    },
+    {
+      "name": "color_on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_surface",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "color_on_surface",
+      "value": "#182431"
+    },
+    {
+      "name": "color_on_surface_secondary",
+      "value": "#99182431"
+    },
+    {
+      "name": "color_divider",
+      "value": "#33182431"
+    },
+    {
+      "name": "badge_text",
+      "value": "#FF6B00"
+    },
+    {
+      "name": "badge_url",
+      "value": "#007DFF"
+    },
+    {
+      "name": "badge_email",
+      "value": "#009688"
+    },
+    {
+      "name": "badge_phone",
+      "value": "#9C27B0"
+    },
+    {
+      "name": "badge_json",
+      "value": "#FF9800"
+    },
+    {
+      "name": "badge_private",
+      "value": "#F44336"
+    },
+    {
+      "name": "color_favorite_active",
+      "value": "#FFB300"
+    },
+    {
+      "name": "color_favorite_inactive",
+      "value": "#99182431"
+    },
+    {
+      "name": "color_delete",
+      "value": "#FA2A2D"
+    },
+    {
+      "name": "color_card_bg",
+      "value": "#FFFFFF"
+    }
+  ]
+}

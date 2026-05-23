@@ -1,0 +1,14 @@
+{
+  "privacyStatements": [
+    {
+      "language": "zh-Hans",
+      "privacyStatement": "HarmonyClip（智能剪贴板管理器）隐私声明\n\n1. 数据收集与使用\n   本应用通过用户主动点击「粘贴」按钮获取剪贴板内容，不会在后台自动读取剪贴板。\n   收集的剪贴板内容仅存储在本设备的本地数据库中，用于提供历史记录查询功能。\n\n2. 隐私内容保护\n   应用会自动检测包含手机号、身份证号等隐私内容，并以「●●●」方式脱敏显示。\n\n3. 数据分享\n   开启分布式功能时，剪贴板历史将在您的账号登录的多台设备间同步。\n   数据不会上传至第三方服务器。\n\n4. 数据清除\n   您可随时在「设置」页面清空全部历史记录，或设置自动过期天数。\n\n5. 权限说明\n   - DISTRIBUTED_DATASYNC：用于跨设备同步剪贴板历史（可选功能）。\n   - 本应用不申请 READ_PASTEBOARD 权限，通过系统 PasteButton 零权限读取剪贴板。\n\n如有疑问，请联系开发者。",
+      "url": ""
+    },
+    {
+      "language": "en-US",
+      "privacyStatement": "HarmonyClip Privacy Statement\n\n1. Data Collection\n   This app reads clipboard content only when the user actively taps the Paste button. It does not access clipboard data in the background.\n\n2. Data Storage\n   Clipboard history is stored locally on your device only.\n\n3. Privacy Protection\n   Phone numbers and ID numbers are automatically masked with '●●●'.\n\n4. Data Sharing\n   When distributed sync is enabled, clipboard history syncs across your signed-in devices.\n   No data is uploaded to third-party servers.\n\n5. Permissions\n   - DISTRIBUTED_DATASYNC: For cross-device sync (optional).\n   - No READ_PASTEBOARD permission is requested; PasteButton is used instead.",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyClip 主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "智能剪贴板管理器"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyClip"
+    },
+    {
+      "name": "permission_distributed_reason",
+      "value": "用于在您的多台设备之间同步剪贴板历史记录"
+    },
+    {
+      "name": "page_home",
+      "value": "剪贴板"
+    },
+    {
+      "name": "page_favorites",
+      "value": "收藏夹"
+    },
+    {
+      "name": "page_settings",
+      "value": "设置"
+    },
+    {
+      "name": "tab_all",
+      "value": "全部"
+    },
+    {
+      "name": "tab_text",
+      "value": "文本"
+    },
+    {
+      "name": "tab_url",
+      "value": "链接"
+    },
+    {
+      "name": "tab_email",
+      "value": "邮箱"
+    },
+    {
+      "name": "tab_phone",
+      "value": "手机"
+    },
+    {
+      "name": "tab_json",
+      "value": "JSON"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索剪贴板历史…"
+    },
+    {
+      "name": "paste_button_label",
+      "value": "粘贴"
+    },
+    {
+      "name": "empty_history_title",
+      "value": "暂无记录"
+    },
+    {
+      "name": "empty_history_desc",
+      "value": "点击上方粘贴按钮读取剪贴板内容"
+    },
+    {
+      "name": "empty_favorites_title",
+      "value": "暂无收藏"
+    },
+    {
+      "name": "empty_favorites_desc",
+      "value": "在历史记录中点击星标收藏重要内容"
+    },
+    {
+      "name": "empty_search_title",
+      "value": "未找到相关记录"
+    },
+    {
+      "name": "empty_search_desc",
+      "value": "换个关键词试试"
+    },
+    {
+      "name": "swipe_delete",
+      "value": "删除"
+    },
+    {
+      "name": "settings_retention_days",
+      "value": "保留天数"
+    },
+    {
+      "name": "settings_distributed",
+      "value": "分布式同步"
+    },
+    {
+      "name": "settings_distributed_desc",
+      "value": "在账号下多台设备间同步历史记录"
+    },
+    {
+      "name": "settings_clear_history",
+      "value": "清空历史记录"
+    },
+    {
+      "name": "settings_clear_confirm_title",
+      "value": "确认清空"
+    },
+    {
+      "name": "settings_clear_confirm_msg",
+      "value": "将删除全部剪贴板历史（收藏内容不受影响），此操作不可恢复。"
+    },
+    {
+      "name": "settings_clear_confirm_btn",
+      "value": "清空"
+    },
+    {
+      "name": "btn_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "btn_confirm",
+      "value": "确认"
+    },
+    {
+      "name": "days_7",
+      "value": "7 天"
+    },
+    {
+      "name": "days_30",
+      "value": "30 天"
+    },
+    {
+      "name": "days_90",
+      "value": "90 天"
+    },
+    {
+      "name": "copy_success",
+      "value": "已复制到剪贴板"
+    },
+    {
+      "name": "private_content",
+      "value": "隐私内容"
+    }
+  ]
+}

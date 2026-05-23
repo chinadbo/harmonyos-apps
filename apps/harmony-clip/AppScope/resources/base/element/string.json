@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyClip"
+    },
+    {
+      "name": "app_desc",
+      "value": "智能剪贴板管理器"
+    }
+  ]
+}
