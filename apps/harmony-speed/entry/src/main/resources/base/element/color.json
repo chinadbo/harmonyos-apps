@@ -1,0 +1,14 @@
+{
+  "color": [
+    { "name": "speed_green", "value": "#4CAF50" },
+    { "name": "speed_yellow", "value": "#FFC107" },
+    { "name": "speed_red", "value": "#F44336" },
+    { "name": "speed_blue", "value": "#2196F3" },
+    { "name": "speed_orange", "value": "#FF9800" },
+    { "name": "bg_dark", "value": "#12121E" },
+    { "name": "bg_card", "value": "#1E1E2E" },
+    { "name": "text_primary", "value": "#FFFFFF" },
+    { "name": "text_secondary", "value": "#9E9E9E" },
+    { "name": "divider", "value": "#333344" }
+  ]
+}

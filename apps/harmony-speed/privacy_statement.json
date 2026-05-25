@@ -1,0 +1,16 @@
+{
+  "permissions": [
+    {
+      "name": "ohos.permission.INTERNET",
+      "reason": "测速功能需要访问互联网下载/上传测速数据"
+    },
+    {
+      "name": "ohos.permission.GET_WIFI_INFO",
+      "reason": "显示当前 WiFi 网络名称和信号强度信息"
+    },
+    {
+      "name": "ohos.permission.GET_NETWORK_INFO",
+      "reason": "获取当前网络类型（WiFi/4G/5G）用于记录测速环境"
+    }
+  ]
+}

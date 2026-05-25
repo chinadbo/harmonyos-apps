@@ -1,0 +1,19 @@
+{
+  "string": [
+    { "name": "app_name", "value": "HarmonySpeed" },
+    { "name": "module_desc", "value": "网速测试工具" },
+    { "name": "EntryAbility_desc", "value": "主 Ability" },
+    { "name": "EntryAbility_label", "value": "HarmonySpeed" },
+    { "name": "test_start", "value": "开始测速" },
+    { "name": "testing", "value": "测速中..." },
+    { "name": "history", "value": "历史" },
+    { "name": "settings", "value": "设置" },
+    { "name": "download", "value": "下载" },
+    { "name": "upload", "value": "上传" },
+    { "name": "ping", "value": "Ping" },
+    { "name": "jitter", "value": "抖动" },
+    { "name": "unit_mbps", "value": "Mbps" },
+    { "name": "unit_ms", "value": "ms" },
+    { "name": "no_records", "value": "暂无记录" }
+  ]
+}
