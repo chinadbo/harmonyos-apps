@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "privacyPolicy": {
+    "title": "HarmonyCapture 隐私声明",
+    "summary": "HarmonyCapture 仅在用户主动选择图片和主动保存结果时访问对应媒体资源，不申请额外运行时权限。",
+    "items": [
+      {
+        "name": "相册选图",
+        "purpose": "用户主动从系统相册中选择待标注图片。",
+        "data": [
+          "用户选择的图片 URI"
+        ]
+      },
+      {
+        "name": "图片保存",
+        "purpose": "用户主动点击保存，将标注后的图片写回媒体库。",
+        "data": [
+          "用户导出的图片文件"
+        ]
+      }
+    ]
+  }
+}

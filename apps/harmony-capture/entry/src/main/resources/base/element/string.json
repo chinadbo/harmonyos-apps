@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyCapture"
+    },
+    {
+      "name": "module_desc",
+      "value": "Screenshot annotation app for HarmonyOS NEXT"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "Main ability for HarmonyCapture"
+    },
+    {
+      "name": "index_title",
+      "value": "HarmonyCapture"
+    },
+    {
+      "name": "index_subtitle",
+      "value": "快速截图标注与导出"
+    },
+    {
+      "name": "pick_image",
+      "value": "从相册选图"
+    },
+    {
+      "name": "view_history",
+      "value": "查看历史"
+    },
+    {
+      "name": "history_title",
+      "value": "历史记录"
+    },
+    {
+      "name": "editor_title",
+      "value": "标注编辑"
+    },
+    {
+      "name": "empty_history",
+      "value": "还没有保存记录"
+    }
+  ]
+}

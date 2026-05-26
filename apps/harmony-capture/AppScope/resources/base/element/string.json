@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyCapture"
+    },
+    {
+      "name": "module_desc",
+      "value": "Screenshot annotation app for HarmonyOS NEXT"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "Main ability for HarmonyCapture"
+    }
+  ]
+}
