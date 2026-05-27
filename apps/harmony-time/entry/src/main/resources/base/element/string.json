@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyTime"
+    },
+    {
+      "name": "module_desc",
+      "value": "Time tracking application built for HarmonyOS NEXT"
+    },
+    {
+      "name": "entry_desc",
+      "value": "HarmonyTime main entry ability"
+    },
+    {
+      "name": "widget_name",
+      "value": "HarmonyTime Widget"
+    },
+    {
+      "name": "widget_desc",
+      "value": "Quick timer status widget"
+    },
+    {
+      "name": "permission_keep_background_running",
+      "value": "Used to keep the timer running when the app goes to background"
+    },
+    {
+      "name": "tab_timer",
+      "value": "计时"
+    },
+    {
+      "name": "tab_history",
+      "value": "历史"
+    },
+    {
+      "name": "tab_stats",
+      "value": "统计"
+    },
+    {
+      "name": "projects",
+      "value": "项目"
+    },
+    {
+      "name": "add_entry",
+      "value": "补录"
+    },
+    {
+      "name": "today",
+      "value": "今日"
+    },
+    {
+      "name": "this_week",
+      "value": "本周"
+    },
+    {
+      "name": "start_timer",
+      "value": "开始计时"
+    },
+    {
+      "name": "stop_timer",
+      "value": "停止计时"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    }
+  ]
+}

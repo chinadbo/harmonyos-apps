@@ -64,3 +64,4 @@ apps/
 | HarmonyFiles | 文件管理器 | [apps/harmony-files](apps/harmony-files) | 2026-05-23 |
 | harmony-speed | 网速测试/网络诊断 | HarmonySpeed | API 12 | ✅ |
 | HarmonyCapture | 截图标注/图片编辑/效率工具 | [apps/harmony-capture](apps/harmony-capture) | 2026-05-27 |
+| HarmonyTime | 时间追踪/生产力工具 | [apps/harmony-time](apps/harmony-time) | 2026-05-28 |
