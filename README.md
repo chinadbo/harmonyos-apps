@@ -28,6 +28,10 @@
 | 20 | 2026-05-22 | HarmonyPhoto | 相册管理/照片编辑/滤镜 | ✅ |
 | 21 | 2026-05-23 | HarmonyFiles | 文件管理器 | ✅ |
 | 22 | 2026-05-24 | HarmonyClip | 剪贴板管理/效率工具 | ✅ |
+| 23 | 2026-05-26 | HarmonySpeed | 网速测试/网络诊断 | ✅ |
+| 24 | 2026-05-27 | HarmonyCapture | 截图标注/图片编辑 | ✅ |
+| 25 | 2026-05-28 | HarmonyTime | 时间追踪/生产力工具 | ✅ |
+| 26 | 2026-05-29 | [HarmonySleep](apps/harmony-sleep) | 睡眠记录/健康管理 | ✅ |
 
 ## 技术栈
 
