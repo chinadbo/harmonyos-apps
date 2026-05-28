@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "HarmonySleep 模块" },
+    { "name": "EntryAbility_desc", "value": "HarmonySleep 主能力" },
+    { "name": "EntryAbility_label", "value": "HarmonySleep" },
+    { "name": "SleepWidget_label", "value": "睡眠卡片" },
+    { "name": "SleepWidget_desc", "value": "显示睡眠统计数据" },
+    { "name": "permission_reminder_reason", "value": "用于设置睡前和起床提醒" }
+  ]
+}
