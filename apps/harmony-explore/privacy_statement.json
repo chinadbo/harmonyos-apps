@@ -1,0 +1,26 @@
+{
+  "appName": "HarmonyExplore",
+  "version": "1.0.0",
+  "dataCollection": [
+    {
+      "type": "location",
+      "purpose": "Resolve city information for scenic spots and generate city exploration statistics.",
+      "scope": "Approximate and precise location while app is in use.",
+      "storage": "Stored locally on device in harmonyexplore.db."
+    },
+    {
+      "type": "photos",
+      "purpose": "Allow users to attach scenic check-in photos through the system photo picker.",
+      "scope": "User-selected image URIs only.",
+      "storage": "Stored locally on device as photo URIs associated with check-in records."
+    },
+    {
+      "type": "notifications",
+      "purpose": "Send local notifications when new achievements are unlocked.",
+      "scope": "Achievement title and description only.",
+      "storage": "Notification content is generated locally and not uploaded."
+    }
+  ],
+  "sharing": [],
+  "contact": "support@example.com"
+}

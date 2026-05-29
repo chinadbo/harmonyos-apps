@@ -1,0 +1,50 @@
+[
+  {
+    "id": "first_checkin",
+    "name": "探索开场",
+    "desc": "完成第一次景点打卡。",
+    "icon": "📍",
+    "threshold": 1,
+    "metric": "checkInCount"
+  },
+  {
+    "id": "triple_checkin",
+    "name": "城市漫游者",
+    "desc": "累计完成 3 次打卡。",
+    "icon": "🗺️",
+    "threshold": 3,
+    "metric": "checkInCount"
+  },
+  {
+    "id": "ten_checkin",
+    "name": "探索达人",
+    "desc": "累计完成 10 次打卡。",
+    "icon": "🏅",
+    "threshold": 10,
+    "metric": "checkInCount"
+  },
+  {
+    "id": "city_hopper",
+    "name": "跨城记录者",
+    "desc": "解锁 3 座不同城市。",
+    "icon": "🚄",
+    "threshold": 3,
+    "metric": "cityCount"
+  },
+  {
+    "id": "urban_collector",
+    "name": "城市收藏家",
+    "desc": "解锁 5 座不同城市。",
+    "icon": "🏙️",
+    "threshold": 5,
+    "metric": "cityCount"
+  },
+  {
+    "id": "fifty_checkin",
+    "name": "传奇探索者",
+    "desc": "累计完成 50 次打卡。",
+    "icon": "👑",
+    "threshold": 50,
+    "metric": "checkInCount"
+  }
+]

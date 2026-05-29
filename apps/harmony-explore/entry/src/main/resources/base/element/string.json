@@ -1,0 +1,296 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyExplore"
+    },
+    {
+      "name": "module_desc",
+      "value": "城市探索与景点打卡应用"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "HarmonyExplore 主入口"
+    },
+    {
+      "name": "permission_location_reason",
+      "value": "用于获取精确位置，为景点打卡补全位置与城市信息。"
+    },
+    {
+      "name": "permission_approximate_location_reason",
+      "value": "用于获取大致位置，帮助展示附近城市探索数据。"
+    },
+    {
+      "name": "tab_explore",
+      "value": "探索"
+    },
+    {
+      "name": "tab_checkin",
+      "value": "打卡"
+    },
+    {
+      "name": "tab_achievement",
+      "value": "成就"
+    },
+    {
+      "name": "tab_statistics",
+      "value": "统计"
+    },
+    {
+      "name": "button_add_spot",
+      "value": "添加景点"
+    },
+    {
+      "name": "button_checkin_now",
+      "value": "立即打卡"
+    },
+    {
+      "name": "button_save",
+      "value": "保存"
+    },
+    {
+      "name": "button_pick_photos",
+      "value": "选择照片"
+    },
+    {
+      "name": "button_retry",
+      "value": "重试"
+    },
+    {
+      "name": "label_spot_name",
+      "value": "景点名称"
+    },
+    {
+      "name": "label_address",
+      "value": "地址"
+    },
+    {
+      "name": "label_city",
+      "value": "城市"
+    },
+    {
+      "name": "label_category",
+      "value": "分类"
+    },
+    {
+      "name": "label_note",
+      "value": "备注"
+    },
+    {
+      "name": "label_mood",
+      "value": "心情"
+    },
+    {
+      "name": "label_weather",
+      "value": "天气"
+    },
+    {
+      "name": "label_total_checkins",
+      "value": "总打卡数"
+    },
+    {
+      "name": "label_total_cities",
+      "value": "覆盖城市数"
+    },
+    {
+      "name": "label_recent_activity",
+      "value": "最近活跃度"
+    },
+    {
+      "name": "label_unlock_time",
+      "value": "解锁时间"
+    },
+    {
+      "name": "placeholder_spot_name",
+      "value": "请输入景点名称"
+    },
+    {
+      "name": "placeholder_address",
+      "value": "请输入地址"
+    },
+    {
+      "name": "placeholder_city",
+      "value": "自动识别或手动输入城市"
+    },
+    {
+      "name": "placeholder_category",
+      "value": "例如博物馆、公园、古镇"
+    },
+    {
+      "name": "placeholder_note",
+      "value": "记录此刻的感受与见闻"
+    },
+    {
+      "name": "empty_spot",
+      "value": "还没有景点，先添加一个想去的地方吧。"
+    },
+    {
+      "name": "empty_checkin",
+      "value": "还没有打卡记录，去城市里走走吧。"
+    },
+    {
+      "name": "empty_achievement",
+      "value": "继续探索，更多成就等待解锁。"
+    },
+    {
+      "name": "empty_statistics",
+      "value": "完成打卡后即可生成探索统计。"
+    },
+    {
+      "name": "toast_add_success",
+      "value": "景点已添加并完成打卡"
+    },
+    {
+      "name": "toast_pick_photo_fail",
+      "value": "选择照片失败，请稍后重试"
+    },
+    {
+      "name": "toast_load_fail",
+      "value": "数据加载失败"
+    },
+    {
+      "name": "title_checkin_detail",
+      "value": "打卡详情"
+    },
+    {
+      "name": "title_achievement_wall",
+      "value": "成就墙"
+    },
+    {
+      "name": "title_statistics",
+      "value": "探索统计"
+    },
+    {
+      "name": "title_explore",
+      "value": "城市探索"
+    },
+    {
+      "name": "subtitle_explore",
+      "value": "添加想去的地点，到达后即时打卡。"
+    },
+    {
+      "name": "title_checkin_list",
+      "value": "打卡时间线"
+    },
+    {
+      "name": "subtitle_checkin_list",
+      "value": "按日期回顾探索足迹"
+    },
+    {
+      "name": "title_add_spot",
+      "value": "添加景点并立即打卡"
+    },
+    {
+      "name": "button_resolve_city",
+      "value": "根据坐标识别城市"
+    },
+    {
+      "name": "placeholder_latitude",
+      "value": "纬度"
+    },
+    {
+      "name": "placeholder_longitude",
+      "value": "经度"
+    },
+    {
+      "name": "placeholder_mood",
+      "value": "心情"
+    },
+    {
+      "name": "placeholder_weather",
+      "value": "天气"
+    },
+    {
+      "name": "label_selected_photos_prefix",
+      "value": "已选择"
+    },
+    {
+      "name": "label_selected_photos_suffix",
+      "value": "张照片"
+    },
+    {
+      "name": "empty_photo",
+      "value": "暂无照片"
+    },
+    {
+      "name": "empty_checkin_detail",
+      "value": "未找到打卡详情"
+    },
+    {
+      "name": "label_explore_record",
+      "value": "探索记录"
+    },
+    {
+      "name": "label_photo_grid",
+      "value": "照片九宫格"
+    },
+    {
+      "name": "label_checkin_time",
+      "value": "打卡时间"
+    },
+    {
+      "name": "label_checked_in_prefix",
+      "value": "已打卡"
+    },
+    {
+      "name": "label_checked_in_suffix",
+      "value": "次"
+    },
+    {
+      "name": "label_photo_prefix",
+      "value": "照片"
+    },
+    {
+      "name": "label_photo_suffix",
+      "value": "张"
+    },
+    {
+      "name": "label_mood_prefix",
+      "value": "心情"
+    },
+    {
+      "name": "label_weather_prefix",
+      "value": "天气"
+    },
+    {
+      "name": "label_default_mood",
+      "value": "普通"
+    },
+    {
+      "name": "label_default_weather",
+      "value": "未知"
+    },
+    {
+      "name": "label_empty_note_card",
+      "value": "这次打卡还没有留下文字记录。"
+    },
+    {
+      "name": "label_empty_note_detail",
+      "value": "这次打卡还没有留下更多文字。"
+    },
+    {
+      "name": "label_unlocked_prefix",
+      "value": "已于"
+    },
+    {
+      "name": "label_unlocked_suffix",
+      "value": "解锁"
+    },
+    {
+      "name": "label_threshold_prefix",
+      "value": "达到"
+    },
+    {
+      "name": "label_threshold_suffix",
+      "value": "后解锁"
+    },
+    {
+      "name": "default_add_mood",
+      "value": "惊喜"
+    },
+    {
+      "name": "default_add_weather",
+      "value": "晴朗"
+    }
+  ]
+}
