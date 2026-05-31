@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "app": "HarmonyPlant",
+  "bundleName": "com.example.harmonyplant",
+  "privacy": [
+    {
+      "title": "本地植物数据",
+      "purpose": "将植物档案、养护记录和植物日记保存在设备本地数据库中，便于离线查看和管理。",
+      "data": [
+        "植物名称",
+        "植物品种",
+        "照片 URI",
+        "浇水与施肥周期",
+        "养护记录",
+        "植物日记"
+      ],
+      "shared": false
+    },
+    {
+      "title": "提醒权限",
+      "purpose": "创建浇水提醒，在应用不在前台时也可按计划提醒用户。",
+      "data": [
+        "提醒时间",
+        "提醒标题",
+        "提醒内容"
+      ],
+      "shared": false
+    },
+    {
+      "title": "相册读取权限",
+      "purpose": "读取用户通过系统照片选择器选取并保存的图片 URI，用于在植物档案或植物日记中展示照片。",
+      "data": [
+        "图片 URI"
+      ],
+      "shared": false
+    }
+  ]
+}

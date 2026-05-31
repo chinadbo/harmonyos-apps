@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PlantListPage",
+    "pages/PlantDetailPage",
+    "pages/AddPlantPage",
+    "pages/CareLogPage",
+    "pages/DiaryListPage",
+    "pages/AddDiaryPage",
+    "pages/RemindersPage"
+  ]
+}

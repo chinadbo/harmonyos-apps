@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyPlant"
+    },
+    {
+      "name": "module_desc",
+      "value": "花草养护与植物日记应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyPlant"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyPlant 主界面"
+    },
+    {
+      "name": "PlantFormExtensionAbility_desc",
+      "value": "HarmonyPlant 植物浇水桌面卡片"
+    },
+    {
+      "name": "widget_name",
+      "value": "今日浇水"
+    },
+    {
+      "name": "widget_desc",
+      "value": "展示今日待浇水植物"
+    }
+  ]
+}

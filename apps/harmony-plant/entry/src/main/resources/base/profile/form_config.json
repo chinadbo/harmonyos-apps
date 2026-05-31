@@ -1,0 +1,18 @@
+{
+  "forms": [
+    {
+      "name": "plant_water_widget",
+      "description": "$string:widget_desc",
+      "src": "./ets/widget/pages/WidgetCard.ets",
+      "uiSyntax": "arkts",
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "08:00",
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2",
+        "2*4"
+      ]
+    }
+  ]
+}
