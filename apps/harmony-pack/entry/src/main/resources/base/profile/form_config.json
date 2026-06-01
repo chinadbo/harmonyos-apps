@@ -1,0 +1,18 @@
+{
+  "forms": [
+    {
+      "name": "PackProgress",
+      "description": "Packing progress widget",
+      "src": "./ets/widget/pages/WidgetCard.ets",
+      "uiSyntax": "arkts",
+      "type": "eTS",
+      "updateEnabled": true,
+      "scheduledUpdateTime": "30",
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2",
+        "4*2"
+      ]
+    }
+  ]
+}

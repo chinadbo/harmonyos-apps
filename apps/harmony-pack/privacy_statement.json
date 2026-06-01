@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "app": {
+    "name": "HarmonyPack",
+    "bundleName": "com.openclaw.harmonypack"
+  },
+  "privacy": {
+    "collectedData": [
+      {
+        "name": "trip_schedule",
+        "purpose": "Store trip dates, destinations, and packing status locally on device.",
+        "shared": false,
+        "storage": "local_database"
+      },
+      {
+        "name": "reminder_schedule",
+        "purpose": "Create local departure reminders at 24 hours and 2 hours before each trip.",
+        "shared": false,
+        "storage": "system_reminder_service"
+      }
+    ],
+    "permissions": [
+      {
+        "name": "ohos.permission.PUBLISH_AGENT_REMINDER",
+        "purpose": "Publish local departure reminders for upcoming trips."
+      },
+      {
+        "name": "ohos.permission.VIBRATE",
+        "purpose": "Provide light vibration feedback for important reminder interactions."
+      }
+    ],
+    "networkAccess": false,
+    "thirdPartySharing": false
+  }
+}

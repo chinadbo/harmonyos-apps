@@ -1,0 +1,30 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyPack"
+    },
+    {
+      "name": "module_desc",
+      "value": "Travel packing checklist application"
+    },
+    {
+      "name": "entry_desc",
+      "value": "Main entry ability of HarmonyPack"
+    },
+    {
+      "name": "form_desc",
+      "value": "Packing progress form card"
+    },
+    {
+      "name": "widget_name",
+      "value": "PackProgress"
+    }
+  ],
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFF7F9FC"
+    }
+  ]
+}
