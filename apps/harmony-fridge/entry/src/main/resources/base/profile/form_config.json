@@ -1,0 +1,18 @@
+{
+  "forms": [
+    {
+      "name": "FridgeWidgetCard",
+      "description": "显示临期食材数量",
+      "src": "./ets/widget/FridgeWidgetCard.ets",
+      "uiSyntax": "arkts",
+      "type": "arkts",
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2"
+      ],
+      "updateEnabled": true,
+      "scheduledUpdateTime": "08:00",
+      "defaultDuration": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "harmony-fridge",
+  "version": "1.0.0",
+  "description": "HarmonyFridge 冰箱食材管理助手",
+  "main": "",
+  "author": "Claude",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

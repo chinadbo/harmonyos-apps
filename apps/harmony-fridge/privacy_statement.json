@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "appName": "HarmonyFridge",
+  "dataCollection": [
+    {
+      "name": "食材与购物清单数据",
+      "purpose": "在本地保存用户录入的食材、有效期与购物清单内容",
+      "storage": "device-local"
+    },
+    {
+      "name": "通知状态",
+      "purpose": "在用户授权后发送临期与过期提醒",
+      "storage": "device-local"
+    }
+  ],
+  "sharing": [],
+  "contact": "support@example.com"
+}
