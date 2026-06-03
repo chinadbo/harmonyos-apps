@@ -1,0 +1,18 @@
+{
+  "forms": [
+    {
+      "name": "FeedWidget",
+      "displayName": "喂食卡片",
+      "description": "展示今日喂食次数",
+      "src": "./ets/widget/FeedWidget.ets",
+      "uiSyntax": "arkts",
+      "type": "JS",
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2"
+      ],
+      "scheduledUpdateTime": "30",
+      "updateEnabled": true
+    }
+  ]
+}

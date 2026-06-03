@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyPet"
+    },
+    {
+      "name": "module_desc",
+      "value": "宠物管理助手主模块"
+    },
+    {
+      "name": "entry_desc",
+      "value": "HarmonyPet 主入口"
+    },
+    {
+      "name": "widget_desc",
+      "value": "喂食提醒桌面卡片"
+    }
+  ]
+}

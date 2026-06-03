@@ -71,3 +71,4 @@ apps/
 | HarmonyTime | 时间追踪/生产力工具 | [apps/harmony-time](apps/harmony-time) | 2026-05-28 |
 | HarmonyExplore | 城市探索/景点打卡/旅行记录 | [apps/harmony-explore](apps/harmony-explore) | 2026-05-30 |
 | HarmonyPack | 旅行打包清单/行李管理 | [apps/harmony-pack](apps/harmony-pack) | 2026-06-02 |
+| HarmonyPet | 宠物管理助手/宠物日记/生活工具 | [apps/harmony-pet](apps/harmony-pet) | 2026-06-04 |

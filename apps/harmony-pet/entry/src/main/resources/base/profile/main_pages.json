@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PetDetail",
+    "pages/EditPet",
+    "pages/WeightLog",
+    "pages/FeedLog",
+    "pages/HealthEvent",
+    "pages/PhotoWall",
+    "pages/ReminderSettings"
+  ]
+}
