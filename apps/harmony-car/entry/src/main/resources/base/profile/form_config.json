@@ -1,0 +1,40 @@
+{
+  "forms": [
+    {
+      "name": "HarmonyCarSmallForm",
+      "description": "HarmonyCar 2x2 vehicle summary widget",
+      "src": "./ets/widget/CarSmallWidget.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 320,
+        "autoDesignWidth": true
+      },
+      "defaultDimension": "2*2",
+      "supportedDimensions": [
+        "2*2",
+        "2*4"
+      ],
+      "updateEnabled": true,
+      "scheduledUpdateTime": "08:00",
+      "defaultDuration": 0
+    },
+    {
+      "name": "HarmonyCarLargeForm",
+      "description": "HarmonyCar 2x4 maintenance widget",
+      "src": "./ets/widget/CarLargeWidget.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 640,
+        "autoDesignWidth": true
+      },
+      "defaultDimension": "2*4",
+      "supportedDimensions": [
+        "2*2",
+        "2*4"
+      ],
+      "updateEnabled": true,
+      "scheduledUpdateTime": "08:00",
+      "defaultDuration": 0
+    }
+  ]
+}

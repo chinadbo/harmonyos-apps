@@ -1,0 +1,9 @@
+{
+  "dependencies": {},
+  "execution": {
+    "analyze": "default",
+    "daemon": true,
+    "incremental": true,
+    "parallel": true
+  }
+}

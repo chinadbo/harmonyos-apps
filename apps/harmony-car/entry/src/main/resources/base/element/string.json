@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyCar"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyCar entry module"
+    },
+    {
+      "name": "entry_desc",
+      "value": "HarmonyCar main ability"
+    },
+    {
+      "name": "form_desc",
+      "value": "HarmonyCar form extension ability"
+    },
+    {
+      "name": "perm_reminder_reason",
+      "value": "用于创建和管理车辆保养提醒。"
+    },
+    {
+      "name": "perm_read_media_reason",
+      "value": "用于读取保养记录相关图片。"
+    },
+    {
+      "name": "perm_write_media_reason",
+      "value": "用于保存保养记录相关图片。"
+    }
+  ]
+}

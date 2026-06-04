@@ -1,0 +1,20 @@
+{
+  "appId": "com.chinadbo.harmonycar",
+  "privacyUrl": "https://placeholder.invalid/harmonycar/privacy",
+  "version": "1.0.0",
+  "serviceRegion": "CN",
+  "permissions": [
+    {
+      "name": "ohos.permission.PUBLISH_AGENT_REMINDER",
+      "reason": "用于创建车辆保养到期提醒。"
+    },
+    {
+      "name": "ohos.permission.READ_IMAGEVIDEO",
+      "reason": "用于读取保养记录关联的照片。"
+    },
+    {
+      "name": "ohos.permission.WRITE_IMAGEVIDEO",
+      "reason": "用于保存保养记录关联的照片。"
+    }
+  ]
+}
