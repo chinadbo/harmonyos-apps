@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyPalette"
+    },
+    {
+      "name": "main_entry_ability",
+      "value": "EntryAbility"
+    },
+    {
+      "name": "main_entry_ability_desc",
+      "value": "HarmonyPalette main ability"
+    }
+  ]
+}

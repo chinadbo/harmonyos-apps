@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "statement": {
+    "title": "HarmonyPalette Privacy Statement",
+    "summary": "HarmonyPalette processes color data locally on the device for palette design and favorites storage.",
+    "items": [
+      {
+        "name": "Photo selection",
+        "purpose": "Allow the user to pick an image and extract dominant colors.",
+        "data": [
+          "Selected image file URI",
+          "In-memory pixel color buffer"
+        ],
+        "storage": "Processed locally and not uploaded by the app."
+      },
+      {
+        "name": "Favorites storage",
+        "purpose": "Save selected colors as favorites.",
+        "data": [
+          "Color hex value",
+          "RGB and HSV values",
+          "Creation timestamp"
+        ],
+        "storage": "Stored locally in the app database on the device."
+      },
+      {
+        "name": "Clipboard copy",
+        "purpose": "Copy color values for reuse.",
+        "data": [
+          "Color strings selected by the user"
+        ],
+        "storage": "Written to the system clipboard only when requested by the user."
+      }
+    ]
+  }
+}
