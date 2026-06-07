@@ -74,3 +74,4 @@ apps/
 | HarmonyPet | 宠物管理助手/宠物日记/生活工具 | [apps/harmony-pet](apps/harmony-pet) | 2026-06-04 |
 | HarmonyCar | 汽车保养/车辆管理/生活工具 | [apps/harmony-car](apps/harmony-car) | 2026-06-05 |
 | HarmonyPalette | 设计工具/色彩工具/图片取色 | [apps/harmony-palette](apps/harmony-palette) | 2026-06-07 |
+| HarmonyShop | 购物清单/采购管理/生活工具 | [apps/harmony-shop](apps/harmony-shop) | 2026-06-08 |

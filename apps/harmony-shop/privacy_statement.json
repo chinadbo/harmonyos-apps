@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "statement": {
+    "title": "HarmonyShop 隐私声明",
+    "content": "HarmonyShop 仅在本地设备中存储购物清单与商品数据，不会收集、上传或共享个人信息。"
+  },
+  "permissions": []
+}

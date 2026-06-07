@@ -1,0 +1,18 @@
+{
+  "string": [
+    {
+      "name": "entry_name",
+      "value": "HarmonyShop"
+    },
+    {
+      "name": "app_description",
+      "value": "购物清单管理应用"
+    }
+  ],
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFF7F7F7"
+    }
+  ]
+}
