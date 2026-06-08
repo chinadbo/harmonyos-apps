@@ -1,0 +1,12 @@
+{
+  "name": "harmony-task",
+  "version": "1.0.0",
+  "description": "HarmonyOS Todo App",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}

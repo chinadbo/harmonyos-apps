@@ -1,0 +1,27 @@
+{
+  "privacyStatement": {
+    "appName": "鸿蒙待办",
+    "version": "1.0.0",
+    "dataCollection": {
+      "personalData": false,
+      "location": false,
+      "camera": false,
+      "microphone": false,
+      "storage": true,
+      "notification": true
+    },
+    "dataUsage": {
+      "description": "本应用仅在本地存储任务数据，使用通知权限发送任务提醒，不收集或上传任何个人信息。"
+    },
+    "thirdPartySharing": {
+      "shared": false,
+      "description": "本应用不与任何第三方共享数据。"
+    },
+    "dataRetention": {
+      "description": "所有数据存储在本地设备上，卸载应用即删除所有数据。"
+    },
+    "contact": {
+      "email": "example@example.com"
+    }
+  }
+}

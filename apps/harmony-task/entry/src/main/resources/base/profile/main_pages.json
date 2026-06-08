@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/TodayPage",
+    "pages/TaskEditPage",
+    "pages/CategoryPage",
+    "pages/StatsPage",
+    "pages/SettingsPage"
+  ]
+}

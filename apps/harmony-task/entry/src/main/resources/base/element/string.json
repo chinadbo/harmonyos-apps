@@ -1,0 +1,34 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "鸿蒙待办主模块"
+    },
+    {
+      "name": "ability_desc",
+      "value": "鸿蒙待办主能力"
+    },
+    {
+      "name": "app_name",
+      "value": "鸿蒙待办"
+    },
+    {
+      "name": "permission_notification_reason",
+      "value": "用于发送任务提醒通知"
+    },
+    {
+      "name": "widget_task_name",
+      "value": "待办任务"
+    },
+    {
+      "name": "widget_task_desc",
+      "value": "显示待办任务概览"
+    }
+  ],
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    }
+  ]
+}
