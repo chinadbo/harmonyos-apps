@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "language": "zh-CN",
+  "dataCollection": [
+    {
+      "name": "用药提醒与服药记录",
+      "purpose": "用于保存药品、服药计划、服药打卡与系统提醒信息",
+      "isCollected": true,
+      "isShared": false,
+      "storage": "设备本地数据库"
+    }
+  ],
+  "permissions": [
+    {
+      "name": "ohos.permission.PUBLISH_AGENT_REMINDER",
+      "purpose": "用于发布系统用药提醒"
+    }
+  ]
+}

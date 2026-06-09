@@ -76,3 +76,4 @@ apps/
 | HarmonyPalette | 设计工具/色彩工具/图片取色 | [apps/harmony-palette](apps/harmony-palette) | 2026-06-07 |
 | HarmonyShop | 购物清单/采购管理/生活工具 | [apps/harmony-shop](apps/harmony-shop) | 2026-06-08 |
 | HarmonyTask | 待办事项/任务管理/效率工具 | [apps/harmony-task](apps/harmony-task) | 2026-06-09 |
+| HarmonyPill | 用药提醒/健康管理/生活工具 | [apps/harmony-pill](apps/harmony-pill) | 2026-06-10 |
