@@ -1,0 +1,58 @@
+{
+  "appName": "HarmonyHydrate",
+  "appNameZh": "饮水追踪",
+  "version": "1.0.0",
+  "updateTime": "2026-06-12",
+  "developer": "openclaw",
+  "privacyPolicySummary": {
+    "purpose": "用于记录用户每日饮水数据、生成统计信息，并按用户设置发送喝水提醒。",
+    "scenarios": [
+      "记录饮水量与记录时间",
+      "展示连续达标、最近记录和近 7 天统计",
+      "根据用户主动开启的提醒设置发送日内提醒"
+    ]
+  },
+  "permissions": [
+    {
+      "name": "ohos.permission.PUBLISH_AGENT_REMINDER",
+      "reason": "用于根据用户在设置页开启的提醒功能，发布喝水提醒通知。",
+      "required": true,
+      "whenUsed": "仅当用户开启提醒功能并保存设置后使用。"
+    }
+  ],
+  "dataCollection": [
+    {
+      "type": "本地饮水记录",
+      "fields": [
+        "饮水量",
+        "记录时间",
+        "记录日期"
+      ],
+      "purpose": "用于首页展示、历史记录、周统计和连续达标计算。",
+      "storage": "仅存储在设备本地数据库中，不上传服务器。"
+    },
+    {
+      "type": "本地设置",
+      "fields": [
+        "每日目标饮水量",
+        "提醒开关",
+        "提醒开始时间",
+        "提醒结束时间",
+        "提醒间隔"
+      ],
+      "purpose": "用于个性化展示和提醒调度。",
+      "storage": "仅存储在设备本地首选项中，不上传服务器。"
+    }
+  ],
+  "dataSharing": {
+    "sharedWithThirdParties": false,
+    "description": "本应用不向任何第三方共享、转让或出售用户个人数据。"
+  },
+  "dataDeletion": {
+    "supported": true,
+    "method": "用户可在设置页点击“清空全部数据”删除本地饮水记录；提醒可通过关闭提醒并保存设置来取消。"
+  },
+  "contact": {
+    "email": "support@example.com"
+  }
+}

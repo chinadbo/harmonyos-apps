@@ -77,3 +77,4 @@ apps/
 | HarmonyShop | 购物清单/采购管理/生活工具 | [apps/harmony-shop](apps/harmony-shop) | 2026-06-08 |
 | HarmonyTask | 待办事项/任务管理/效率工具 | [apps/harmony-task](apps/harmony-task) | 2026-06-09 |
 | HarmonyPill | 用药提醒/健康管理/生活工具 | [apps/harmony-pill](apps/harmony-pill) | 2026-06-10 |
+| HarmonyHydrate | 健康饮水/生活习惯/健康管理 | [apps/harmony-hydrate](apps/harmony-hydrate) | 2026-06-12 |

@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/HistoryPage",
+    "pages/StatsPage",
+    "pages/SettingsPage",
+    "pages/RecordEditPage"
+  ]
+}

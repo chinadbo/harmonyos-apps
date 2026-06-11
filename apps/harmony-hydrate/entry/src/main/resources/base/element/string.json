@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyHydrate"
+    },
+    {
+      "name": "app_desc",
+      "value": "饮水追踪"
+    },
+    {
+      "name": "home_title",
+      "value": "今日饮水追踪"
+    },
+    {
+      "name": "history_title",
+      "value": "历史记录"
+    },
+    {
+      "name": "stats_title",
+      "value": "饮水统计"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    }
+  ]
+}
