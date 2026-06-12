@@ -78,3 +78,4 @@ apps/
 | HarmonyTask | 待办事项/任务管理/效率工具 | [apps/harmony-task](apps/harmony-task) | 2026-06-09 |
 | HarmonyPill | 用药提醒/健康管理/生活工具 | [apps/harmony-pill](apps/harmony-pill) | 2026-06-10 |
 | HarmonyHydrate | 健康饮水/生活习惯/健康管理 | [apps/harmony-hydrate](apps/harmony-hydrate) | 2026-06-12 |
+| HarmonySavings | 个人储蓄目标/财务目标/理财工具 | [apps/harmony-savings](apps/harmony-savings) | 2026-06-13 |
