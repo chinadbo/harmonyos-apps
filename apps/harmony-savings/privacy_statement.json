@@ -1,0 +1,26 @@
+{
+  "app": "HarmonySavings",
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13",
+  "summary": "HarmonySavings 为本地个人储蓄目标追踪工具，默认仅在设备本地保存目标与存款记录。",
+  "dataCollection": {
+    "collectsPersonalInformation": false,
+    "collectsSensitiveInformation": false,
+    "uploadsToServer": false
+  },
+  "permissions": [
+    {
+      "name": "ohos.permission.NOTIFICATION_CONTROLLER",
+      "purpose": "在储蓄目标完成时发送本地通知提醒",
+      "required": false
+    }
+  ],
+  "storage": {
+    "database": "relationalStore",
+    "tables": [
+      "goals",
+      "deposits"
+    ],
+    "location": "on-device only"
+  }
+}

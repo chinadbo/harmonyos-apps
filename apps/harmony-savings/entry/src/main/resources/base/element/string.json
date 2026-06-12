@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonySavings"
+    },
+    {
+      "name": "module_desc",
+      "value": "个人储蓄目标追踪工具"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonySavings 主能力"
+    },
+    {
+      "name": "permission_notification_reason",
+      "value": "用于在储蓄目标完成时发送提醒通知"
+    }
+  ]
+}
