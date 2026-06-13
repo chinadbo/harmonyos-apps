@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "app": "HarmonyNutrition",
+  "privacy": {
+    "collectsPersonalData": true,
+    "personalData": [
+      "nickname",
+      "age",
+      "height",
+      "weight",
+      "diet records"
+    ],
+    "purpose": [
+      "nutrition analysis",
+      "diet tracking",
+      "personalized goal calculation"
+    ],
+    "storage": "Local device storage only in current demo implementation",
+    "sharing": "No third-party sharing in current demo implementation",
+    "permissions": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/FoodSearch",
+    "pages/History",
+    "pages/Statistics",
+    "pages/Settings"
+  ]
+}

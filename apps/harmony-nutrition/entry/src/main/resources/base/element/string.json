@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyNutrition"
+    },
+    {
+      "name": "module_desc",
+      "value": "Nutrition tracker module"
+    },
+    {
+      "name": "entry_desc",
+      "value": "Nutrition tracking entry ability"
+    },
+    {
+      "name": "food_search",
+      "value": "Food Search"
+    },
+    {
+      "name": "history",
+      "value": "History"
+    },
+    {
+      "name": "statistics",
+      "value": "Statistics"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "add_food",
+      "value": "Add Food"
+    },
+    {
+      "name": "widget_name",
+      "value": "Nutrition Widget"
+    },
+    {
+      "name": "widget_desc",
+      "value": "Daily nutrition summary form"
+    }
+  ]
+}

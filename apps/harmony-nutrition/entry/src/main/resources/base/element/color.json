@@ -1,0 +1,68 @@
+{
+  "color": [
+    {
+      "name": "primary",
+      "value": "#4A8BFF"
+    },
+    {
+      "name": "primary_light",
+      "value": "#EAF2FF"
+    },
+    {
+      "name": "secondary",
+      "value": "#6F6CFF"
+    },
+    {
+      "name": "accent",
+      "value": "#32C5A1"
+    },
+    {
+      "name": "success",
+      "value": "#33C27F"
+    },
+    {
+      "name": "warning",
+      "value": "#F7B731"
+    },
+    {
+      "name": "danger",
+      "value": "#FF6B6B"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1F2937"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#6B7280"
+    },
+    {
+      "name": "page_background",
+      "value": "#F5F7FB"
+    },
+    {
+      "name": "card_background",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "divider",
+      "value": "#E5E7EB"
+    },
+    {
+      "name": "breakfast",
+      "value": "#FDBE3B"
+    },
+    {
+      "name": "lunch",
+      "value": "#4A8BFF"
+    },
+    {
+      "name": "dinner",
+      "value": "#8B5CF6"
+    },
+    {
+      "name": "snack",
+      "value": "#32C5A1"
+    }
+  ]
+}
