@@ -80,3 +80,4 @@ apps/
 | HarmonyHydrate | 健康饮水/生活习惯/健康管理 | [apps/harmony-hydrate](apps/harmony-hydrate) | 2026-06-12 |
 | HarmonySavings | 个人储蓄目标/财务目标/理财工具 | [apps/harmony-savings](apps/harmony-savings) | 2026-06-13 |
 | HarmonyNutrition | 饮食热量追踪/营养管理/健康工具 | [apps/harmony-nutrition](apps/harmony-nutrition) | 2026-06-14 |
+| HarmonyBill | 账单分摊/AA制/多人分账/理财工具 | [apps/harmony-bill](apps/harmony-bill) | 2026-06-15 |

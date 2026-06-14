@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/AddGroupPage",
+    "pages/GroupDetailPage",
+    "pages/AddBillPage",
+    "pages/SettlementPage",
+    "pages/BillDetailPage"
+  ]
+}

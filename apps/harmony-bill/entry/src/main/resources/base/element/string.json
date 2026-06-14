@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyBill main module"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyBill"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "多人账单分摊应用"
+    },
+    {
+      "name": "main_title",
+      "value": "HarmonyBill"
+    }
+  ]
+}
