@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "HarmonyScan"
+    },
+    {
+      "name": "camera_reason",
+      "value": "用于拍摄文档图片"
+    }
+  ]
+}

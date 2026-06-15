@@ -1,0 +1,9 @@
+{
+  "name": "harmonyscan",
+  "version": "1.0.0",
+  "description": "HarmonyScan document scanner app",
+  "main": "",
+  "author": "openclaw",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

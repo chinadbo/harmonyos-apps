@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "language": "zh-CN",
+  "privacyPolicies": [
+    {
+      "title": "HarmonyScan 隐私声明",
+      "content": "HarmonyScan 仅在用户主动扫描文档时申请相机权限。拍摄的图片、生成的 PDF 与文档数据库仅保存在应用本地沙箱目录，不会自动上传到网络服务。分享功能只在用户主动点击时将已导出的 PDF 交给系统分享面板。"
+    }
+  ],
+  "sensitiveInfo": [
+    {
+      "name": "相机",
+      "description": "用于拍摄文档页面图片"
+    },
+    {
+      "name": "本地文件",
+      "description": "用于保存扫描图片、PDF 和文档索引数据"
+    }
+  ]
+}

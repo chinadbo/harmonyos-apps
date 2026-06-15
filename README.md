@@ -67,6 +67,7 @@ apps/
 | HarmonyPhoto | 相册管理/照片编辑/滤镜 | [apps/harmony-photo](apps/harmony-photo) | 2026-05-22 |
 | HarmonyFiles | 文件管理器 | [apps/harmony-files](apps/harmony-files) | 2026-05-23 |
 | harmony-speed | 网速测试/网络诊断 | HarmonySpeed | API 12 | ✅ |
+| harmony-scan | HarmonyScan | 文档扫描/PDF生成/效率工具 | Camera+Canvas四角裁剪+PixelMap图像处理+PDF生成 | [查看](apps/harmony-scan) |
 | HarmonyCapture | 截图标注/图片编辑/效率工具 | [apps/harmony-capture](apps/harmony-capture) | 2026-05-27 |
 | HarmonyTime | 时间追踪/生产力工具 | [apps/harmony-time](apps/harmony-time) | 2026-05-28 |
 | HarmonyExplore | 城市探索/景点打卡/旅行记录 | [apps/harmony-explore](apps/harmony-explore) | 2026-05-30 |

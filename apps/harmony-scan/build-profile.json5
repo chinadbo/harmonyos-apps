@@ -1,0 +1,49 @@
+{
+  "app": {
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storePassword": "${env.KEY_STORE_PASSWORD}",
+          "certpath": "./AppScope/resources/base/media/openharmony.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "${env.KEY_PASSWORD}",
+          "profile": "./AppScope/resources/base/media/openharmonyDebug.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "./AppScope/resources/base/media/openharmony.p12"
+        }
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
