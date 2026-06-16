@@ -1,0 +1,23 @@
+{
+  "forms": [
+    {
+      "name": "harmony_birth_widget",
+      "description": "Upcoming birthdays 2x2 widget",
+      "src": "./ets/widget/pages/WidgetCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 320,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "08:00",
+      "updateDuration": 30,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2"
+      ]
+    }
+  ]
+}

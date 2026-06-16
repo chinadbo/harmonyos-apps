@@ -1,0 +1,30 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyBirth"
+    },
+    {
+      "name": "module_desc",
+      "value": "Birthday reminder and social helper app"
+    },
+    {
+      "name": "entry_desc",
+      "value": "HarmonyBirth entry ability"
+    },
+    {
+      "name": "form_desc",
+      "value": "Upcoming birthdays widget"
+    },
+    {
+      "name": "read_contacts_reason",
+      "value": "HarmonyBirth 需要访问通误录以导入联系人生日"
+    }
+  ],
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#F8FAFC"
+    }
+  ]
+}

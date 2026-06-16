@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ContactListPage",
+    "pages/AddContactPage",
+    "pages/ContactDetailPage",
+    "pages/TemplatePage",
+    "pages/CalendarPage",
+    "pages/SettingsPage",
+    "widget/pages/WidgetCard"
+  ]
+}

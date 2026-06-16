@@ -82,3 +82,4 @@ apps/
 | HarmonySavings | 个人储蓄目标/财务目标/理财工具 | [apps/harmony-savings](apps/harmony-savings) | 2026-06-13 |
 | HarmonyNutrition | 饮食热量追踪/营养管理/健康工具 | [apps/harmony-nutrition](apps/harmony-nutrition) | 2026-06-14 |
 | HarmonyBill | 账单分摊/AA制/多人分账/理财工具 | [apps/harmony-bill](apps/harmony-bill) | 2026-06-15 |
+| HarmonyBirth | 生日提醒/社交辅助/联系人管理/生活工具 | [apps/harmony-birth](apps/harmony-birth) | 2026-06-17 |

@@ -1,0 +1,26 @@
+{
+  "projectName": "HarmonyBirth",
+  "bundleName": "com.chinadbo.harmonybirth",
+  "version": "1.0.0",
+  "privacy": {
+    "collectedData": [
+      {
+        "name": "生日档案",
+        "purpose": "保存联系人姓名、关系、生日、头像色和备注，用于生日提醒与展示",
+        "storage": "local"
+      },
+      {
+        "name": "礼物心愿单",
+        "purpose": "保存礼物名称、预算、链接、备注和送出状态，用于礼物管理",
+        "storage": "local"
+      }
+    ],
+    "permissions": [
+      {
+        "name": "ohos.permission.NOTIFICATION_CONTROLLER",
+        "purpose": "创建和更新生日提醒"
+      }
+    ],
+    "statement": "HarmonyBirth 默认仅在本地设备保存生日档案、礼物心愿单和祝福模板使用记录，不上传到服务器。提醒能力仅用于向用户发送生日提醒。"
+  }
+}

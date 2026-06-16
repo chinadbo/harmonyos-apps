@@ -1,0 +1,9 @@
+{
+  "name": "harmony-birth",
+  "version": "1.0.0",
+  "description": "HarmonyBirth birthday reminder app",
+  "main": "",
+  "author": "chinadbo",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
