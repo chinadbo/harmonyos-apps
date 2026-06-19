@@ -1,0 +1,9 @@
+{
+  "execution": {
+    "analyze": "default"
+  },
+  "logging": {
+    "level": "info"
+  },
+  "dependencies": {}
+}

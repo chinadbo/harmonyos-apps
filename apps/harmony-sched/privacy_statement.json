@@ -1,0 +1,26 @@
+{
+  "app": {
+    "name": "HarmonySched",
+    "version": "1.0.0",
+    "summary": "HarmonySched stores timetable data locally and can publish class reminders for upcoming lessons.",
+    "permissions": [
+      {
+        "name": "ohos.permission.PUBLISH_AGENT_REMINDER",
+        "reason": "Publish reminders for upcoming classes chosen by the user.",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+      }
+    ],
+    "dataCollection": [
+      {
+        "type": "local_database",
+        "purpose": "Store timetable, class and reminder metadata in the app sandbox.",
+        "sharedWithThirdParties": false
+      }
+    ]
+  }
+}

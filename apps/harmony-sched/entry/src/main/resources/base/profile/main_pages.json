@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/WeekSchedulePage",
+    "pages/CourseListPage",
+    "pages/CourseEditPage",
+    "pages/ScheduleManagePage",
+    "pages/SettingsPage"
+  ]
+}

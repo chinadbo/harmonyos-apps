@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonySched"
+    },
+    {
+      "name": "module_desc",
+      "value": "Timetable manager module"
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "Main ability for HarmonySched"
+    },
+    {
+      "name": "permission_publish_reminder_reason",
+      "value": "Publish reminders for upcoming lessons."
+    }
+  ]
+}

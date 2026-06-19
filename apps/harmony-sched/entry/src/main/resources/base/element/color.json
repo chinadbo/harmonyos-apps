@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFF7F8FA"
+    },
+    {
+      "name": "brand_primary",
+      "value": "#FF4A6CF7"
+    },
+    {
+      "name": "brand_secondary",
+      "value": "#FF8B5CF6"
+    },
+    {
+      "name": "surface",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "surface_alt",
+      "value": "#FFF3F5F7"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FF1F2937"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#FF6B7280"
+    },
+    {
+      "name": "divider",
+      "value": "#FFE5E7EB"
+    }
+  ]
+}
