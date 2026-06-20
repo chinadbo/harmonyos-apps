@@ -1,0 +1,18 @@
+{
+  "project": "HarmonyWord",
+  "version": "1.0.0",
+  "dataCollection": [
+    {
+      "name": "收藏词条",
+      "purpose": "在本地保存用户收藏的词语与成语",
+      "storage": "本地数据库"
+    },
+    {
+      "name": "查询历史",
+      "purpose": "在本地展示最近 50 条查询记录",
+      "storage": "本地数据库"
+    }
+  ],
+  "network": false,
+  "statement": "HarmonyWord 不采集、不上传任何个人信息。所有词库、收藏和历史数据仅保存在设备本地。"
+}

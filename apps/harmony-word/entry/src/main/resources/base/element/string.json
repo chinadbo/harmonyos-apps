@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyWord"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyWord 中文词典与汉字学习应用"
+    },
+    {
+      "name": "entry_desc",
+      "value": "HarmonyWord 主入口"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_favorite",
+      "value": "收藏"
+    },
+    {
+      "name": "tab_history",
+      "value": "历史"
+    },
+    {
+      "name": "tab_idiom",
+      "value": "成语"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索汉字、词语或成语"
+    },
+    {
+      "name": "today_recommend",
+      "value": "今日推荐"
+    },
+    {
+      "name": "favorite_add",
+      "value": "加入收藏"
+    },
+    {
+      "name": "favorite_remove",
+      "value": "取消收藏"
+    },
+    {
+      "name": "empty_result",
+      "value": "暂无匹配结果"
+    },
+    {
+      "name": "empty_favorite",
+      "value": "暂无收藏内容"
+    },
+    {
+      "name": "empty_history",
+      "value": "暂无查询历史"
+    },
+    {
+      "name": "idiom_story",
+      "value": "典故"
+    }
+  ]
+}

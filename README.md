@@ -83,3 +83,4 @@ apps/
 | HarmonyNutrition | 饮食热量追踪/营养管理/健康工具 | [apps/harmony-nutrition](apps/harmony-nutrition) | 2026-06-14 |
 | HarmonyBill | 账单分摊/AA制/多人分账/理财工具 | [apps/harmony-bill](apps/harmony-bill) | 2026-06-15 |
 | HarmonyBirth | 生日提醒/社交辅助/联系人管理/生活工具 | [apps/harmony-birth](apps/harmony-birth) | 2026-06-17 |
+| HarmonyWord | 汉字词典/语言学习/教育工具 | [apps/harmony-word](apps/harmony-word) | 2026-06-21 |

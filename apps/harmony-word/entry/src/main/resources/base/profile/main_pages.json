@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/DetailPage",
+    "pages/FavoritePage",
+    "pages/HistoryPage",
+    "pages/IdiomPage"
+  ]
+}
