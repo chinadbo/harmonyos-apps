@@ -1,0 +1,29 @@
+{
+  "media": [
+    {
+      "name": "icon_home",
+      "type": "svg",
+      "value": "home"
+    },
+    {
+      "name": "icon_explore",
+      "type": "svg",
+      "value": "compass"
+    },
+    {
+      "name": "icon_search",
+      "type": "svg",
+      "value": "search"
+    },
+    {
+      "name": "icon_favorite",
+      "type": "svg",
+      "value": "favorite"
+    },
+    {
+      "name": "layered_image",
+      "type": "svg",
+      "value": "bookmark"
+    }
+  ]
+}

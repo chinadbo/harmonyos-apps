@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "name": "HarmonyPoem",
+  "summary": "HarmonyPoem 仅在本地读取内置诗词数据，并在本地数据库中保存收藏与阅读记录，不上传个人数据。",
+  "collection": [
+    {
+      "type": "本地收藏数据",
+      "purpose": "保存用户收藏的诗词",
+      "storage": "RDB 本地数据库"
+    },
+    {
+      "type": "本地阅读记录",
+      "purpose": "记录阅读历史与浏览次数",
+      "storage": "RDB 本地数据库"
+    }
+  ],
+  "sharing": [],
+  "permissions": []
+}

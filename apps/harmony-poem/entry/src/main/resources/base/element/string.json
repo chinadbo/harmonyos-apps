@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyPoem"
+    },
+    {
+      "name": "module_desc",
+      "value": "古诗词赏析与学习应用"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "HarmonyPoem 主界面"
+    }
+  ]
+}
