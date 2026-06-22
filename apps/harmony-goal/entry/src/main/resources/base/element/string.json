@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyGoal"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyGoal 主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyGoal 应用入口"
+    },
+    {
+      "name": "permission_publish_reminder_reason",
+      "value": "用于在每日固定时间提醒你回顾目标进展"
+    },
+    {
+      "name": "home_title",
+      "value": "我的目标"
+    },
+    {
+      "name": "statistics_title",
+      "value": "统计分析"
+    },
+    {
+      "name": "settings_title",
+      "value": "提醒设置"
+    }
+  ]
+}

@@ -85,3 +85,4 @@ apps/
 | HarmonyBirth | 生日提醒/社交辅助/联系人管理/生活工具 | [apps/harmony-birth](apps/harmony-birth) | 2026-06-17 |
 | HarmonyWord | 汉字词典/语言学习/教育工具 | [apps/harmony-word](apps/harmony-word) | 2026-06-21 |
 | HarmonyPoem | 古诗词/国学/教育工具 | [apps/harmony-poem](apps/harmony-poem) | 2026-06-22 |
+| HarmonyGoal | 个人目标管理/OKR追踪/成长工具 | [apps/harmony-goal](apps/harmony-goal) | 2026-06-23 |

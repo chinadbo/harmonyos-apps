@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "language": "zh-CN",
+  "content": {
+    "name": "HarmonyGoal 隐私声明",
+    "summary": "HarmonyGoal 仅在本地保存目标、关键结果、打卡记录和提醒时间，用于个人目标管理与 OKR 追踪。",
+    "items": [
+      {
+        "title": "收集的数据",
+        "description": "应用在本地数据库中保存你创建的目标、关键结果、每日回顾和提醒设置，不上传到远程服务器。"
+      },
+      {
+        "title": "使用的权限",
+        "description": "应用申请 ohos.permission.PUBLISH_AGENT_REMINDER，用于在你设定的时间发送每日目标回顾提醒。"
+      },
+      {
+        "title": "数据存储",
+        "description": "所有业务数据默认保存在设备本地的关系型数据库中，仅供当前应用使用。"
+      },
+      {
+        "title": "数据删除",
+        "description": "你可以在应用内删除目标及其关联关键结果和打卡记录，删除后将不再恢复。"
+      }
+    ]
+  }
+}

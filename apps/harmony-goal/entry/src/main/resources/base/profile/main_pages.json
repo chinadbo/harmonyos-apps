@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/HomePage",
+    "pages/GoalDetailPage",
+    "pages/CreateGoalPage",
+    "pages/CreateKRPage",
+    "pages/CheckInPage",
+    "pages/StatisticsPage",
+    "pages/SettingsPage"
+  ]
+}
