@@ -86,3 +86,4 @@ apps/
 | HarmonyWord | 汉字词典/语言学习/教育工具 | [apps/harmony-word](apps/harmony-word) | 2026-06-21 |
 | HarmonyPoem | 古诗词/国学/教育工具 | [apps/harmony-poem](apps/harmony-poem) | 2026-06-22 |
 | HarmonyGoal | 个人目标管理/OKR追踪/成长工具 | [apps/harmony-goal](apps/harmony-goal) | 2026-06-23 |
+| HarmonyMind | 思维导图/脑图/知识管理 | [apps/harmony-mind](apps/harmony-mind) | 2026-06-24 |

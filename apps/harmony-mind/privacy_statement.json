@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "lang": "zh-CN",
+  "app": {
+    "name": "HarmonyMind",
+    "description": "HarmonyMind 是一款本地脑图与头脑风暴工具，仅在设备本地保存用户创建的脑图数据和主题设置。"
+  },
+  "privacy": {
+    "collectPersonalData": false,
+    "sharePersonalData": false,
+    "networkAccess": false,
+    "localStorage": [
+      "应用偏好设置",
+      "脑图元数据",
+      "脑图 JSON 文件"
+    ],
+    "purpose": "用于保存脑图内容、最近修改时间和主题设置，提升本地使用体验。"
+  },
+  "contact": {
+    "vendor": "openclaw"
+  }
+}

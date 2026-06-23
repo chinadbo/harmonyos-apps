@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyMind"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyMind 主模块"
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "HarmonyMind 入口能力"
+    }
+  ]
+}
