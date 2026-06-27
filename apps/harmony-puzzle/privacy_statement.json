@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "privacy": {
+    "summary": "HarmonyPuzzle runs fully on-device and does not collect personal data.",
+    "permissions": [],
+    "dataCollection": [],
+    "thirdPartySharing": false
+  }
+}

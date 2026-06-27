@@ -1,0 +1,9 @@
+{
+  "name": "harmonypuzzle",
+  "version": "1.0.0",
+  "description": "HarmonyOS sliding puzzle game",
+  "main": "",
+  "author": "Claude",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

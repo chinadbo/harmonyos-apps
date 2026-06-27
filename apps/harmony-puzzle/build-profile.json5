@@ -1,0 +1,49 @@
+{
+  "app": {
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": "./signature/openharmony.p12",
+          "storePassword": "123456",
+          "keyAlias": "debugKey",
+          "keyPassword": "123456",
+          "profile": "./signature/openharmonyProvisionDebug.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeType": "pkcs12"
+        }
+      }
+    ],
+    "modules": [
+      {
+        "name": "entry",
+        "srcPath": "./entry",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
