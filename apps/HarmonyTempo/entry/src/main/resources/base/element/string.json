@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyTempo"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyTempo main module"
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "HarmonyTempo entry ability"
+    }
+  ]
+}

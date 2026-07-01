@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "app": "HarmonyTempo",
+  "dataCollection": [
+    {
+      "name": "Metronome preferences",
+      "purpose": "Save tempo, time signature, selected click sound, and theme locally on device",
+      "storage": "Local preferences",
+      "shared": false
+    }
+  ],
+  "permissions": []
+}

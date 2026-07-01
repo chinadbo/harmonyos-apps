@@ -1,0 +1,10 @@
+{
+  "modelVersion": 5,
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "HarmonyTempo entry module",
+  "main": "",
+  "author": "Claude",
+  "license": "MIT",
+  "dependencies": {}
+}
