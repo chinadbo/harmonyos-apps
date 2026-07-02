@@ -1,0 +1,7 @@
+{
+  "privacy": {
+    "name": "HarmonyCompass Privacy Statement",
+    "version": "1.0.0",
+    "description": "This app uses location services to display GPS coordinates. Location data is only used locally and is not transmitted to any server."
+  }
+}

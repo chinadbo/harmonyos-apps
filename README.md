@@ -89,3 +89,4 @@ apps/
 | HarmonyMind | 思维导图/脑图/知识管理 | [apps/harmony-mind](apps/harmony-mind) | 2026-06-24 |
 | HarmonyPuzzle | 拼图游戏/益智 | [apps/harmony-puzzle](apps/harmony-puzzle) | 2026-06-28 |
 | HarmonyTempo | 节拍器/音乐工具 | [apps/harmony-tempo](apps/harmony-tempo) | 2026-07-02 |
+| HarmonyCompass | 指南针/方向工具 | [apps/harmony-compass](apps/harmony-compass) | 2026-07-03 |

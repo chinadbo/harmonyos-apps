@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyCompass entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyCompass Main Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyCompass"
+    },
+    {
+      "name": "location_permission_reason",
+      "value": "Location permission is required to display GPS coordinates on the compass."
+    },
+    {
+      "name": "page_title",
+      "value": "Harmony Compass"
+    },
+    {
+      "name": "location_unavailable",
+      "value": "Location unavailable"
+    },
+    {
+      "name": "refresh_location",
+      "value": "Refresh Location"
+    },
+    {
+      "name": "latitude",
+      "value": "Lat"
+    },
+    {
+      "name": "longitude",
+      "value": "Lon"
+    },
+    {
+      "name": "altitude",
+      "value": "Alt"
+    },
+    {
+      "name": "sensor_unavailable",
+      "value": "Orientation sensor not available"
+    }
+  ]
+}

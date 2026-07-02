@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#1a1a2e"
+    },
+    {
+      "name": "page_background",
+      "value": "#1a1a2e"
+    },
+    {
+      "name": "compass_background",
+      "value": "#16213e"
+    },
+    {
+      "name": "accent_red",
+      "value": "#e94560"
+    },
+    {
+      "name": "accent_blue",
+      "value": "#0f3460"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8892b0"
+    }
+  ]
+}
