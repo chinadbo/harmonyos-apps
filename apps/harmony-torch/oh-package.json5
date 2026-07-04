@@ -1,0 +1,7 @@
+{
+  "name": "harmonytorch",
+  "version": "1.0.0",
+  "description": "HarmonyOS Torch Application",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

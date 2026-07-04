@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "手电筒功能模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyTorch 手电筒"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyTorch"
+    },
+    {
+      "name": "perm_camera_reason",
+      "value": "用于控制设备闪光灯手电筒功能"
+    },
+    {
+      "name": "perm_vibrate_reason",
+      "value": "用于开关手电筒时的振动反馈"
+    },
+    {
+      "name": "page_title_main",
+      "value": "HarmonyTorch"
+    },
+    {
+      "name": "page_title_mode_select",
+      "value": "选择模式"
+    },
+    {
+      "name": "page_title_settings",
+      "value": "设置"
+    },
+    {
+      "name": "mode_steady",
+      "value": "常亮"
+    },
+    {
+      "name": "mode_sos",
+      "value": "SOS"
+    },
+    {
+      "name": "mode_strobe",
+      "value": "频闪"
+    },
+    {
+      "name": "mode_screen",
+      "value": "屏幕补光"
+    },
+    {
+      "name": "setting_vibration",
+      "value": "振动反馈"
+    },
+    {
+      "name": "setting_keep_screen_on",
+      "value": "屏幕常亮"
+    },
+    {
+      "name": "setting_default_mode",
+      "value": "默认模式"
+    },
+    {
+      "name": "setting_strobe_freq",
+      "value": "频闪频率"
+    },
+    {
+      "name": "brightness_label",
+      "value": "亮度"
+    },
+    {
+      "name": "button_close",
+      "value": "关闭"
+    },
+    {
+      "name": "button_confirm",
+      "value": "确认"
+    },
+    {
+      "name": "button_reset",
+      "value": "恢复默认设置"
+    }
+  ]
+}

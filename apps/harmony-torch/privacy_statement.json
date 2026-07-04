@@ -1,0 +1,15 @@
+{
+  "name": "privacy_statement",
+  "version": "1.0.0",
+  "description": "HarmonyTorch 隐私声明",
+  "statement": [
+    {
+      "name": "camera_permission",
+      "reason": "本应用仅使用相机权限控制设备闪光灯手电筒功能。我们不会访问或保存任何相机图像数据，仅通过系统 API 控制闪光灯的开关状态。"
+    },
+    {
+      "name": "vibrate_permission",
+      "reason": "本应用使用振动权限在用户开关手电筒时提供触觉反馈。振动信息不会被记录或传输。"
+    }
+  ]
+}
