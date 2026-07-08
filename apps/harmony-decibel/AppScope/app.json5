@@ -1,0 +1,14 @@
+{
+  "app": {
+    "bundleName": "com.chinadbo.harmonydecibel",
+    "vendor": "chinadbo",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name",
+    "description": "$string:app_desc",
+    "minAPIVersion": 16,
+    "targetAPIVersion": 16,
+    "apiReleaseType": "Release"
+  }
+}

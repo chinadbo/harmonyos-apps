@@ -1,0 +1,32 @@
+# Privacy Statement
+
+## HarmonyDecibel - Noise Level Meter
+
+### Data Collection
+
+HarmonyDecibel collects the following data:
+
+1. **Audio Data**: The app accesses your device's microphone to measure environmental noise levels. Audio data is processed in real-time and is NOT stored or transmitted.
+
+2. **Measurement History**: The app stores measurement statistics (average, max, min decibel values and timestamps) locally on your device using encrypted database storage.
+
+3. **App Settings**: User preferences (threshold, calibration, theme) are stored locally.
+
+### Data Usage
+
+- All data is stored locally on your device
+- No data is transmitted to external servers
+- No personal information is collected
+- No user account or registration required
+
+### Permissions
+
+- **Microphone**: Required for noise level measurement
+- **Vibration**: Used for threshold alerts
+- **Background Running**: Optional, for continuous monitoring
+
+### Contact
+
+For privacy concerns, contact: chinadbo@github.com
+
+Last updated: 2026-07-09

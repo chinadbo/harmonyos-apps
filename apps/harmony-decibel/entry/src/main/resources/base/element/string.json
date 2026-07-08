@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Entry module"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "HarmonyDecibel Entry Ability"
+    },
+    {
+      "name": "entryability_label",
+      "value": "HarmonyDecibel"
+    },
+    {
+      "name": "mic_permission_reason",
+      "value": "Microphone access is needed to measure environmental noise levels"
+    },
+    {
+      "name": "vibrate_permission_reason",
+      "value": "Vibration is used for noise threshold alerts"
+    },
+    {
+      "name": "bg_permission_reason",
+      "value": "Background running is needed for continuous noise monitoring"
+    },
+    {
+      "name": "tab_measure",
+      "value": "Measure"
+    },
+    {
+      "name": "tab_history",
+      "value": "History"
+    },
+    {
+      "name": "tab_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "tab_reference",
+      "value": "Reference"
+    },
+    {
+      "name": "current_db",
+      "value": "Current dB"
+    },
+    {
+      "name": "avg_db",
+      "value": "Average"
+    },
+    {
+      "name": "max_db",
+      "value": "Max"
+    },
+    {
+      "name": "min_db",
+      "value": "Min"
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    },
+    {
+      "name": "save",
+      "value": "Save"
+    },
+    {
+      "name": "no_history",
+      "value": "No measurement history yet"
+    },
+    {
+      "name": "threshold_label",
+      "value": "Alert Threshold"
+    },
+    {
+      "name": "calibration_label",
+      "value": "Calibration Offset"
+    },
+    {
+      "name": "theme_label",
+      "value": "Theme"
+    },
+    {
+      "name": "alert_enabled",
+      "value": "Enable Alert"
+    },
+    {
+      "name": "vibration_enabled",
+      "value": "Enable Vibration"
+    },
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "version",
+      "value": "Version 1.0.0"
+    }
+  ]
+}

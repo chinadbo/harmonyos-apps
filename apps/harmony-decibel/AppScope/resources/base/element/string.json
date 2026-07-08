@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyDecibel"
+    },
+    {
+      "name": "app_desc",
+      "value": "Professional noise level meter and decibel detector"
+    }
+  ]
+}
