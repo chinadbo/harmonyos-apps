@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "鸿蒙翻译模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "鸿蒙翻译主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "鸿蒙翻译"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "用于调用在线翻译API"
+    },
+    {
+      "name": "tab_translate",
+      "value": "翻译"
+    },
+    {
+      "name": "tab_history",
+      "value": "历史"
+    },
+    {
+      "name": "tab_favorites",
+      "value": "收藏"
+    },
+    {
+      "name": "tab_settings",
+      "value": "设置"
+    },
+    {
+      "name": "input_hint",
+      "value": "请输入要翻译的文本"
+    },
+    {
+      "name": "translate_btn",
+      "value": "翻译"
+    },
+    {
+      "name": "source_lang",
+      "value": "源语言"
+    },
+    {
+      "name": "target_lang",
+      "value": "目标语言"
+    },
+    {
+      "name": "result_label",
+      "value": "翻译结果"
+    },
+    {
+      "name": "copy_btn",
+      "value": "复制"
+    },
+    {
+      "name": "share_btn",
+      "value": "分享"
+    },
+    {
+      "name": "favorite_btn",
+      "value": "收藏"
+    },
+    {
+      "name": "history_title",
+      "value": "翻译历史"
+    },
+    {
+      "name": "favorites_title",
+      "value": "收藏夹"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "empty_history",
+      "value": "暂无翻译历史"
+    },
+    {
+      "name": "empty_favorites",
+      "value": "暂无收藏"
+    },
+    {
+      "name": "clear_history",
+      "value": "清空历史"
+    },
+    {
+      "name": "dark_mode",
+      "value": "深色模式"
+    },
+    {
+      "name": "clipboard_translate",
+      "value": "剪贴板翻译"
+    },
+    {
+      "name": "about_title",
+      "value": "关于"
+    },
+    {
+      "name": "version",
+      "value": "版本"
+    }
+  ]
+}

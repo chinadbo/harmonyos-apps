@@ -1,0 +1,9 @@
+{
+  "name": "harmonytranslate",
+  "version": "1.0.0",
+  "description": "鸿蒙翻译 - 多语言翻译工具",
+  "main": "",
+  "author": "chinadbo",
+  "license": "MIT",
+  "dependencies": {}
+}

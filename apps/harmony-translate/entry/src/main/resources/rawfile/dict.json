@@ -1,0 +1,5434 @@
+[
+  {
+    "en": "hello",
+    "zh": "你好"
+  },
+  {
+    "en": "world",
+    "zh": "世界"
+  },
+  {
+    "en": "love",
+    "zh": "爱"
+  },
+  {
+    "en": "friend",
+    "zh": "朋友"
+  },
+  {
+    "en": "family",
+    "zh": "家庭"
+  },
+  {
+    "en": "home",
+    "zh": "家"
+  },
+  {
+    "en": "school",
+    "zh": "学校"
+  },
+  {
+    "en": "teacher",
+    "zh": "老师"
+  },
+  {
+    "en": "student",
+    "zh": "学生"
+  },
+  {
+    "en": "book",
+    "zh": "书"
+  },
+  {
+    "en": "water",
+    "zh": "水"
+  },
+  {
+    "en": "food",
+    "zh": "食物"
+  },
+  {
+    "en": "apple",
+    "zh": "苹果"
+  },
+  {
+    "en": "banana",
+    "zh": "香蕉"
+  },
+  {
+    "en": "orange",
+    "zh": "橙子"
+  },
+  {
+    "en": "cat",
+    "zh": "猫"
+  },
+  {
+    "en": "dog",
+    "zh": "狗"
+  },
+  {
+    "en": "bird",
+    "zh": "鸟"
+  },
+  {
+    "en": "fish",
+    "zh": "鱼"
+  },
+  {
+    "en": "horse",
+    "zh": "马"
+  },
+  {
+    "en": "car",
+    "zh": "汽车"
+  },
+  {
+    "en": "bus",
+    "zh": "公交车"
+  },
+  {
+    "en": "train",
+    "zh": "火车"
+  },
+  {
+    "en": "plane",
+    "zh": "飞机"
+  },
+  {
+    "en": "ship",
+    "zh": "船"
+  },
+  {
+    "en": "red",
+    "zh": "红色"
+  },
+  {
+    "en": "blue",
+    "zh": "蓝色"
+  },
+  {
+    "en": "green",
+    "zh": "绿色"
+  },
+  {
+    "en": "yellow",
+    "zh": "黄色"
+  },
+  {
+    "en": "black",
+    "zh": "黑色"
+  },
+  {
+    "en": "white",
+    "zh": "白色"
+  },
+  {
+    "en": "big",
+    "zh": "大的"
+  },
+  {
+    "en": "small",
+    "zh": "小的"
+  },
+  {
+    "en": "good",
+    "zh": "好的"
+  },
+  {
+    "en": "bad",
+    "zh": "坏的"
+  },
+  {
+    "en": "happy",
+    "zh": "快乐的"
+  },
+  {
+    "en": "sad",
+    "zh": "悲伤的"
+  },
+  {
+    "en": "angry",
+    "zh": "生气的"
+  },
+  {
+    "en": "tired",
+    "zh": "累的"
+  },
+  {
+    "en": "busy",
+    "zh": "忙碌的"
+  },
+  {
+    "en": "morning",
+    "zh": "早上"
+  },
+  {
+    "en": "afternoon",
+    "zh": "下午"
+  },
+  {
+    "en": "evening",
+    "zh": "晚上"
+  },
+  {
+    "en": "night",
+    "zh": "夜晚"
+  },
+  {
+    "en": "today",
+    "zh": "今天"
+  },
+  {
+    "en": "yesterday",
+    "zh": "昨天"
+  },
+  {
+    "en": "tomorrow",
+    "zh": "明天"
+  },
+  {
+    "en": "week",
+    "zh": "周"
+  },
+  {
+    "en": "month",
+    "zh": "月"
+  },
+  {
+    "en": "year",
+    "zh": "年"
+  },
+  {
+    "en": "spring",
+    "zh": "春天"
+  },
+  {
+    "en": "summer",
+    "zh": "夏天"
+  },
+  {
+    "en": "autumn",
+    "zh": "秋天"
+  },
+  {
+    "en": "winter",
+    "zh": "冬天"
+  },
+  {
+    "en": "weather",
+    "zh": "天气"
+  },
+  {
+    "en": "sun",
+    "zh": "太阳"
+  },
+  {
+    "en": "moon",
+    "zh": "月亮"
+  },
+  {
+    "en": "star",
+    "zh": "星星"
+  },
+  {
+    "en": "rain",
+    "zh": "雨"
+  },
+  {
+    "en": "snow",
+    "zh": "雪"
+  },
+  {
+    "en": "wind",
+    "zh": "风"
+  },
+  {
+    "en": "cloud",
+    "zh": "云"
+  },
+  {
+    "en": "sky",
+    "zh": "天空"
+  },
+  {
+    "en": "earth",
+    "zh": "地球"
+  },
+  {
+    "en": "mountain",
+    "zh": "山"
+  },
+  {
+    "en": "river",
+    "zh": "河流"
+  },
+  {
+    "en": "lake",
+    "zh": "湖"
+  },
+  {
+    "en": "sea",
+    "zh": "海"
+  },
+  {
+    "en": "forest",
+    "zh": "森林"
+  },
+  {
+    "en": "tree",
+    "zh": "树"
+  },
+  {
+    "en": "flower",
+    "zh": "花"
+  },
+  {
+    "en": "grass",
+    "zh": "草"
+  },
+  {
+    "en": "road",
+    "zh": "路"
+  },
+  {
+    "en": "bridge",
+    "zh": "桥"
+  },
+  {
+    "en": "city",
+    "zh": "城市"
+  },
+  {
+    "en": "country",
+    "zh": "国家"
+  },
+  {
+    "en": "village",
+    "zh": "村庄"
+  },
+  {
+    "en": "park",
+    "zh": "公园"
+  },
+  {
+    "en": "hospital",
+    "zh": "医院"
+  },
+  {
+    "en": "bank",
+    "zh": "银行"
+  },
+  {
+    "en": "shop",
+    "zh": "商店"
+  },
+  {
+    "en": "restaurant",
+    "zh": "餐厅"
+  },
+  {
+    "en": "hotel",
+    "zh": "酒店"
+  },
+  {
+    "en": "police",
+    "zh": "警察"
+  },
+  {
+    "en": "doctor",
+    "zh": "医生"
+  },
+  {
+    "en": "nurse",
+    "zh": "护士"
+  },
+  {
+    "en": "engineer",
+    "zh": "工程师"
+  },
+  {
+    "en": "worker",
+    "zh": "工人"
+  },
+  {
+    "en": "farmer",
+    "zh": "农民"
+  },
+  {
+    "en": "artist",
+    "zh": "艺术家"
+  },
+  {
+    "en": "music",
+    "zh": "音乐"
+  },
+  {
+    "en": "song",
+    "zh": "歌曲"
+  },
+  {
+    "en": "dance",
+    "zh": "舞蹈"
+  },
+  {
+    "en": "movie",
+    "zh": "电影"
+  },
+  {
+    "en": "game",
+    "zh": "游戏"
+  },
+  {
+    "en": "sport",
+    "zh": "运动"
+  },
+  {
+    "en": "football",
+    "zh": "足球"
+  },
+  {
+    "en": "basketball",
+    "zh": "篮球"
+  },
+  {
+    "en": "tennis",
+    "zh": "网球"
+  },
+  {
+    "en": "swim",
+    "zh": "游泳"
+  },
+  {
+    "en": "run",
+    "zh": "跑步"
+  },
+  {
+    "en": "walk",
+    "zh": "走路"
+  },
+  {
+    "en": "jump",
+    "zh": "跳"
+  },
+  {
+    "en": "fly",
+    "zh": "飞"
+  },
+  {
+    "en": "drive",
+    "zh": "驾驶"
+  },
+  {
+    "en": "eat",
+    "zh": "吃"
+  },
+  {
+    "en": "drink",
+    "zh": "喝"
+  },
+  {
+    "en": "sleep",
+    "zh": "睡觉"
+  },
+  {
+    "en": "wake",
+    "zh": "醒来"
+  },
+  {
+    "en": "work",
+    "zh": "工作"
+  },
+  {
+    "en": "study",
+    "zh": "学习"
+  },
+  {
+    "en": "read",
+    "zh": "阅读"
+  },
+  {
+    "en": "write",
+    "zh": "写"
+  },
+  {
+    "en": "speak",
+    "zh": "说"
+  },
+  {
+    "en": "listen",
+    "zh": "听"
+  },
+  {
+    "en": "look",
+    "zh": "看"
+  },
+  {
+    "en": "think",
+    "zh": "想"
+  },
+  {
+    "en": "know",
+    "zh": "知道"
+  },
+  {
+    "en": "understand",
+    "zh": "理解"
+  },
+  {
+    "en": "remember",
+    "zh": "记得"
+  },
+  {
+    "en": "forget",
+    "zh": "忘记"
+  },
+  {
+    "en": "find",
+    "zh": "找到"
+  },
+  {
+    "en": "lose",
+    "zh": "丢失"
+  },
+  {
+    "en": "give",
+    "zh": "给"
+  },
+  {
+    "en": "take",
+    "zh": "拿"
+  },
+  {
+    "en": "make",
+    "zh": "制作"
+  },
+  {
+    "en": "do",
+    "zh": "做"
+  },
+  {
+    "en": "go",
+    "zh": "去"
+  },
+  {
+    "en": "come",
+    "zh": "来"
+  },
+  {
+    "en": "leave",
+    "zh": "离开"
+  },
+  {
+    "en": "arrive",
+    "zh": "到达"
+  },
+  {
+    "en": "stay",
+    "zh": "停留"
+  },
+  {
+    "en": "wait",
+    "zh": "等待"
+  },
+  {
+    "en": "start",
+    "zh": "开始"
+  },
+  {
+    "en": "finish",
+    "zh": "结束"
+  },
+  {
+    "en": "stop",
+    "zh": "停止"
+  },
+  {
+    "en": "continue",
+    "zh": "继续"
+  },
+  {
+    "en": "help",
+    "zh": "帮助"
+  },
+  {
+    "en": "need",
+    "zh": "需要"
+  },
+  {
+    "en": "want",
+    "zh": "想要"
+  },
+  {
+    "en": "like",
+    "zh": "喜欢"
+  },
+  {
+    "en": "dislike",
+    "zh": "不喜欢"
+  },
+  {
+    "en": "hate",
+    "zh": "讨厌"
+  },
+  {
+    "en": "hope",
+    "zh": "希望"
+  },
+  {
+    "en": "dream",
+    "zh": "梦想"
+  },
+  {
+    "en": "believe",
+    "zh": "相信"
+  },
+  {
+    "en": "doubt",
+    "zh": "怀疑"
+  },
+  {
+    "en": "agree",
+    "zh": "同意"
+  },
+  {
+    "en": "disagree",
+    "zh": "不同意"
+  },
+  {
+    "en": "accept",
+    "zh": "接受"
+  },
+  {
+    "en": "refuse",
+    "zh": "拒绝"
+  },
+  {
+    "en": "allow",
+    "zh": "允许"
+  },
+  {
+    "en": "forbid",
+    "zh": "禁止"
+  },
+  {
+    "en": "promise",
+    "zh": "承诺"
+  },
+  {
+    "en": "apologize",
+    "zh": "道歉"
+  },
+  {
+    "en": "thank",
+    "zh": "感谢"
+  },
+  {
+    "en": "welcome",
+    "zh": "欢迎"
+  },
+  {
+    "en": "goodbye",
+    "zh": "再见"
+  },
+  {
+    "en": "please",
+    "zh": "请"
+  },
+  {
+    "en": "sorry",
+    "zh": "对不起"
+  },
+  {
+    "en": "yes",
+    "zh": "是"
+  },
+  {
+    "en": "no",
+    "zh": "不"
+  },
+  {
+    "en": "maybe",
+    "zh": "也许"
+  },
+  {
+    "en": "always",
+    "zh": "总是"
+  },
+  {
+    "en": "never",
+    "zh": "从不"
+  },
+  {
+    "en": "often",
+    "zh": "经常"
+  },
+  {
+    "en": "sometimes",
+    "zh": "有时"
+  },
+  {
+    "en": "now",
+    "zh": "现在"
+  },
+  {
+    "en": "then",
+    "zh": "然后"
+  },
+  {
+    "en": "soon",
+    "zh": "很快"
+  },
+  {
+    "en": "later",
+    "zh": "稍后"
+  },
+  {
+    "en": "before",
+    "zh": "之前"
+  },
+  {
+    "en": "after",
+    "zh": "之后"
+  },
+  {
+    "en": "during",
+    "zh": "期间"
+  },
+  {
+    "en": "until",
+    "zh": "直到"
+  },
+  {
+    "en": "because",
+    "zh": "因为"
+  },
+  {
+    "en": "so",
+    "zh": "所以"
+  },
+  {
+    "en": "if",
+    "zh": "如果"
+  },
+  {
+    "en": "but",
+    "zh": "但是"
+  },
+  {
+    "en": "and",
+    "zh": "和"
+  },
+  {
+    "en": "or",
+    "zh": "或者"
+  },
+  {
+    "en": "not",
+    "zh": "不"
+  },
+  {
+    "en": "very",
+    "zh": "非常"
+  },
+  {
+    "en": "too",
+    "zh": "太"
+  },
+  {
+    "en": "more",
+    "zh": "更多"
+  },
+  {
+    "en": "less",
+    "zh": "更少"
+  },
+  {
+    "en": "most",
+    "zh": "最多"
+  },
+  {
+    "en": "least",
+    "zh": "最少"
+  },
+  {
+    "en": "first",
+    "zh": "第一"
+  },
+  {
+    "en": "last",
+    "zh": "最后"
+  },
+  {
+    "en": "next",
+    "zh": "下一个"
+  },
+  {
+    "en": "previous",
+    "zh": "上一个"
+  },
+  {
+    "en": "other",
+    "zh": "其他"
+  },
+  {
+    "en": "same",
+    "zh": "相同"
+  },
+  {
+    "en": "different",
+    "zh": "不同"
+  },
+  {
+    "en": "easy",
+    "zh": "容易"
+  },
+  {
+    "en": "difficult",
+    "zh": "困难"
+  },
+  {
+    "en": "new",
+    "zh": "新的"
+  },
+  {
+    "en": "old",
+    "zh": "旧的"
+  },
+  {
+    "en": "young",
+    "zh": "年轻的"
+  },
+  {
+    "en": "beautiful",
+    "zh": "美丽的"
+  },
+  {
+    "en": "ugly",
+    "zh": "丑陋的"
+  },
+  {
+    "en": "rich",
+    "zh": "富有的"
+  },
+  {
+    "en": "poor",
+    "zh": "贫穷的"
+  },
+  {
+    "en": "healthy",
+    "zh": "健康的"
+  },
+  {
+    "en": "sick",
+    "zh": "生病的"
+  },
+  {
+    "en": "strong",
+    "zh": "强壮的"
+  },
+  {
+    "en": "weak",
+    "zh": "虚弱的"
+  },
+  {
+    "en": "fast",
+    "zh": "快的"
+  },
+  {
+    "en": "slow",
+    "zh": "慢的"
+  },
+  {
+    "en": "hot",
+    "zh": "热的"
+  },
+  {
+    "en": "cold",
+    "zh": "冷的"
+  },
+  {
+    "en": "warm",
+    "zh": "温暖的"
+  },
+  {
+    "en": "cool",
+    "zh": "凉爽的"
+  },
+  {
+    "en": "dry",
+    "zh": "干燥的"
+  },
+  {
+    "en": "wet",
+    "zh": "潮湿的"
+  },
+  {
+    "en": "clean",
+    "zh": "干净的"
+  },
+  {
+    "en": "dirty",
+    "zh": "脏的"
+  },
+  {
+    "en": "safe",
+    "zh": "安全的"
+  },
+  {
+    "en": "dangerous",
+    "zh": "危险的"
+  },
+  {
+    "en": "quiet",
+    "zh": "安静的"
+  },
+  {
+    "en": "noisy",
+    "zh": "吵闹的"
+  },
+  {
+    "en": "soft",
+    "zh": "柔软的"
+  },
+  {
+    "en": "hard",
+    "zh": "坚硬的"
+  },
+  {
+    "en": "smooth",
+    "zh": "光滑的"
+  },
+  {
+    "en": "rough",
+    "zh": "粗糙的"
+  },
+  {
+    "en": "light",
+    "zh": "轻的"
+  },
+  {
+    "en": "heavy",
+    "zh": "重的"
+  },
+  {
+    "en": "bright",
+    "zh": "明亮的"
+  },
+  {
+    "en": "dark",
+    "zh": "黑暗的"
+  },
+  {
+    "en": "clear",
+    "zh": "清楚的"
+  },
+  {
+    "en": "confused",
+    "zh": "困惑的"
+  },
+  {
+    "en": "open",
+    "zh": "打开"
+  },
+  {
+    "en": "close",
+    "zh": "关闭"
+  },
+  {
+    "en": "push",
+    "zh": "推"
+  },
+  {
+    "en": "pull",
+    "zh": "拉"
+  },
+  {
+    "en": "turn",
+    "zh": "转"
+  },
+  {
+    "en": "move",
+    "zh": "移动"
+  },
+  {
+    "en": "sit",
+    "zh": "坐"
+  },
+  {
+    "en": "stand",
+    "zh": "站"
+  },
+  {
+    "en": "lie",
+    "zh": "躺"
+  },
+  {
+    "en": "fall",
+    "zh": "摔倒"
+  },
+  {
+    "en": "rise",
+    "zh": "升起"
+  },
+  {
+    "en": "grow",
+    "zh": "成长"
+  },
+  {
+    "en": "die",
+    "zh": "死亡"
+  },
+  {
+    "en": "live",
+    "zh": "生活"
+  },
+  {
+    "en": "born",
+    "zh": "出生"
+  },
+  {
+    "en": "marry",
+    "zh": "结婚"
+  },
+  {
+    "en": "divorce",
+    "zh": "离婚"
+  },
+  {
+    "en": "meet",
+    "zh": "遇见"
+  },
+  {
+    "en": "miss",
+    "zh": "想念"
+  },
+  {
+    "en": "join",
+    "zh": "加入"
+  },
+  {
+    "en": "separate",
+    "zh": "分离"
+  },
+  {
+    "en": "return",
+    "zh": "返回"
+  },
+  {
+    "en": "send",
+    "zh": "发送"
+  },
+  {
+    "en": "receive",
+    "zh": "收到"
+  },
+  {
+    "en": "buy",
+    "zh": "购买"
+  },
+  {
+    "en": "sell",
+    "zh": "卖"
+  },
+  {
+    "en": "pay",
+    "zh": "支付"
+  },
+  {
+    "en": "cost",
+    "zh": "花费"
+  },
+  {
+    "en": "save",
+    "zh": "节省"
+  },
+  {
+    "en": "waste",
+    "zh": "浪费"
+  },
+  {
+    "en": "choose",
+    "zh": "选择"
+  },
+  {
+    "en": "decide",
+    "zh": "决定"
+  },
+  {
+    "en": "change",
+    "zh": "改变"
+  },
+  {
+    "en": "keep",
+    "zh": "保持"
+  },
+  {
+    "en": "break",
+    "zh": "打破"
+  },
+  {
+    "en": "fix",
+    "zh": "修理"
+  },
+  {
+    "en": "build",
+    "zh": "建造"
+  },
+  {
+    "en": "destroy",
+    "zh": "破坏"
+  },
+  {
+    "en": "create",
+    "zh": "创造"
+  },
+  {
+    "en": "protect",
+    "zh": "保护"
+  },
+  {
+    "en": "attack",
+    "zh": "攻击"
+  },
+  {
+    "en": "defend",
+    "zh": "防御"
+  },
+  {
+    "en": "win",
+    "zh": "赢"
+  },
+  {
+    "en": "lose",
+    "zh": "输"
+  },
+  {
+    "en": "fight",
+    "zh": "战斗"
+  },
+  {
+    "en": "peace",
+    "zh": "和平"
+  },
+  {
+    "en": "war",
+    "zh": "战争"
+  },
+  {
+    "en": "problem",
+    "zh": "问题"
+  },
+  {
+    "en": "solution",
+    "zh": "解决方案"
+  },
+  {
+    "en": "answer",
+    "zh": "答案"
+  },
+  {
+    "en": "question",
+    "zh": "问题"
+  },
+  {
+    "en": "idea",
+    "zh": "想法"
+  },
+  {
+    "en": "plan",
+    "zh": "计划"
+  },
+  {
+    "en": "goal",
+    "zh": "目标"
+  },
+  {
+    "en": "success",
+    "zh": "成功"
+  },
+  {
+    "en": "failure",
+    "zh": "失败"
+  },
+  {
+    "en": "chance",
+    "zh": "机会"
+  },
+  {
+    "en": "risk",
+    "zh": "风险"
+  },
+  {
+    "en": "advantage",
+    "zh": "优势"
+  },
+  {
+    "en": "disadvantage",
+    "zh": "劣势"
+  },
+  {
+    "en": "benefit",
+    "zh": "好处"
+  },
+  {
+    "en": "harm",
+    "zh": "伤害"
+  },
+  {
+    "en": "truth",
+    "zh": "真相"
+  },
+  {
+    "en": "lie",
+    "zh": "谎言"
+  },
+  {
+    "en": "fact",
+    "zh": "事实"
+  },
+  {
+    "en": "opinion",
+    "zh": "观点"
+  },
+  {
+    "en": "example",
+    "zh": "例子"
+  },
+  {
+    "en": "reason",
+    "zh": "原因"
+  },
+  {
+    "en": "result",
+    "zh": "结果"
+  },
+  {
+    "en": "purpose",
+    "zh": "目的"
+  },
+  {
+    "en": "method",
+    "zh": "方法"
+  },
+  {
+    "en": "way",
+    "zh": "方式"
+  },
+  {
+    "en": "skill",
+    "zh": "技能"
+  },
+  {
+    "en": "ability",
+    "zh": "能力"
+  },
+  {
+    "en": "experience",
+    "zh": "经验"
+  },
+  {
+    "en": "knowledge",
+    "zh": "知识"
+  },
+  {
+    "en": "wisdom",
+    "zh": "智慧"
+  },
+  {
+    "en": "culture",
+    "zh": "文化"
+  },
+  {
+    "en": "history",
+    "zh": "历史"
+  },
+  {
+    "en": "language",
+    "zh": "语言"
+  },
+  {
+    "en": "art",
+    "zh": "艺术"
+  },
+  {
+    "en": "science",
+    "zh": "科学"
+  },
+  {
+    "en": "technology",
+    "zh": "技术"
+  },
+  {
+    "en": "nature",
+    "zh": "自然"
+  },
+  {
+    "en": "environment",
+    "zh": "环境"
+  },
+  {
+    "en": "energy",
+    "zh": "能量"
+  },
+  {
+    "en": "power",
+    "zh": "力量"
+  },
+  {
+    "en": "money",
+    "zh": "钱"
+  },
+  {
+    "en": "price",
+    "zh": "价格"
+  },
+  {
+    "en": "value",
+    "zh": "价值"
+  },
+  {
+    "en": "quality",
+    "zh": "质量"
+  },
+  {
+    "en": "quantity",
+    "zh": "数量"
+  },
+  {
+    "en": "size",
+    "zh": "尺寸"
+  },
+  {
+    "en": "shape",
+    "zh": "形状"
+  },
+  {
+    "en": "color",
+    "zh": "颜色"
+  },
+  {
+    "en": "material",
+    "zh": "材料"
+  },
+  {
+    "en": "style",
+    "zh": "风格"
+  },
+  {
+    "en": "design",
+    "zh": "设计"
+  },
+  {
+    "en": "pattern",
+    "zh": "图案"
+  },
+  {
+    "en": "model",
+    "zh": "模型"
+  },
+  {
+    "en": "type",
+    "zh": "类型"
+  },
+  {
+    "en": "kind",
+    "zh": "种类"
+  },
+  {
+    "en": "part",
+    "zh": "部分"
+  },
+  {
+    "en": "whole",
+    "zh": "整体"
+  },
+  {
+    "en": "half",
+    "zh": "一半"
+  },
+  {
+    "en": "percent",
+    "zh": "百分比"
+  },
+  {
+    "en": "number",
+    "zh": "数字"
+  },
+  {
+    "en": "amount",
+    "zh": "数量"
+  },
+  {
+    "en": "level",
+    "zh": "水平"
+  },
+  {
+    "en": "degree",
+    "zh": "程度"
+  },
+  {
+    "en": "rate",
+    "zh": "比率"
+  },
+  {
+    "en": "speed",
+    "zh": "速度"
+  },
+  {
+    "en": "time",
+    "zh": "时间"
+  },
+  {
+    "en": "moment",
+    "zh": "时刻"
+  },
+  {
+    "en": "period",
+    "zh": "时期"
+  },
+  {
+    "en": "stage",
+    "zh": "阶段"
+  },
+  {
+    "en": "step",
+    "zh": "步骤"
+  },
+  {
+    "en": "process",
+    "zh": "过程"
+  },
+  {
+    "en": "progress",
+    "zh": "进展"
+  },
+  {
+    "en": "development",
+    "zh": "发展"
+  },
+  {
+    "en": "improvement",
+    "zh": "改进"
+  },
+  {
+    "en": "innovation",
+    "zh": "创新"
+  },
+  {
+    "en": "tradition",
+    "zh": "传统"
+  },
+  {
+    "en": "future",
+    "zh": "未来"
+  },
+  {
+    "en": "past",
+    "zh": "过去"
+  },
+  {
+    "en": "present",
+    "zh": "现在"
+  },
+  {
+    "en": "fear",
+    "zh": "恐惧"
+  },
+  {
+    "en": "joy",
+    "zh": "喜悦"
+  },
+  {
+    "en": "pain",
+    "zh": "痛苦"
+  },
+  {
+    "en": "pleasure",
+    "zh": "快乐"
+  },
+  {
+    "en": "surprise",
+    "zh": "惊讶"
+  },
+  {
+    "en": "shock",
+    "zh": "震惊"
+  },
+  {
+    "en": "shame",
+    "zh": "羞耻"
+  },
+  {
+    "en": "pride",
+    "zh": "骄傲"
+  },
+  {
+    "en": "courage",
+    "zh": "勇气"
+  },
+  {
+    "en": "honest",
+    "zh": "诚实的"
+  },
+  {
+    "en": "kind",
+    "zh": "善良的"
+  },
+  {
+    "en": "polite",
+    "zh": "礼貌的"
+  },
+  {
+    "en": "rude",
+    "zh": "粗鲁的"
+  },
+  {
+    "en": "lazy",
+    "zh": "懒惰的"
+  },
+  {
+    "en": "brave",
+    "zh": "勇敢的"
+  },
+  {
+    "en": "careful",
+    "zh": "仔细的"
+  },
+  {
+    "en": "careless",
+    "zh": "粗心的"
+  },
+  {
+    "en": "serious",
+    "zh": "严肃的"
+  },
+  {
+    "en": "funny",
+    "zh": "有趣的"
+  },
+  {
+    "en": "smart",
+    "zh": "聪明的"
+  },
+  {
+    "en": "stupid",
+    "zh": "愚蠢的"
+  },
+  {
+    "en": "famous",
+    "zh": "著名的"
+  },
+  {
+    "en": "unknown",
+    "zh": "未知的"
+  },
+  {
+    "en": "popular",
+    "zh": "流行的"
+  },
+  {
+    "en": "common",
+    "zh": "普通的"
+  },
+  {
+    "en": "special",
+    "zh": "特别的"
+  },
+  {
+    "en": "unique",
+    "zh": "独特的"
+  },
+  {
+    "en": "rare",
+    "zh": "稀有的"
+  },
+  {
+    "en": "precious",
+    "zh": "珍贵的"
+  },
+  {
+    "en": "cheap",
+    "zh": "便宜的"
+  },
+  {
+    "en": "expensive",
+    "zh": "昂贵的"
+  },
+  {
+    "en": "free",
+    "zh": "免费的"
+  },
+  {
+    "en": "early",
+    "zh": "早的"
+  },
+  {
+    "en": "late",
+    "zh": "晚的"
+  },
+  {
+    "en": "recently",
+    "zh": "最近"
+  },
+  {
+    "en": "already",
+    "zh": "已经"
+  },
+  {
+    "en": "yet",
+    "zh": "还"
+  },
+  {
+    "en": "still",
+    "zh": "仍然"
+  },
+  {
+    "en": "even",
+    "zh": "甚至"
+  },
+  {
+    "en": "just",
+    "zh": "刚刚"
+  },
+  {
+    "en": "only",
+    "zh": "只有"
+  },
+  {
+    "en": "also",
+    "zh": "也"
+  },
+  {
+    "en": "too",
+    "zh": "也"
+  },
+  {
+    "en": "either",
+    "zh": "也"
+  },
+  {
+    "en": "neither",
+    "zh": "也不"
+  },
+  {
+    "en": "both",
+    "zh": "两者都"
+  },
+  {
+    "en": "all",
+    "zh": "所有"
+  },
+  {
+    "en": "none",
+    "zh": "没有"
+  },
+  {
+    "en": "some",
+    "zh": "一些"
+  },
+  {
+    "en": "any",
+    "zh": "任何"
+  },
+  {
+    "en": "many",
+    "zh": "许多"
+  },
+  {
+    "en": "few",
+    "zh": "少数"
+  },
+  {
+    "en": "several",
+    "zh": "几个"
+  },
+  {
+    "en": "each",
+    "zh": "每个"
+  },
+  {
+    "en": "every",
+    "zh": "每个"
+  },
+  {
+    "en": "another",
+    "zh": "另一个"
+  },
+  {
+    "en": "such",
+    "zh": "这样的"
+  },
+  {
+    "en": "so",
+    "zh": "如此"
+  },
+  {
+    "en": "how",
+    "zh": "如何"
+  },
+  {
+    "en": "what",
+    "zh": "什么"
+  },
+  {
+    "en": "which",
+    "zh": "哪个"
+  },
+  {
+    "en": "who",
+    "zh": "谁"
+  },
+  {
+    "en": "where",
+    "zh": "哪里"
+  },
+  {
+    "en": "when",
+    "zh": "何时"
+  },
+  {
+    "en": "why",
+    "zh": "为什么"
+  },
+  {
+    "en": "wherever",
+    "zh": "无论哪里"
+  },
+  {
+    "en": "whenever",
+    "zh": "无论何时"
+  },
+  {
+    "en": "however",
+    "zh": "无论如何"
+  },
+  {
+    "en": "whatever",
+    "zh": "无论什么"
+  },
+  {
+    "en": "although",
+    "zh": "虽然"
+  },
+  {
+    "en": "while",
+    "zh": "当...时"
+  },
+  {
+    "en": "unless",
+    "zh": "除非"
+  },
+  {
+    "en": "since",
+    "zh": "自从"
+  },
+  {
+    "en": "as",
+    "zh": "作为"
+  },
+  {
+    "en": "like",
+    "zh": "像"
+  },
+  {
+    "en": "than",
+    "zh": "比"
+  },
+  {
+    "en": "about",
+    "zh": "关于"
+  },
+  {
+    "en": "above",
+    "zh": "在...上方"
+  },
+  {
+    "en": "below",
+    "zh": "在...下方"
+  },
+  {
+    "en": "over",
+    "zh": "在...之上"
+  },
+  {
+    "en": "under",
+    "zh": "在...之下"
+  },
+  {
+    "en": "between",
+    "zh": "在...之间"
+  },
+  {
+    "en": "among",
+    "zh": "在...之中"
+  },
+  {
+    "en": "through",
+    "zh": "通过"
+  },
+  {
+    "en": "across",
+    "zh": "穿过"
+  },
+  {
+    "en": "into",
+    "zh": "进入"
+  },
+  {
+    "en": "out",
+    "zh": "出来"
+  },
+  {
+    "en": "onto",
+    "zh": "到...上"
+  },
+  {
+    "en": "off",
+    "zh": "离开"
+  },
+  {
+    "en": "up",
+    "zh": "向上"
+  },
+  {
+    "en": "down",
+    "zh": "向下"
+  },
+  {
+    "en": "forward",
+    "zh": "向前"
+  },
+  {
+    "en": "backward",
+    "zh": "向后"
+  },
+  {
+    "en": "left",
+    "zh": "左"
+  },
+  {
+    "en": "right",
+    "zh": "右"
+  },
+  {
+    "en": "east",
+    "zh": "东"
+  },
+  {
+    "en": "west",
+    "zh": "西"
+  },
+  {
+    "en": "south",
+    "zh": "南"
+  },
+  {
+    "en": "north",
+    "zh": "北"
+  },
+  {
+    "en": "center",
+    "zh": "中心"
+  },
+  {
+    "en": "edge",
+    "zh": "边缘"
+  },
+  {
+    "en": "corner",
+    "zh": "角落"
+  },
+  {
+    "en": "top",
+    "zh": "顶部"
+  },
+  {
+    "en": "bottom",
+    "zh": "底部"
+  },
+  {
+    "en": "side",
+    "zh": "侧面"
+  },
+  {
+    "en": "front",
+    "zh": "前面"
+  },
+  {
+    "en": "back",
+    "zh": "后面"
+  },
+  {
+    "en": "inside",
+    "zh": "里面"
+  },
+  {
+    "en": "outside",
+    "zh": "外面"
+  },
+  {
+    "en": "near",
+    "zh": "附近"
+  },
+  {
+    "en": "far",
+    "zh": "远"
+  },
+  {
+    "en": "close",
+    "zh": "近的"
+  },
+  {
+    "en": "deep",
+    "zh": "深的"
+  },
+  {
+    "en": "shallow",
+    "zh": "浅的"
+  },
+  {
+    "en": "high",
+    "zh": "高的"
+  },
+  {
+    "en": "low",
+    "zh": "低的"
+  },
+  {
+    "en": "long",
+    "zh": "长的"
+  },
+  {
+    "en": "short",
+    "zh": "短的"
+  },
+  {
+    "en": "wide",
+    "zh": "宽的"
+  },
+  {
+    "en": "narrow",
+    "zh": "窄的"
+  },
+  {
+    "en": "thick",
+    "zh": "厚的"
+  },
+  {
+    "en": "thin",
+    "zh": "薄的"
+  },
+  {
+    "en": "full",
+    "zh": "满的"
+  },
+  {
+    "en": "empty",
+    "zh": "空的"
+  },
+  {
+    "en": "enough",
+    "zh": "足够的"
+  },
+  {
+    "en": "lack",
+    "zh": "缺乏"
+  },
+  {
+    "en": "extra",
+    "zh": "额外的"
+  },
+  {
+    "en": "spare",
+    "zh": "备用的"
+  },
+  {
+    "en": "main",
+    "zh": "主要的"
+  },
+  {
+    "en": "minor",
+    "zh": "次要的"
+  },
+  {
+    "en": "major",
+    "zh": "主要的"
+  },
+  {
+    "en": "basic",
+    "zh": "基本的"
+  },
+  {
+    "en": "advanced",
+    "zh": "高级的"
+  },
+  {
+    "en": "simple",
+    "zh": "简单的"
+  },
+  {
+    "en": "complex",
+    "zh": "复杂的"
+  },
+  {
+    "en": "complete",
+    "zh": "完整的"
+  },
+  {
+    "en": "incomplete",
+    "zh": "不完整的"
+  },
+  {
+    "en": "perfect",
+    "zh": "完美的"
+  },
+  {
+    "en": "imperfect",
+    "zh": "不完美的"
+  },
+  {
+    "en": "possible",
+    "zh": "可能的"
+  },
+  {
+    "en": "impossible",
+    "zh": "不可能的"
+  },
+  {
+    "en": "probable",
+    "zh": "可能的"
+  },
+  {
+    "en": "certain",
+    "zh": "确定的"
+  },
+  {
+    "en": "uncertain",
+    "zh": "不确定的"
+  },
+  {
+    "en": "sure",
+    "zh": "确定的"
+  },
+  {
+    "en": "unsure",
+    "zh": "不确定的"
+  },
+  {
+    "en": "true",
+    "zh": "真的"
+  },
+  {
+    "en": "false",
+    "zh": "假的"
+  },
+  {
+    "en": "real",
+    "zh": "真实的"
+  },
+  {
+    "en": "fake",
+    "zh": "假的"
+  },
+  {
+    "en": "original",
+    "zh": "原始的"
+  },
+  {
+    "en": "copy",
+    "zh": "副本"
+  },
+  {
+    "en": "public",
+    "zh": "公共的"
+  },
+  {
+    "en": "private",
+    "zh": "私人的"
+  },
+  {
+    "en": "personal",
+    "zh": "个人的"
+  },
+  {
+    "en": "official",
+    "zh": "官方的"
+  },
+  {
+    "en": "formal",
+    "zh": "正式的"
+  },
+  {
+    "en": "informal",
+    "zh": "非正式的"
+  },
+  {
+    "en": "legal",
+    "zh": "合法的"
+  },
+  {
+    "en": "illegal",
+    "zh": "非法的"
+  },
+  {
+    "en": "moral",
+    "zh": "道德的"
+  },
+  {
+    "en": "immoral",
+    "zh": "不道德的"
+  },
+  {
+    "en": "normal",
+    "zh": "正常的"
+  },
+  {
+    "en": "abnormal",
+    "zh": "异常的"
+  },
+  {
+    "en": "regular",
+    "zh": "规律的"
+  },
+  {
+    "en": "irregular",
+    "zh": "不规律的"
+  },
+  {
+    "en": "standard",
+    "zh": "标准的"
+  },
+  {
+    "en": "average",
+    "zh": "平均的"
+  },
+  {
+    "en": "maximum",
+    "zh": "最大"
+  },
+  {
+    "en": "minimum",
+    "zh": "最小"
+  },
+  {
+    "en": "total",
+    "zh": "总计"
+  },
+  {
+    "en": "sum",
+    "zh": "总和"
+  },
+  {
+    "en": "difference",
+    "zh": "差异"
+  },
+  {
+    "en": "product",
+    "zh": "产品"
+  },
+  {
+    "en": "service",
+    "zh": "服务"
+  },
+  {
+    "en": "business",
+    "zh": "商业"
+  },
+  {
+    "en": "company",
+    "zh": "公司"
+  },
+  {
+    "en": "market",
+    "zh": "市场"
+  },
+  {
+    "en": "customer",
+    "zh": "客户"
+  },
+  {
+    "en": "client",
+    "zh": "客户"
+  },
+  {
+    "en": "partner",
+    "zh": "伙伴"
+  },
+  {
+    "en": "competitor",
+    "zh": "竞争对手"
+  },
+  {
+    "en": "leader",
+    "zh": "领导者"
+  },
+  {
+    "en": "manager",
+    "zh": "经理"
+  },
+  {
+    "en": "boss",
+    "zh": "老板"
+  },
+  {
+    "en": "employee",
+    "zh": "员工"
+  },
+  {
+    "en": "colleague",
+    "zh": "同事"
+  },
+  {
+    "en": "team",
+    "zh": "团队"
+  },
+  {
+    "en": "group",
+    "zh": "组"
+  },
+  {
+    "en": "organization",
+    "zh": "组织"
+  },
+  {
+    "en": "government",
+    "zh": "政府"
+  },
+  {
+    "en": "society",
+    "zh": "社会"
+  },
+  {
+    "en": "community",
+    "zh": "社区"
+  },
+  {
+    "en": "public",
+    "zh": "公众"
+  },
+  {
+    "en": "media",
+    "zh": "媒体"
+  },
+  {
+    "en": "news",
+    "zh": "新闻"
+  },
+  {
+    "en": "information",
+    "zh": "信息"
+  },
+  {
+    "en": "message",
+    "zh": "消息"
+  },
+  {
+    "en": "email",
+    "zh": "电子邮件"
+  },
+  {
+    "en": "phone",
+    "zh": "电话"
+  },
+  {
+    "en": "computer",
+    "zh": "电脑"
+  },
+  {
+    "en": "internet",
+    "zh": "互联网"
+  },
+  {
+    "en": "website",
+    "zh": "网站"
+  },
+  {
+    "en": "app",
+    "zh": "应用"
+  },
+  {
+    "en": "software",
+    "zh": "软件"
+  },
+  {
+    "en": "hardware",
+    "zh": "硬件"
+  },
+  {
+    "en": "system",
+    "zh": "系统"
+  },
+  {
+    "en": "network",
+    "zh": "网络"
+  },
+  {
+    "en": "database",
+    "zh": "数据库"
+  },
+  {
+    "en": "file",
+    "zh": "文件"
+  },
+  {
+    "en": "folder",
+    "zh": "文件夹"
+  },
+  {
+    "en": "document",
+    "zh": "文档"
+  },
+  {
+    "en": "data",
+    "zh": "数据"
+  },
+  {
+    "en": "content",
+    "zh": "内容"
+  },
+  {
+    "en": "text",
+    "zh": "文本"
+  },
+  {
+    "en": "image",
+    "zh": "图片"
+  },
+  {
+    "en": "video",
+    "zh": "视频"
+  },
+  {
+    "en": "audio",
+    "zh": "音频"
+  },
+  {
+    "en": "camera",
+    "zh": "相机"
+  },
+  {
+    "en": "screen",
+    "zh": "屏幕"
+  },
+  {
+    "en": "keyboard",
+    "zh": "键盘"
+  },
+  {
+    "en": "mouse",
+    "zh": "鼠标"
+  },
+  {
+    "en": "printer",
+    "zh": "打印机"
+  },
+  {
+    "en": "battery",
+    "zh": "电池"
+  },
+  {
+    "en": "charger",
+    "zh": "充电器"
+  },
+  {
+    "en": "cable",
+    "zh": "线缆"
+  },
+  {
+    "en": "device",
+    "zh": "设备"
+  },
+  {
+    "en": "tool",
+    "zh": "工具"
+  },
+  {
+    "en": "machine",
+    "zh": "机器"
+  },
+  {
+    "en": "robot",
+    "zh": "机器人"
+  },
+  {
+    "en": "AI",
+    "zh": "人工智能"
+  },
+  {
+    "en": "algorithm",
+    "zh": "算法"
+  },
+  {
+    "en": "program",
+    "zh": "程序"
+  },
+  {
+    "en": "code",
+    "zh": "代码"
+  },
+  {
+    "en": "bug",
+    "zh": "漏洞"
+  },
+  {
+    "en": "error",
+    "zh": "错误"
+  },
+  {
+    "en": "warning",
+    "zh": "警告"
+  },
+  {
+    "en": "cancel",
+    "zh": "取消"
+  },
+  {
+    "en": "confirm",
+    "zh": "确认"
+  },
+  {
+    "en": "submit",
+    "zh": "提交"
+  },
+  {
+    "en": "edit",
+    "zh": "编辑"
+  },
+  {
+    "en": "add",
+    "zh": "添加"
+  },
+  {
+    "en": "remove",
+    "zh": "移除"
+  },
+  {
+    "en": "update",
+    "zh": "更新"
+  },
+  {
+    "en": "upgrade",
+    "zh": "升级"
+  },
+  {
+    "en": "install",
+    "zh": "安装"
+  },
+  {
+    "en": "login",
+    "zh": "登录"
+  },
+  {
+    "en": "logout",
+    "zh": "退出"
+  },
+  {
+    "en": "register",
+    "zh": "注册"
+  },
+  {
+    "en": "password",
+    "zh": "密码"
+  },
+  {
+    "en": "username",
+    "zh": "用户名"
+  },
+  {
+    "en": "account",
+    "zh": "账户"
+  },
+  {
+    "en": "profile",
+    "zh": "个人资料"
+  },
+  {
+    "en": "avatar",
+    "zh": "头像"
+  },
+  {
+    "en": "nickname",
+    "zh": "昵称"
+  },
+  {
+    "en": "signature",
+    "zh": "签名"
+  },
+  {
+    "en": "status",
+    "zh": "状态"
+  },
+  {
+    "en": "notification",
+    "zh": "通知"
+  },
+  {
+    "en": "reminder",
+    "zh": "提醒"
+  },
+  {
+    "en": "alarm",
+    "zh": "闹钟"
+  },
+  {
+    "en": "calendar",
+    "zh": "日历"
+  },
+  {
+    "en": "clock",
+    "zh": "时钟"
+  },
+  {
+    "en": "timer",
+    "zh": "计时器"
+  },
+  {
+    "en": "schedule",
+    "zh": "日程"
+  },
+  {
+    "en": "event",
+    "zh": "事件"
+  },
+  {
+    "en": "meeting",
+    "zh": "会议"
+  },
+  {
+    "en": "appointment",
+    "zh": "约会"
+  },
+  {
+    "en": "deadline",
+    "zh": "截止日期"
+  },
+  {
+    "en": "priority",
+    "zh": "优先级"
+  },
+  {
+    "en": "task",
+    "zh": "任务"
+  },
+  {
+    "en": "project",
+    "zh": "项目"
+  },
+  {
+    "en": "homework",
+    "zh": "作业"
+  },
+  {
+    "en": "exam",
+    "zh": "考试"
+  },
+  {
+    "en": "grade",
+    "zh": "成绩"
+  },
+  {
+    "en": "degree",
+    "zh": "学位"
+  },
+  {
+    "en": "certificate",
+    "zh": "证书"
+  },
+  {
+    "en": "diploma",
+    "zh": "文凭"
+  },
+  {
+    "en": "scholarship",
+    "zh": "奖学金"
+  },
+  {
+    "en": "tuition",
+    "zh": "学费"
+  },
+  {
+    "en": "campus",
+    "zh": "校园"
+  },
+  {
+    "en": "classroom",
+    "zh": "教室"
+  },
+  {
+    "en": "library",
+    "zh": "图书馆"
+  },
+  {
+    "en": "laboratory",
+    "zh": "实验室"
+  },
+  {
+    "en": "dormitory",
+    "zh": "宿舍"
+  },
+  {
+    "en": "cafeteria",
+    "zh": "食堂"
+  },
+  {
+    "en": "gym",
+    "zh": "健身房"
+  },
+  {
+    "en": "stadium",
+    "zh": "体育场"
+  },
+  {
+    "en": "playground",
+    "zh": "操场"
+  },
+  {
+    "en": "pool",
+    "zh": "游泳池"
+  },
+  {
+    "en": "beach",
+    "zh": "海滩"
+  },
+  {
+    "en": "desert",
+    "zh": "沙漠"
+  },
+  {
+    "en": "island",
+    "zh": "岛屿"
+  },
+  {
+    "en": "continent",
+    "zh": "大陆"
+  },
+  {
+    "en": "ocean",
+    "zh": "海洋"
+  },
+  {
+    "en": "space",
+    "zh": "太空"
+  },
+  {
+    "en": "universe",
+    "zh": "宇宙"
+  },
+  {
+    "en": "galaxy",
+    "zh": "星系"
+  },
+  {
+    "en": "planet",
+    "zh": "行星"
+  },
+  {
+    "en": "satellite",
+    "zh": "卫星"
+  },
+  {
+    "en": "rocket",
+    "zh": "火箭"
+  },
+  {
+    "en": "astronaut",
+    "zh": "宇航员"
+  },
+  {
+    "en": "scientist",
+    "zh": "科学家"
+  },
+  {
+    "en": "inventor",
+    "zh": "发明家"
+  },
+  {
+    "en": "discovery",
+    "zh": "发现"
+  },
+  {
+    "en": "invention",
+    "zh": "发明"
+  },
+  {
+    "en": "experiment",
+    "zh": "实验"
+  },
+  {
+    "en": "theory",
+    "zh": "理论"
+  },
+  {
+    "en": "law",
+    "zh": "定律"
+  },
+  {
+    "en": "principle",
+    "zh": "原理"
+  },
+  {
+    "en": "concept",
+    "zh": "概念"
+  },
+  {
+    "en": "definition",
+    "zh": "定义"
+  },
+  {
+    "en": "term",
+    "zh": "术语"
+  },
+  {
+    "en": "word",
+    "zh": "单词"
+  },
+  {
+    "en": "sentence",
+    "zh": "句子"
+  },
+  {
+    "en": "paragraph",
+    "zh": "段落"
+  },
+  {
+    "en": "essay",
+    "zh": "文章"
+  },
+  {
+    "en": "story",
+    "zh": "故事"
+  },
+  {
+    "en": "novel",
+    "zh": "小说"
+  },
+  {
+    "en": "poetry",
+    "zh": "诗歌"
+  },
+  {
+    "en": "drama",
+    "zh": "戏剧"
+  },
+  {
+    "en": "comedy",
+    "zh": "喜剧"
+  },
+  {
+    "en": "tragedy",
+    "zh": "悲剧"
+  },
+  {
+    "en": "fiction",
+    "zh": "小说"
+  },
+  {
+    "en": "non-fiction",
+    "zh": "非小说"
+  },
+  {
+    "en": "biography",
+    "zh": "传记"
+  },
+  {
+    "en": "autobiography",
+    "zh": "自传"
+  },
+  {
+    "en": "journal",
+    "zh": "期刊"
+  },
+  {
+    "en": "magazine",
+    "zh": "杂志"
+  },
+  {
+    "en": "newspaper",
+    "zh": "报纸"
+  },
+  {
+    "en": "article",
+    "zh": "文章"
+  },
+  {
+    "en": "report",
+    "zh": "报告"
+  },
+  {
+    "en": "paper",
+    "zh": "论文"
+  },
+  {
+    "en": "thesis",
+    "zh": "论文"
+  },
+  {
+    "en": "research",
+    "zh": "研究"
+  },
+  {
+    "en": "survey",
+    "zh": "调查"
+  },
+  {
+    "en": "analysis",
+    "zh": "分析"
+  },
+  {
+    "en": "summary",
+    "zh": "摘要"
+  },
+  {
+    "en": "conclusion",
+    "zh": "结论"
+  },
+  {
+    "en": "introduction",
+    "zh": "引言"
+  },
+  {
+    "en": "background",
+    "zh": "背景"
+  },
+  {
+    "en": "reference",
+    "zh": "参考"
+  },
+  {
+    "en": "source",
+    "zh": "来源"
+  },
+  {
+    "en": "citation",
+    "zh": "引用"
+  },
+  {
+    "en": "quote",
+    "zh": "引用"
+  },
+  {
+    "en": "note",
+    "zh": "笔记"
+  },
+  {
+    "en": "memo",
+    "zh": "备忘录"
+  },
+  {
+    "en": "diary",
+    "zh": "日记"
+  },
+  {
+    "en": "letter",
+    "zh": "信件"
+  },
+  {
+    "en": "postcard",
+    "zh": "明信片"
+  },
+  {
+    "en": "envelope",
+    "zh": "信封"
+  },
+  {
+    "en": "stamp",
+    "zh": "邮票"
+  },
+  {
+    "en": "address",
+    "zh": "地址"
+  },
+  {
+    "en": "phone number",
+    "zh": "电话号码"
+  },
+  {
+    "en": "email address",
+    "zh": "邮箱地址"
+  },
+  {
+    "en": "website URL",
+    "zh": "网址"
+  },
+  {
+    "en": "link",
+    "zh": "链接"
+  },
+  {
+    "en": "button",
+    "zh": "按钮"
+  },
+  {
+    "en": "menu",
+    "zh": "菜单"
+  },
+  {
+    "en": "icon",
+    "zh": "图标"
+  },
+  {
+    "en": "logo",
+    "zh": "标志"
+  },
+  {
+    "en": "brand",
+    "zh": "品牌"
+  },
+  {
+    "en": "trademark",
+    "zh": "商标"
+  },
+  {
+    "en": "copyright",
+    "zh": "版权"
+  },
+  {
+    "en": "patent",
+    "zh": "专利"
+  },
+  {
+    "en": "license",
+    "zh": "许可证"
+  },
+  {
+    "en": "contract",
+    "zh": "合同"
+  },
+  {
+    "en": "agreement",
+    "zh": "协议"
+  },
+  {
+    "en": "terms",
+    "zh": "条款"
+  },
+  {
+    "en": "conditions",
+    "zh": "条件"
+  },
+  {
+    "en": "policy",
+    "zh": "政策"
+  },
+  {
+    "en": "rule",
+    "zh": "规则"
+  },
+  {
+    "en": "regulation",
+    "zh": "规定"
+  },
+  {
+    "en": "court",
+    "zh": "法院"
+  },
+  {
+    "en": "judge",
+    "zh": "法官"
+  },
+  {
+    "en": "lawyer",
+    "zh": "律师"
+  },
+  {
+    "en": "witness",
+    "zh": "证人"
+  },
+  {
+    "en": "evidence",
+    "zh": "证据"
+  },
+  {
+    "en": "proof",
+    "zh": "证明"
+  },
+  {
+    "en": "crime",
+    "zh": "犯罪"
+  },
+  {
+    "en": "punishment",
+    "zh": "惩罚"
+  },
+  {
+    "en": "prison",
+    "zh": "监狱"
+  },
+  {
+    "en": "freedom",
+    "zh": "自由"
+  },
+  {
+    "en": "justice",
+    "zh": "正义"
+  },
+  {
+    "en": "equality",
+    "zh": "平等"
+  },
+  {
+    "en": "democracy",
+    "zh": "民主"
+  },
+  {
+    "en": "human rights",
+    "zh": "人权"
+  },
+  {
+    "en": "conflict",
+    "zh": "冲突"
+  },
+  {
+    "en": "violence",
+    "zh": "暴力"
+  },
+  {
+    "en": "terrorism",
+    "zh": "恐怖主义"
+  },
+  {
+    "en": "security",
+    "zh": "安全"
+  },
+  {
+    "en": "safety",
+    "zh": "安全"
+  },
+  {
+    "en": "protection",
+    "zh": "保护"
+  },
+  {
+    "en": "insurance",
+    "zh": "保险"
+  },
+  {
+    "en": "accident",
+    "zh": "事故"
+  },
+  {
+    "en": "disaster",
+    "zh": "灾难"
+  },
+  {
+    "en": "emergency",
+    "zh": "紧急情况"
+  },
+  {
+    "en": "rescue",
+    "zh": "救援"
+  },
+  {
+    "en": "aid",
+    "zh": "援助"
+  },
+  {
+    "en": "donation",
+    "zh": "捐赠"
+  },
+  {
+    "en": "charity",
+    "zh": "慈善"
+  },
+  {
+    "en": "volunteer",
+    "zh": "志愿者"
+  },
+  {
+    "en": "teaching",
+    "zh": "教学"
+  },
+  {
+    "en": "learning",
+    "zh": "学习"
+  },
+  {
+    "en": "training",
+    "zh": "培训"
+  },
+  {
+    "en": "practice",
+    "zh": "练习"
+  },
+  {
+    "en": "revision",
+    "zh": "复习"
+  },
+  {
+    "en": "test",
+    "zh": "测试"
+  },
+  {
+    "en": "quiz",
+    "zh": "测验"
+  },
+  {
+    "en": "interview",
+    "zh": "面试"
+  },
+  {
+    "en": "presentation",
+    "zh": "演示"
+  },
+  {
+    "en": "discussion",
+    "zh": "讨论"
+  },
+  {
+    "en": "debate",
+    "zh": "辩论"
+  },
+  {
+    "en": "negotiation",
+    "zh": "谈判"
+  },
+  {
+    "en": "bargain",
+    "zh": "讨价还价"
+  },
+  {
+    "en": "deal",
+    "zh": "交易"
+  },
+  {
+    "en": "discount",
+    "zh": "折扣"
+  },
+  {
+    "en": "sale",
+    "zh": "促销"
+  },
+  {
+    "en": "offer",
+    "zh": "报价"
+  },
+  {
+    "en": "bid",
+    "zh": "投标"
+  },
+  {
+    "en": "auction",
+    "zh": "拍卖"
+  },
+  {
+    "en": "lease",
+    "zh": "租赁"
+  },
+  {
+    "en": "rent",
+    "zh": "租金"
+  },
+  {
+    "en": "deposit",
+    "zh": "押金"
+  },
+  {
+    "en": "mortgage",
+    "zh": "抵押贷款"
+  },
+  {
+    "en": "loan",
+    "zh": "贷款"
+  },
+  {
+    "en": "debt",
+    "zh": "债务"
+  },
+  {
+    "en": "credit",
+    "zh": "信用"
+  },
+  {
+    "en": "cash",
+    "zh": "现金"
+  },
+  {
+    "en": "check",
+    "zh": "支票"
+  },
+  {
+    "en": "credit card",
+    "zh": "信用卡"
+  },
+  {
+    "en": "wallet",
+    "zh": "钱包"
+  },
+  {
+    "en": "purse",
+    "zh": "钱包"
+  },
+  {
+    "en": "coin",
+    "zh": "硬币"
+  },
+  {
+    "en": "bill",
+    "zh": "纸币"
+  },
+  {
+    "en": "change",
+    "zh": "零钱"
+  },
+  {
+    "en": "tip",
+    "zh": "小费"
+  },
+  {
+    "en": "salary",
+    "zh": "薪水"
+  },
+  {
+    "en": "wage",
+    "zh": "工资"
+  },
+  {
+    "en": "income",
+    "zh": "收入"
+  },
+  {
+    "en": "expense",
+    "zh": "支出"
+  },
+  {
+    "en": "budget",
+    "zh": "预算"
+  },
+  {
+    "en": "profit",
+    "zh": "利润"
+  },
+  {
+    "en": "loss",
+    "zh": "亏损"
+  },
+  {
+    "en": "investment",
+    "zh": "投资"
+  },
+  {
+    "en": "stock",
+    "zh": "股票"
+  },
+  {
+    "en": "bond",
+    "zh": "债券"
+  },
+  {
+    "en": "fund",
+    "zh": "基金"
+  },
+  {
+    "en": "dividend",
+    "zh": "股息"
+  },
+  {
+    "en": "interest",
+    "zh": "利息"
+  },
+  {
+    "en": "tax",
+    "zh": "税"
+  },
+  {
+    "en": "duty",
+    "zh": "关税"
+  },
+  {
+    "en": "fine",
+    "zh": "罚款"
+  },
+  {
+    "en": "fee",
+    "zh": "费用"
+  },
+  {
+    "en": "charge",
+    "zh": "收费"
+  },
+  {
+    "en": "invoice",
+    "zh": "发票"
+  },
+  {
+    "en": "receipt",
+    "zh": "收据"
+  },
+  {
+    "en": "statement",
+    "zh": "对账单"
+  },
+  {
+    "en": "balance",
+    "zh": "余额"
+  },
+  {
+    "en": "withdrawal",
+    "zh": "取款"
+  },
+  {
+    "en": "transfer",
+    "zh": "转账"
+  },
+  {
+    "en": "exchange",
+    "zh": "兑换"
+  },
+  {
+    "en": "currency",
+    "zh": "货币"
+  },
+  {
+    "en": "dollar",
+    "zh": "美元"
+  },
+  {
+    "en": "euro",
+    "zh": "欧元"
+  },
+  {
+    "en": "pound",
+    "zh": "英镑"
+  },
+  {
+    "en": "yen",
+    "zh": "日元"
+  },
+  {
+    "en": "yuan",
+    "zh": "元"
+  },
+  {
+    "en": "cent",
+    "zh": "分"
+  },
+  {
+    "en": "gold",
+    "zh": "黄金"
+  },
+  {
+    "en": "silver",
+    "zh": "白银"
+  },
+  {
+    "en": "bronze",
+    "zh": "青铜"
+  },
+  {
+    "en": "metal",
+    "zh": "金属"
+  },
+  {
+    "en": "iron",
+    "zh": "铁"
+  },
+  {
+    "en": "steel",
+    "zh": "钢"
+  },
+  {
+    "en": "copper",
+    "zh": "铜"
+  },
+  {
+    "en": "aluminum",
+    "zh": "铝"
+  },
+  {
+    "en": "zinc",
+    "zh": "锌"
+  },
+  {
+    "en": "tin",
+    "zh": "锡"
+  },
+  {
+    "en": "lead",
+    "zh": "铅"
+  },
+  {
+    "en": "mercury",
+    "zh": "汞"
+  },
+  {
+    "en": "glass",
+    "zh": "玻璃"
+  },
+  {
+    "en": "plastic",
+    "zh": "塑料"
+  },
+  {
+    "en": "rubber",
+    "zh": "橡胶"
+  },
+  {
+    "en": "wood",
+    "zh": "木头"
+  },
+  {
+    "en": "paper",
+    "zh": "纸"
+  },
+  {
+    "en": "cotton",
+    "zh": "棉花"
+  },
+  {
+    "en": "wool",
+    "zh": "羊毛"
+  },
+  {
+    "en": "silk",
+    "zh": "丝绸"
+  },
+  {
+    "en": "leather",
+    "zh": "皮革"
+  },
+  {
+    "en": "fur",
+    "zh": "毛皮"
+  },
+  {
+    "en": "stone",
+    "zh": "石头"
+  },
+  {
+    "en": "sand",
+    "zh": "沙子"
+  },
+  {
+    "en": "clay",
+    "zh": "粘土"
+  },
+  {
+    "en": "cement",
+    "zh": "水泥"
+  },
+  {
+    "en": "concrete",
+    "zh": "混凝土"
+  },
+  {
+    "en": "brick",
+    "zh": "砖"
+  },
+  {
+    "en": "tile",
+    "zh": "瓷砖"
+  },
+  {
+    "en": "paint",
+    "zh": "油漆"
+  },
+  {
+    "en": "oil",
+    "zh": "油"
+  },
+  {
+    "en": "gas",
+    "zh": "天然气"
+  },
+  {
+    "en": "coal",
+    "zh": "煤"
+  },
+  {
+    "en": "electricity",
+    "zh": "电"
+  },
+  {
+    "en": "solar",
+    "zh": "太阳能"
+  },
+  {
+    "en": "wind",
+    "zh": "风能"
+  },
+  {
+    "en": "hydro",
+    "zh": "水能"
+  },
+  {
+    "en": "nuclear",
+    "zh": "核能"
+  },
+  {
+    "en": "fuel",
+    "zh": "燃料"
+  },
+  {
+    "en": "petrol",
+    "zh": "汽油"
+  },
+  {
+    "en": "diesel",
+    "zh": "柴油"
+  },
+  {
+    "en": "engine",
+    "zh": "发动机"
+  },
+  {
+    "en": "motor",
+    "zh": "马达"
+  },
+  {
+    "en": "wheel",
+    "zh": "轮子"
+  },
+  {
+    "en": "tire",
+    "zh": "轮胎"
+  },
+  {
+    "en": "brake",
+    "zh": "刹车"
+  },
+  {
+    "en": "gear",
+    "zh": "齿轮"
+  },
+  {
+    "en": "chain",
+    "zh": "链条"
+  },
+  {
+    "en": "belt",
+    "zh": "皮带"
+  },
+  {
+    "en": "pipe",
+    "zh": "管道"
+  },
+  {
+    "en": "valve",
+    "zh": "阀门"
+  },
+  {
+    "en": "pump",
+    "zh": "泵"
+  },
+  {
+    "en": "fan",
+    "zh": "风扇"
+  },
+  {
+    "en": "heater",
+    "zh": "加热器"
+  },
+  {
+    "en": "air conditioner",
+    "zh": "空调"
+  },
+  {
+    "en": "refrigerator",
+    "zh": "冰箱"
+  },
+  {
+    "en": "washing machine",
+    "zh": "洗衣机"
+  },
+  {
+    "en": "dryer",
+    "zh": "烘干机"
+  },
+  {
+    "en": "dishwasher",
+    "zh": "洗碗机"
+  },
+  {
+    "en": "microwave",
+    "zh": "微波炉"
+  },
+  {
+    "en": "oven",
+    "zh": "烤箱"
+  },
+  {
+    "en": "stove",
+    "zh": "炉子"
+  },
+  {
+    "en": "toaster",
+    "zh": "烤面包机"
+  },
+  {
+    "en": "kettle",
+    "zh": "水壶"
+  },
+  {
+    "en": "blender",
+    "zh": "搅拌机"
+  },
+  {
+    "en": "coffee maker",
+    "zh": "咖啡机"
+  },
+  {
+    "en": "vacuum cleaner",
+    "zh": "吸尘器"
+  },
+  {
+    "en": "broom",
+    "zh": "扫帚"
+  },
+  {
+    "en": "mop",
+    "zh": "拖把"
+  },
+  {
+    "en": "bucket",
+    "zh": "桶"
+  },
+  {
+    "en": "sponge",
+    "zh": "海绵"
+  },
+  {
+    "en": "soap",
+    "zh": "肥皂"
+  },
+  {
+    "en": "shampoo",
+    "zh": "洗发水"
+  },
+  {
+    "en": "toothpaste",
+    "zh": "牙膏"
+  },
+  {
+    "en": "toothbrush",
+    "zh": "牙刷"
+  },
+  {
+    "en": "towel",
+    "zh": "毛巾"
+  },
+  {
+    "en": "blanket",
+    "zh": "毯子"
+  },
+  {
+    "en": "pillow",
+    "zh": "枕头"
+  },
+  {
+    "en": "sheet",
+    "zh": "床单"
+  },
+  {
+    "en": "quilt",
+    "zh": "被子"
+  },
+  {
+    "en": "mattress",
+    "zh": "床垫"
+  },
+  {
+    "en": "curtain",
+    "zh": "窗帘"
+  },
+  {
+    "en": "carpet",
+    "zh": "地毯"
+  },
+  {
+    "en": "rug",
+    "zh": "小地毯"
+  },
+  {
+    "en": "mirror",
+    "zh": "镜子"
+  },
+  {
+    "en": "watch",
+    "zh": "手表"
+  },
+  {
+    "en": "jewelry",
+    "zh": "珠宝"
+  },
+  {
+    "en": "ring",
+    "zh": "戒指"
+  },
+  {
+    "en": "necklace",
+    "zh": "项链"
+  },
+  {
+    "en": "bracelet",
+    "zh": "手镯"
+  },
+  {
+    "en": "earring",
+    "zh": "耳环"
+  },
+  {
+    "en": "glasses",
+    "zh": "眼镜"
+  },
+  {
+    "en": "sunglasses",
+    "zh": "太阳镜"
+  },
+  {
+    "en": "hat",
+    "zh": "帽子"
+  },
+  {
+    "en": "cap",
+    "zh": "鸭舌帽"
+  },
+  {
+    "en": "helmet",
+    "zh": "头盔"
+  },
+  {
+    "en": "scarf",
+    "zh": "围巾"
+  },
+  {
+    "en": "glove",
+    "zh": "手套"
+  },
+  {
+    "en": "tie",
+    "zh": "领带"
+  },
+  {
+    "en": "shirt",
+    "zh": "衬衫"
+  },
+  {
+    "en": "T-shirt",
+    "zh": "T恤"
+  },
+  {
+    "en": "sweater",
+    "zh": "毛衣"
+  },
+  {
+    "en": "jacket",
+    "zh": "夹克"
+  },
+  {
+    "en": "coat",
+    "zh": "外套"
+  },
+  {
+    "en": "suit",
+    "zh": "西装"
+  },
+  {
+    "en": "dress",
+    "zh": "连衣裙"
+  },
+  {
+    "en": "skirt",
+    "zh": "裙子"
+  },
+  {
+    "en": "pants",
+    "zh": "裤子"
+  },
+  {
+    "en": "jeans",
+    "zh": "牛仔裤"
+  },
+  {
+    "en": "shorts",
+    "zh": "短裤"
+  },
+  {
+    "en": "underwear",
+    "zh": "内衣"
+  },
+  {
+    "en": "sock",
+    "zh": "袜子"
+  },
+  {
+    "en": "shoe",
+    "zh": "鞋子"
+  },
+  {
+    "en": "boot",
+    "zh": "靴子"
+  },
+  {
+    "en": "slipper",
+    "zh": "拖鞋"
+  },
+  {
+    "en": "sneaker",
+    "zh": "运动鞋"
+  },
+  {
+    "en": "high heels",
+    "zh": "高跟鞋"
+  },
+  {
+    "en": "bag",
+    "zh": "包"
+  },
+  {
+    "en": "backpack",
+    "zh": "背包"
+  },
+  {
+    "en": "suitcase",
+    "zh": "手提箱"
+  },
+  {
+    "en": "umbrella",
+    "zh": "雨伞"
+  },
+  {
+    "en": "raincoat",
+    "zh": "雨衣"
+  },
+  {
+    "en": "toy",
+    "zh": "玩具"
+  },
+  {
+    "en": "doll",
+    "zh": "玩偶"
+  },
+  {
+    "en": "ball",
+    "zh": "球"
+  },
+  {
+    "en": "kite",
+    "zh": "风筝"
+  },
+  {
+    "en": "puzzle",
+    "zh": "拼图"
+  },
+  {
+    "en": "card",
+    "zh": "卡片"
+  },
+  {
+    "en": "chess",
+    "zh": "国际象棋"
+  },
+  {
+    "en": "board game",
+    "zh": "桌游"
+  },
+  {
+    "en": "video game",
+    "zh": "电子游戏"
+  },
+  {
+    "en": "console",
+    "zh": "游戏机"
+  },
+  {
+    "en": "controller",
+    "zh": "手柄"
+  },
+  {
+    "en": "joystick",
+    "zh": "摇杆"
+  },
+  {
+    "en": "monitor",
+    "zh": "显示器"
+  },
+  {
+    "en": "speaker",
+    "zh": "音箱"
+  },
+  {
+    "en": "headphone",
+    "zh": "耳机"
+  },
+  {
+    "en": "microphone",
+    "zh": "麦克风"
+  },
+  {
+    "en": "webcam",
+    "zh": "摄像头"
+  },
+  {
+    "en": "router",
+    "zh": "路由器"
+  },
+  {
+    "en": "modem",
+    "zh": "调制解调器"
+  },
+  {
+    "en": "switch",
+    "zh": "交换机"
+  },
+  {
+    "en": "hub",
+    "zh": "集线器"
+  },
+  {
+    "en": "antenna",
+    "zh": "天线"
+  },
+  {
+    "en": "remote",
+    "zh": "遥控器"
+  },
+  {
+    "en": "adapter",
+    "zh": "适配器"
+  },
+  {
+    "en": "plug",
+    "zh": "插头"
+  },
+  {
+    "en": "socket",
+    "zh": "插座"
+  },
+  {
+    "en": "wire",
+    "zh": "电线"
+  },
+  {
+    "en": "circuit",
+    "zh": "电路"
+  },
+  {
+    "en": "chip",
+    "zh": "芯片"
+  },
+  {
+    "en": "processor",
+    "zh": "处理器"
+  },
+  {
+    "en": "memory",
+    "zh": "内存"
+  },
+  {
+    "en": "storage",
+    "zh": "存储"
+  },
+  {
+    "en": "disk",
+    "zh": "磁盘"
+  },
+  {
+    "en": "drive",
+    "zh": "驱动器"
+  },
+  {
+    "en": "USB",
+    "zh": "USB"
+  },
+  {
+    "en": "port",
+    "zh": "端口"
+  },
+  {
+    "en": "slot",
+    "zh": "插槽"
+  },
+  {
+    "en": "stick",
+    "zh": "U盘"
+  },
+  {
+    "en": "CD",
+    "zh": "光盘"
+  },
+  {
+    "en": "DVD",
+    "zh": "DVD"
+  },
+  {
+    "en": "Blu-ray",
+    "zh": "蓝光"
+  },
+  {
+    "en": "tape",
+    "zh": "磁带"
+  },
+  {
+    "en": "record",
+    "zh": "唱片"
+  },
+  {
+    "en": "lens",
+    "zh": "镜头"
+  },
+  {
+    "en": "flash",
+    "zh": "闪光灯"
+  },
+  {
+    "en": "tripod",
+    "zh": "三脚架"
+  },
+  {
+    "en": "filter",
+    "zh": "滤镜"
+  },
+  {
+    "en": "album",
+    "zh": "相册"
+  },
+  {
+    "en": "frame",
+    "zh": "相框"
+  },
+  {
+    "en": "picture",
+    "zh": "照片"
+  },
+  {
+    "en": "drawing",
+    "zh": "图画"
+  },
+  {
+    "en": "painting",
+    "zh": "画作"
+  },
+  {
+    "en": "sculpture",
+    "zh": "雕塑"
+  },
+  {
+    "en": "statue",
+    "zh": "雕像"
+  },
+  {
+    "en": "museum",
+    "zh": "博物馆"
+  },
+  {
+    "en": "gallery",
+    "zh": "画廊"
+  },
+  {
+    "en": "exhibition",
+    "zh": "展览"
+  },
+  {
+    "en": "performance",
+    "zh": "演出"
+  },
+  {
+    "en": "concert",
+    "zh": "音乐会"
+  },
+  {
+    "en": "opera",
+    "zh": "歌剧"
+  },
+  {
+    "en": "ballet",
+    "zh": "芭蕾"
+  },
+  {
+    "en": "circus",
+    "zh": "马戏"
+  },
+  {
+    "en": "festival",
+    "zh": "节日"
+  },
+  {
+    "en": "celebration",
+    "zh": "庆祝"
+  },
+  {
+    "en": "ceremony",
+    "zh": "仪式"
+  },
+  {
+    "en": "party",
+    "zh": "聚会"
+  },
+  {
+    "en": "banquet",
+    "zh": "宴会"
+  },
+  {
+    "en": "wedding",
+    "zh": "婚礼"
+  },
+  {
+    "en": "birthday",
+    "zh": "生日"
+  },
+  {
+    "en": "anniversary",
+    "zh": "周年纪念"
+  },
+  {
+    "en": "holiday",
+    "zh": "假期"
+  },
+  {
+    "en": "vacation",
+    "zh": "度假"
+  },
+  {
+    "en": "trip",
+    "zh": "旅行"
+  },
+  {
+    "en": "journey",
+    "zh": "旅程"
+  },
+  {
+    "en": "tour",
+    "zh": "游览"
+  },
+  {
+    "en": "cruise",
+    "zh": "游轮"
+  },
+  {
+    "en": "flight",
+    "zh": "航班"
+  },
+  {
+    "en": "boarding",
+    "zh": "登机"
+  },
+  {
+    "en": "landing",
+    "zh": "着陆"
+  },
+  {
+    "en": "takeoff",
+    "zh": "起飞"
+  },
+  {
+    "en": "delay",
+    "zh": "延误"
+  },
+  {
+    "en": "ticket",
+    "zh": "票"
+  },
+  {
+    "en": "passport",
+    "zh": "护照"
+  },
+  {
+    "en": "visa",
+    "zh": "签证"
+  },
+  {
+    "en": "luggage",
+    "zh": "行李"
+  },
+  {
+    "en": "baggage",
+    "zh": "行李"
+  },
+  {
+    "en": "customs",
+    "zh": "海关"
+  },
+  {
+    "en": "immigration",
+    "zh": "入境"
+  },
+  {
+    "en": "security check",
+    "zh": "安检"
+  },
+  {
+    "en": "gate",
+    "zh": "登机口"
+  },
+  {
+    "en": "terminal",
+    "zh": "航站楼"
+  },
+  {
+    "en": "platform",
+    "zh": "站台"
+  },
+  {
+    "en": "station",
+    "zh": "车站"
+  },
+  {
+    "en": "stop",
+    "zh": "站点"
+  },
+  {
+    "en": "route",
+    "zh": "路线"
+  },
+  {
+    "en": "map",
+    "zh": "地图"
+  },
+  {
+    "en": "guide",
+    "zh": "指南"
+  },
+  {
+    "en": "brochure",
+    "zh": "手册"
+  },
+  {
+    "en": "leaflet",
+    "zh": "传单"
+  },
+  {
+    "en": "poster",
+    "zh": "海报"
+  },
+  {
+    "en": "banner",
+    "zh": "横幅"
+  },
+  {
+    "en": "sign",
+    "zh": "标志"
+  },
+  {
+    "en": "label",
+    "zh": "标签"
+  },
+  {
+    "en": "tag",
+    "zh": "标签"
+  },
+  {
+    "en": "sticker",
+    "zh": "贴纸"
+  },
+  {
+    "en": "badge",
+    "zh": "徽章"
+  },
+  {
+    "en": "pin",
+    "zh": "别针"
+  },
+  {
+    "en": "clip",
+    "zh": "夹子"
+  },
+  {
+    "en": "tape",
+    "zh": "胶带"
+  },
+  {
+    "en": "glue",
+    "zh": "胶水"
+  },
+  {
+    "en": "scissors",
+    "zh": "剪刀"
+  },
+  {
+    "en": "knife",
+    "zh": "刀"
+  },
+  {
+    "en": "fork",
+    "zh": "叉子"
+  },
+  {
+    "en": "spoon",
+    "zh": "勺子"
+  },
+  {
+    "en": "chopsticks",
+    "zh": "筷子"
+  },
+  {
+    "en": "plate",
+    "zh": "盘子"
+  },
+  {
+    "en": "bowl",
+    "zh": "碗"
+  },
+  {
+    "en": "cup",
+    "zh": "杯子"
+  },
+  {
+    "en": "glass",
+    "zh": "玻璃杯"
+  },
+  {
+    "en": "bottle",
+    "zh": "瓶子"
+  },
+  {
+    "en": "jar",
+    "zh": "罐子"
+  },
+  {
+    "en": "can",
+    "zh": "罐头"
+  },
+  {
+    "en": "box",
+    "zh": "盒子"
+  },
+  {
+    "en": "bag",
+    "zh": "袋子"
+  },
+  {
+    "en": "basket",
+    "zh": "篮子"
+  },
+  {
+    "en": "tray",
+    "zh": "托盘"
+  },
+  {
+    "en": "napkin",
+    "zh": "餐巾"
+  },
+  {
+    "en": "tablecloth",
+    "zh": "桌布"
+  },
+  {
+    "en": "candle",
+    "zh": "蜡烛"
+  },
+  {
+    "en": "lighter",
+    "zh": "打火机"
+  },
+  {
+    "en": "match",
+    "zh": "火柴"
+  },
+  {
+    "en": "fire",
+    "zh": "火"
+  },
+  {
+    "en": "flame",
+    "zh": "火焰"
+  },
+  {
+    "en": "smoke",
+    "zh": "烟"
+  },
+  {
+    "en": "ash",
+    "zh": "灰烬"
+  },
+  {
+    "en": "dust",
+    "zh": "灰尘"
+  },
+  {
+    "en": "dirt",
+    "zh": "泥土"
+  },
+  {
+    "en": "mud",
+    "zh": "泥浆"
+  },
+  {
+    "en": "soil",
+    "zh": "土壤"
+  },
+  {
+    "en": "rock",
+    "zh": "岩石"
+  },
+  {
+    "en": "pebble",
+    "zh": "鹅卵石"
+  },
+  {
+    "en": "crystal",
+    "zh": "水晶"
+  },
+  {
+    "en": "gem",
+    "zh": "宝石"
+  },
+  {
+    "en": "diamond",
+    "zh": "钻石"
+  },
+  {
+    "en": "ruby",
+    "zh": "红宝石"
+  },
+  {
+    "en": "sapphire",
+    "zh": "蓝宝石"
+  },
+  {
+    "en": "emerald",
+    "zh": "翡翠"
+  },
+  {
+    "en": "pearl",
+    "zh": "珍珠"
+  },
+  {
+    "en": "nickel",
+    "zh": "镍"
+  },
+  {
+    "en": "chrome",
+    "zh": "铬"
+  },
+  {
+    "en": "crystal",
+    "zh": "水晶"
+  },
+  {
+    "en": "glass",
+    "zh": "玻璃"
+  },
+  {
+    "en": "plastic",
+    "zh": "塑料"
+  },
+  {
+    "en": "rubber",
+    "zh": "橡胶"
+  },
+  {
+    "en": "wood",
+    "zh": "木头"
+  },
+  {
+    "en": "cotton",
+    "zh": "棉花"
+  },
+  {
+    "en": "wool",
+    "zh": "羊毛"
+  },
+  {
+    "en": "silk",
+    "zh": "丝绸"
+  },
+  {
+    "en": "leather",
+    "zh": "皮革"
+  },
+  {
+    "en": "fur",
+    "zh": "毛皮"
+  },
+  {
+    "en": "stone",
+    "zh": "石头"
+  },
+  {
+    "en": "sand",
+    "zh": "沙子"
+  },
+  {
+    "en": "clay",
+    "zh": "粘土"
+  },
+  {
+    "en": "cement",
+    "zh": "水泥"
+  },
+  {
+    "en": "concrete",
+    "zh": "混凝土"
+  },
+  {
+    "en": "brick",
+    "zh": "砖"
+  },
+  {
+    "en": "tile",
+    "zh": "瓷砖"
+  },
+  {
+    "en": "paint",
+    "zh": "油漆"
+  },
+  {
+    "en": "oil",
+    "zh": "油"
+  },
+  {
+    "en": "gas",
+    "zh": "天然气"
+  },
+  {
+    "en": "coal",
+    "zh": "煤"
+  },
+  {
+    "en": "electricity",
+    "zh": "电"
+  },
+  {
+    "en": "solar",
+    "zh": "太阳能"
+  },
+  {
+    "en": "wind",
+    "zh": "风能"
+  },
+  {
+    "en": "hydro",
+    "zh": "水能"
+  },
+  {
+    "en": "nuclear",
+    "zh": "核能"
+  },
+  {
+    "en": "fuel",
+    "zh": "燃料"
+  },
+  {
+    "en": "petrol",
+    "zh": "汽油"
+  },
+  {
+    "en": "diesel",
+    "zh": "柴油"
+  },
+  {
+    "en": "engine",
+    "zh": "发动机"
+  },
+  {
+    "en": "motor",
+    "zh": "马达"
+  },
+  {
+    "en": "wheel",
+    "zh": "轮子"
+  },
+  {
+    "en": "tire",
+    "zh": "轮胎"
+  },
+  {
+    "en": "brake",
+    "zh": "刹车"
+  },
+  {
+    "en": "gear",
+    "zh": "齿轮"
+  },
+  {
+    "en": "chain",
+    "zh": "链条"
+  },
+  {
+    "en": "belt",
+    "zh": "皮带"
+  },
+  {
+    "en": "pipe",
+    "zh": "管道"
+  },
+  {
+    "en": "valve",
+    "zh": "阀门"
+  },
+  {
+    "en": "pump",
+    "zh": "泵"
+  },
+  {
+    "en": "fan",
+    "zh": "风扇"
+  },
+  {
+    "en": "heater",
+    "zh": "加热器"
+  },
+  {
+    "en": "air conditioner",
+    "zh": "空调"
+  },
+  {
+    "en": "refrigerator",
+    "zh": "冰箱"
+  },
+  {
+    "en": "washing machine",
+    "zh": "洗衣机"
+  },
+  {
+    "en": "dryer",
+    "zh": "烘干机"
+  },
+  {
+    "en": "dishwasher",
+    "zh": "洗碗机"
+  },
+  {
+    "en": "microwave",
+    "zh": "微波炉"
+  },
+  {
+    "en": "oven",
+    "zh": "烤箱"
+  },
+  {
+    "en": "stove",
+    "zh": "炉子"
+  },
+  {
+    "en": "toaster",
+    "zh": "烤面包机"
+  },
+  {
+    "en": "kettle",
+    "zh": "水壶"
+  },
+  {
+    "en": "blender",
+    "zh": "搅拌机"
+  },
+  {
+    "en": "coffee maker",
+    "zh": "咖啡机"
+  },
+  {
+    "en": "vacuum cleaner",
+    "zh": "吸尘器"
+  },
+  {
+    "en": "broom",
+    "zh": "扫帚"
+  },
+  {
+    "en": "mop",
+    "zh": "拖把"
+  },
+  {
+    "en": "bucket",
+    "zh": "桶"
+  },
+  {
+    "en": "sponge",
+    "zh": "海绵"
+  },
+  {
+    "en": "soap",
+    "zh": "肥皂"
+  },
+  {
+    "en": "shampoo",
+    "zh": "洗发水"
+  },
+  {
+    "en": "toothpaste",
+    "zh": "牙膏"
+  },
+  {
+    "en": "toothbrush",
+    "zh": "牙刷"
+  },
+  {
+    "en": "towel",
+    "zh": "毛巾"
+  },
+  {
+    "en": "blanket",
+    "zh": "毯子"
+  },
+  {
+    "en": "pillow",
+    "zh": "枕头"
+  },
+  {
+    "en": "sheet",
+    "zh": "床单"
+  },
+  {
+    "en": "quilt",
+    "zh": "被子"
+  },
+  {
+    "en": "mattress",
+    "zh": "床垫"
+  },
+  {
+    "en": "curtain",
+    "zh": "窗帘"
+  },
+  {
+    "en": "carpet",
+    "zh": "地毯"
+  },
+  {
+    "en": "rug",
+    "zh": "小地毯"
+  },
+  {
+    "en": "mirror",
+    "zh": "镜子"
+  },
+  {
+    "en": "watch",
+    "zh": "手表"
+  },
+  {
+    "en": "jewelry",
+    "zh": "珠宝"
+  },
+  {
+    "en": "ring",
+    "zh": "戒指"
+  },
+  {
+    "en": "necklace",
+    "zh": "项链"
+  },
+  {
+    "en": "bracelet",
+    "zh": "手镯"
+  },
+  {
+    "en": "earring",
+    "zh": "耳环"
+  },
+  {
+    "en": "glasses",
+    "zh": "眼镜"
+  },
+  {
+    "en": "sunglasses",
+    "zh": "太阳镜"
+  },
+  {
+    "en": "hat",
+    "zh": "帽子"
+  },
+  {
+    "en": "cap",
+    "zh": "鸭舌帽"
+  },
+  {
+    "en": "helmet",
+    "zh": "头盔"
+  },
+  {
+    "en": "scarf",
+    "zh": "围巾"
+  },
+  {
+    "en": "glove",
+    "zh": "手套"
+  },
+  {
+    "en": "tie",
+    "zh": "领带"
+  },
+  {
+    "en": "shirt",
+    "zh": "衬衫"
+  },
+  {
+    "en": "T-shirt",
+    "zh": "T恤"
+  },
+  {
+    "en": "sweater",
+    "zh": "毛衣"
+  },
+  {
+    "en": "jacket",
+    "zh": "夹克"
+  },
+  {
+    "en": "coat",
+    "zh": "外套"
+  },
+  {
+    "en": "suit",
+    "zh": "西装"
+  },
+  {
+    "en": "dress",
+    "zh": "连衣裙"
+  },
+  {
+    "en": "skirt",
+    "zh": "裙子"
+  },
+  {
+    "en": "pants",
+    "zh": "裤子"
+  },
+  {
+    "en": "jeans",
+    "zh": "牛仔裤"
+  },
+  {
+    "en": "shorts",
+    "zh": "短裤"
+  },
+  {
+    "en": "underwear",
+    "zh": "内衣"
+  },
+  {
+    "en": "sock",
+    "zh": "袜子"
+  },
+  {
+    "en": "shoe",
+    "zh": "鞋子"
+  },
+  {
+    "en": "boot",
+    "zh": "靴子"
+  },
+  {
+    "en": "slipper",
+    "zh": "拖鞋"
+  },
+  {
+    "en": "sneaker",
+    "zh": "运动鞋"
+  },
+  {
+    "en": "high heels",
+    "zh": "高跟鞋"
+  },
+  {
+    "en": "bag",
+    "zh": "包"
+  },
+  {
+    "en": "backpack",
+    "zh": "背包"
+  },
+  {
+    "en": "suitcase",
+    "zh": "手提箱"
+  },
+  {
+    "en": "umbrella",
+    "zh": "雨伞"
+  },
+  {
+    "en": "raincoat",
+    "zh": "雨衣"
+  },
+  {
+    "en": "toy",
+    "zh": "玩具"
+  },
+  {
+    "en": "doll",
+    "zh": "玩偶"
+  },
+  {
+    "en": "ball",
+    "zh": "球"
+  },
+  {
+    "en": "kite",
+    "zh": "风筝"
+  },
+  {
+    "en": "puzzle",
+    "zh": "拼图"
+  },
+  {
+    "en": "card",
+    "zh": "卡片"
+  },
+  {
+    "en": "chess",
+    "zh": "国际象棋"
+  },
+  {
+    "en": "board game",
+    "zh": "桌游"
+  },
+  {
+    "en": "video game",
+    "zh": "电子游戏"
+  },
+  {
+    "en": "console",
+    "zh": "游戏机"
+  },
+  {
+    "en": "controller",
+    "zh": "手柄"
+  },
+  {
+    "en": "joystick",
+    "zh": "摇杆"
+  },
+  {
+    "en": "monitor",
+    "zh": "显示器"
+  },
+  {
+    "en": "speaker",
+    "zh": "音箱"
+  },
+  {
+    "en": "headphone",
+    "zh": "耳机"
+  },
+  {
+    "en": "microphone",
+    "zh": "麦克风"
+  },
+  {
+    "en": "webcam",
+    "zh": "摄像头"
+  },
+  {
+    "en": "router",
+    "zh": "路由器"
+  },
+  {
+    "en": "modem",
+    "zh": "调制解调器"
+  },
+  {
+    "en": "switch",
+    "zh": "交换机"
+  },
+  {
+    "en": "hub",
+    "zh": "集线器"
+  },
+  {
+    "en": "antenna",
+    "zh": "天线"
+  },
+  {
+    "en": "remote",
+    "zh": "遥控器"
+  },
+  {
+    "en": "adapter",
+    "zh": "适配器"
+  },
+  {
+    "en": "plug",
+    "zh": "插头"
+  },
+  {
+    "en": "socket",
+    "zh": "插座"
+  },
+  {
+    "en": "wire",
+    "zh": "电线"
+  },
+  {
+    "en": "circuit",
+    "zh": "电路"
+  },
+  {
+    "en": "chip",
+    "zh": "芯片"
+  },
+  {
+    "en": "processor",
+    "zh": "处理器"
+  },
+  {
+    "en": "memory",
+    "zh": "内存"
+  },
+  {
+    "en": "storage",
+    "zh": "存储"
+  },
+  {
+    "en": "disk",
+    "zh": "磁盘"
+  },
+  {
+    "en": "drive",
+    "zh": "驱动器"
+  },
+  {
+    "en": "USB",
+    "zh": "USB"
+  },
+  {
+    "en": "port",
+    "zh": "端口"
+  },
+  {
+    "en": "slot",
+    "zh": "插槽"
+  },
+  {
+    "en": "stick",
+    "zh": "U盘"
+  },
+  {
+    "en": "CD",
+    "zh": "光盘"
+  },
+  {
+    "en": "DVD",
+    "zh": "DVD"
+  },
+  {
+    "en": "Blu-ray",
+    "zh": "蓝光"
+  },
+  {
+    "en": "tape",
+    "zh": "磁带"
+  },
+  {
+    "en": "record",
+    "zh": "唱片"
+  },
+  {
+    "en": "lens",
+    "zh": "镜头"
+  },
+  {
+    "en": "flash",
+    "zh": "闪光灯"
+  },
+  {
+    "en": "tripod",
+    "zh": "三脚架"
+  },
+  {
+    "en": "filter",
+    "zh": "滤镜"
+  },
+  {
+    "en": "album",
+    "zh": "相册"
+  },
+  {
+    "en": "frame",
+    "zh": "相框"
+  },
+  {
+    "en": "picture",
+    "zh": "照片"
+  },
+  {
+    "en": "drawing",
+    "zh": "图画"
+  },
+  {
+    "en": "painting",
+    "zh": "画作"
+  },
+  {
+    "en": "sculpture",
+    "zh": "雕塑"
+  },
+  {
+    "en": "statue",
+    "zh": "雕像"
+  },
+  {
+    "en": "museum",
+    "zh": "博物馆"
+  },
+  {
+    "en": "gallery",
+    "zh": "画廊"
+  },
+  {
+    "en": "exhibition",
+    "zh": "展览"
+  },
+  {
+    "en": "performance",
+    "zh": "演出"
+  },
+  {
+    "en": "concert",
+    "zh": "音乐会"
+  },
+  {
+    "en": "opera",
+    "zh": "歌剧"
+  },
+  {
+    "en": "ballet",
+    "zh": "芭蕾"
+  },
+  {
+    "en": "circus",
+    "zh": "马戏"
+  },
+  {
+    "en": "festival",
+    "zh": "节日"
+  },
+  {
+    "en": "celebration",
+    "zh": "庆祝"
+  },
+  {
+    "en": "ceremony",
+    "zh": "仪式"
+  },
+  {
+    "en": "party",
+    "zh": "聚会"
+  },
+  {
+    "en": "banquet",
+    "zh": "宴会"
+  },
+  {
+    "en": "wedding",
+    "zh": "婚礼"
+  },
+  {
+    "en": "birthday",
+    "zh": "生日"
+  },
+  {
+    "en": "anniversary",
+    "zh": "周年纪念"
+  },
+  {
+    "en": "holiday",
+    "zh": "假期"
+  },
+  {
+    "en": "vacation",
+    "zh": "度假"
+  },
+  {
+    "en": "trip",
+    "zh": "旅行"
+  },
+  {
+    "en": "journey",
+    "zh": "旅程"
+  },
+  {
+    "en": "tour",
+    "zh": "游览"
+  },
+  {
+    "en": "cruise",
+    "zh": "游轮"
+  },
+  {
+    "en": "flight",
+    "zh": "航班"
+  },
+  {
+    "en": "boarding",
+    "zh": "登机"
+  },
+  {
+    "en": "landing",
+    "zh": "着陆"
+  },
+  {
+    "en": "takeoff",
+    "zh": "起飞"
+  },
+  {
+    "en": "delay",
+    "zh": "延误"
+  },
+  {
+    "en": "ticket",
+    "zh": "票"
+  },
+  {
+    "en": "passport",
+    "zh": "护照"
+  },
+  {
+    "en": "visa",
+    "zh": "签证"
+  },
+  {
+    "en": "luggage",
+    "zh": "行李"
+  },
+  {
+    "en": "baggage",
+    "zh": "行李"
+  },
+  {
+    "en": "customs",
+    "zh": "海关"
+  },
+  {
+    "en": "immigration",
+    "zh": "入境"
+  },
+  {
+    "en": "security check",
+    "zh": "安检"
+  },
+  {
+    "en": "gate",
+    "zh": "登机口"
+  },
+  {
+    "en": "terminal",
+    "zh": "航站楼"
+  },
+  {
+    "en": "platform",
+    "zh": "站台"
+  },
+  {
+    "en": "station",
+    "zh": "车站"
+  },
+  {
+    "en": "stop",
+    "zh": "站点"
+  },
+  {
+    "en": "route",
+    "zh": "路线"
+  },
+  {
+    "en": "map",
+    "zh": "地图"
+  },
+  {
+    "en": "guide",
+    "zh": "指南"
+  },
+  {
+    "en": "brochure",
+    "zh": "手册"
+  },
+  {
+    "en": "leaflet",
+    "zh": "传单"
+  },
+  {
+    "en": "poster",
+    "zh": "海报"
+  },
+  {
+    "en": "banner",
+    "zh": "横幅"
+  },
+  {
+    "en": "sign",
+    "zh": "标志"
+  },
+  {
+    "en": "label",
+    "zh": "标签"
+  },
+  {
+    "en": "tag",
+    "zh": "标签"
+  },
+  {
+    "en": "sticker",
+    "zh": "贴纸"
+  },
+  {
+    "en": "badge",
+    "zh": "徽章"
+  },
+  {
+    "en": "pin",
+    "zh": "别针"
+  },
+  {
+    "en": "clip",
+    "zh": "夹子"
+  },
+  {
+    "en": "tape",
+    "zh": "胶带"
+  },
+  {
+    "en": "glue",
+    "zh": "胶水"
+  },
+  {
+    "en": "scissors",
+    "zh": "剪刀"
+  },
+  {
+    "en": "knife",
+    "zh": "刀"
+  },
+  {
+    "en": "fork",
+    "zh": "叉子"
+  },
+  {
+    "en": "spoon",
+    "zh": "勺子"
+  },
+  {
+    "en": "chopsticks",
+    "zh": "筷子"
+  },
+  {
+    "en": "plate",
+    "zh": "盘子"
+  },
+  {
+    "en": "bowl",
+    "zh": "碗"
+  },
+  {
+    "en": "cup",
+    "zh": "杯子"
+  },
+  {
+    "en": "glass",
+    "zh": "玻璃杯"
+  },
+  {
+    "en": "bottle",
+    "zh": "瓶子"
+  },
+  {
+    "en": "jar",
+    "zh": "罐子"
+  },
+  {
+    "en": "can",
+    "zh": "罐头"
+  },
+  {
+    "en": "box",
+    "zh": "盒子"
+  },
+  {
+    "en": "bag",
+    "zh": "袋子"
+  },
+  {
+    "en": "basket",
+    "zh": "篮子"
+  },
+  {
+    "en": "tray",
+    "zh": "托盘"
+  },
+  {
+    "en": "napkin",
+    "zh": "餐巾"
+  },
+  {
+    "en": "tablecloth",
+    "zh": "桌布"
+  },
+  {
+    "en": "candle",
+    "zh": "蜡烛"
+  },
+  {
+    "en": "lighter",
+    "zh": "打火机"
+  },
+  {
+    "en": "match",
+    "zh": "火柴"
+  },
+  {
+    "en": "fire",
+    "zh": "火"
+  },
+  {
+    "en": "flame",
+    "zh": "火焰"
+  },
+  {
+    "en": "smoke",
+    "zh": "烟"
+  },
+  {
+    "en": "ash",
+    "zh": "灰烬"
+  },
+  {
+    "en": "dust",
+    "zh": "灰尘"
+  },
+  {
+    "en": "dirt",
+    "zh": "泥土"
+  },
+  {
+    "en": "mud",
+    "zh": "泥浆"
+  },
+  {
+    "en": "soil",
+    "zh": "土壤"
+  },
+  {
+    "en": "rock",
+    "zh": "岩石"
+  },
+  {
+    "en": "pebble",
+    "zh": "鹅卵石"
+  },
+  {
+    "en": "crystal",
+    "zh": "水晶"
+  },
+  {
+    "en": "gem",
+    "zh": "宝石"
+  },
+  {
+    "en": "diamond",
+    "zh": "钻石"
+  },
+  {
+    "en": "ruby",
+    "zh": "红宝石"
+  },
+  {
+    "en": "sapphire",
+    "zh": "蓝宝石"
+  },
+  {
+    "en": "emerald",
+    "zh": "翡翠"
+  },
+  {
+    "en": "pearl",
+    "zh": "珍珠"
+  },
+  {
+    "en": "nickel",
+    "zh": "镍"
+  },
+  {
+    "en": "chrome",
+    "zh": "铬"
+  }
+]
