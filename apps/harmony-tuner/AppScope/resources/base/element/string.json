@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyTuner"
+    },
+    {
+      "name": "app_desc",
+      "value": "Professional instrument tuner for HarmonyOS"
+    }
+  ]
+}

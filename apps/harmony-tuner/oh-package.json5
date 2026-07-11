@@ -1,0 +1,9 @@
+{
+  "license": "",
+  "devDependencies": {},
+  "author": "chinadbo",
+  "name": "harmonytuner",
+  "description": "Professional instrument tuner for HarmonyOS",
+  "version": "1.0.0",
+  "dependencies": {}
+}

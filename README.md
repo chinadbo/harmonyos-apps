@@ -93,3 +93,4 @@ apps/
 | HarmonyTorch | 手电筒/照明工具 | [apps/harmony-torch](apps/harmony-torch) | 2026-07-05 |
 | HarmonyDecibel | 音频测量/分贝计/噪音检测 | [apps/harmony-decibel](apps/harmony-decibel) | 2026-07-09 |
 | HarmonyTranslate | 翻译工具/多语言翻译/文本处理/效率工具 | [apps/harmony-translate](apps/harmony-translate) | 2026-07-11 |
+| HarmonyTuner | 乐器调音器/音频工具/音乐工具 | AudioCapturer+FFT频谱分析+音高检测+指针仪表 | [apps/harmony-tuner](apps/harmony-tuner) | 2026-07-12 |

@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Entry module for HarmonyTuner"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Main entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyTuner"
+    },
+    {
+      "name": "permission_microphone_reason",
+      "value": "Required for audio pitch detection"
+    }
+  ]
+}
