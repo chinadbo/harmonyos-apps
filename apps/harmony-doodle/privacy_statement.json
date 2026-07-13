@@ -1,0 +1,5 @@
+HarmonyDoodle respects your privacy. This application does not collect, transmit, or share any personal data. All artwork is stored locally on your device. No internet connection is required.
+
+Permissions used:
+- WRITE_IMAGES: To save your artwork to the local gallery
+- READ_IMAGES: To read artwork from the local gallery

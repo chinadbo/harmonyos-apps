@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyDoodle"
+    },
+    {
+      "name": "app_desc",
+      "value": "A creative drawing and doodle board for HarmonyOS"
+    }
+  ]
+}

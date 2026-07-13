@@ -1,0 +1,7 @@
+{
+  "name": "harmonydoodle",
+  "version": "1.0.0",
+  "description": "A creative drawing and doodle board for HarmonyOS",
+  "license": "MIT",
+  "dependencies": {}
+}

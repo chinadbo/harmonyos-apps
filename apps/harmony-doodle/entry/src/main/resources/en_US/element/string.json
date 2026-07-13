@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyDoodle entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyDoodle main entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyDoodle"
+    }
+  ]
+}

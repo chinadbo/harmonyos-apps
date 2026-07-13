@@ -1,0 +1,61 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "arkOptions": {
+      "aotCompileMode": "partial"
+    }
+  },
+  "buildOptionSet": [],
+  "compileMode": "esmodule",
+  "dependencies": [],
+  "description": "Please describe the basic information of the module.",
+  "dynamicDependencies": [],
+  "modules": [
+    {
+      "module": {
+        "name": "entry",
+        "type": "entry",
+        "description": "$string:module_desc",
+        "mainElement": "EntryAbility",
+        "deviceTypes": [
+          "phone",
+          "tablet",
+          "2in1"
+        ],
+        "deliveryWithInstall": true,
+        "installationFree": false,
+        "pages": "$profile:main_pages",
+        "abilities": [
+          {
+            "name": "EntryAbility",
+            "srcEntry": "./ets/entryability/EntryAbility.ets",
+            "description": "$string:EntryAbility_desc",
+            "icon": "$media:layered_image",
+            "label": "$string:EntryAbility_label",
+            "startWindowIcon": "$media:startIcon",
+            "startWindowBackground": "$color:start_window_background",
+            "exported": true,
+            "skills": [
+              {
+                "entities": [
+                  "entity.system.home"
+                ],
+                "actions": [
+                  "action.system.home"
+                ]
+              }
+            ]
+          }
+        ],
+        "requestPermissions": [
+          {
+            "name": "ohos.permission.WRITE_IMAGES"
+          },
+          {
+            "name": "ohos.permission.READ_IMAGES"
+          }
+        ]
+      }
+    }
+  ]
+}

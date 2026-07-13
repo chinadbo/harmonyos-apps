@@ -1,0 +1,26 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyDoodle entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyDoodle main entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyDoodle"
+    },
+    {
+      "name": "app_name",
+      "value": "HarmonyDoodle"
+    }
+  ],
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    }
+  ]
+}

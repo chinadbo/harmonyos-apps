@@ -1,0 +1,15 @@
+{
+  "app": {
+    "bundleName": "com.chinadbo.harmonydoodle",
+    "vendor": "chinadbo",
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name",
+    "description": "$string:app_desc",
+    "targetAPIVersion": 12,
+    "minAPIVersion": 12,
+    "apiReleaseType": "Release",
+    "debug": false
+  }
+}

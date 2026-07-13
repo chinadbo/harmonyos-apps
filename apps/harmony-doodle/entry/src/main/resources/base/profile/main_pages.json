@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/GalleryPage",
+    "pages/SettingsPage",
+    "pages/AboutPage"
+  ]
+}

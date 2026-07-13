@@ -94,3 +94,4 @@ apps/
 | HarmonyDecibel | 音频测量/分贝计/噪音检测 | [apps/harmony-decibel](apps/harmony-decibel) | 2026-07-09 |
 | HarmonyTranslate | 翻译工具/多语言翻译/文本处理/效率工具 | [apps/harmony-translate](apps/harmony-translate) | 2026-07-11 |
 | HarmonyTuner | 乐器调音器/音频工具/音乐工具 | AudioCapturer+FFT频谱分析+音高检测+指针仪表 | [apps/harmony-tuner](apps/harmony-tuner) | 2026-07-12 |
+| HarmonyDoodle | 画板/涂鸦/创意工具 | Canvas 2D+图层+多画笔+形状+撤销重做 | [apps/harmony-doodle](apps/harmony-doodle) | 2026-07-14 |
