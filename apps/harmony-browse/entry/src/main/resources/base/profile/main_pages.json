@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/BookmarkListPage",
+    "pages/HistoryPage",
+    "pages/SettingsPage",
+    "pages/TabOverviewPage"
+  ]
+}
