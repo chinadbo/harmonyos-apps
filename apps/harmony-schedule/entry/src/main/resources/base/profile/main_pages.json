@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/HomePage",
+    "pages/DayViewPage",
+    "pages/WeekViewPage",
+    "pages/EventDetailPage",
+    "pages/SettingsPage",
+    "pages/TagManagePage"
+  ]
+}

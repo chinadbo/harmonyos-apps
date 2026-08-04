@@ -96,3 +96,4 @@ apps/
 | HarmonyTuner | 乐器调音器/音频工具/音乐工具 | AudioCapturer+FFT频谱分析+音高检测+指针仪表 | [apps/harmony-tuner](apps/harmony-tuner) | 2026-07-12 |
 | HarmonyDoodle | 画板/涂鸦/创意工具 | Canvas 2D+图层+多画笔+形状+撤销重做 | [apps/harmony-doodle](apps/harmony-doodle) | 2026-07-14 |
 | HarmonyBrowse | 浏览器/网页浏览工具 | Web组件+多标签+书签+RDB+历史记录+导航 | [apps/harmony-browse](apps/harmony-browse) | 2026-07-17 |
+| HarmonySchedule | 日历/日程管理/效率工具 | 月周周日视图+标签+多提醒+重复事件+relationalStore | [apps/harmony-schedule](apps/harmony-schedule) | 2026-08-05 |

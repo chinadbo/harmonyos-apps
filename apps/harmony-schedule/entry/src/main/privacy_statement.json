@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "privacy": {
+    "title": "HarmonySchedule 隐私声明",
+    "content": [
+      {
+        "title": "本地日程数据",
+        "description": "HarmonySchedule 会将日程、标签和提醒设置保存在设备本地数据库中，用于提供日历展示、编辑和检索功能。"
+      },
+      {
+        "title": "通知提醒",
+        "description": "HarmonySchedule 会使用系统通知能力，在日程开始前按照你的提醒设置发送本地提醒通知。"
+      },
+      {
+        "title": "数据导入导出",
+        "description": "HarmonySchedule 支持以 JSON 格式导出或导入日程与标签数据，导入导出文件由用户主动触发管理。"
+      }
+    ]
+  }
+}
