@@ -97,3 +97,4 @@ apps/
 | HarmonyDoodle | 画板/涂鸦/创意工具 | Canvas 2D+图层+多画笔+形状+撤销重做 | [apps/harmony-doodle](apps/harmony-doodle) | 2026-07-14 |
 | HarmonyBrowse | 浏览器/网页浏览工具 | Web组件+多标签+书签+RDB+历史记录+导航 | [apps/harmony-browse](apps/harmony-browse) | 2026-07-17 |
 | HarmonySchedule | 日历/日程管理/效率工具 | 月周周日视图+标签+多提醒+重复事件+relationalStore | [apps/harmony-schedule](apps/harmony-schedule) | 2026-08-05 |
+| HarmonyClock | 时钟/世界时钟/桌面工具 | 多时区+闹钟+秒表+计时器+通知+Widget | [apps/harmony-clock](apps/harmony-clock) | 2026-08-09 |

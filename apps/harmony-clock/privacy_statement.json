@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "appName": "HarmonyClock",
+  "locale": "en-US",
+  "privacyPolicy": {
+    "summary": "HarmonyClock stores alarms, world clocks, timers, and settings locally on device.",
+    "collectedData": [],
+    "permissions": []
+  }
+}

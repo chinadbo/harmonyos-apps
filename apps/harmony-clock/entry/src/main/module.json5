@@ -1,0 +1,42 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "HarmonyClock entry module",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "Main ability for HarmonyClock",
+        "label": "HarmonyClock",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.NOTIFICATION"
+      },
+      {
+        "name": "ohos.permission.DISTRIBUTED_DATASYNC"
+      }
+    ]
+  }
+}
