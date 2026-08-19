@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if command -v hvigor >/dev/null 2>&1; then
+  exec hvigor "$@"
+fi
+
+printf '%s\n' 'hvigor is not installed in this environment.' >&2
+exit 1

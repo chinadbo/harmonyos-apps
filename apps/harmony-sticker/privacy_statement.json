@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "statement": {
+    "en": {
+      "title": "HarmonySticker Privacy Statement",
+      "content": "HarmonySticker stores editing data only in memory during app use and uses bundled local assets for backgrounds. The app does not request photo, media, microphone, location, or contact permissions in this version."
+    },
+    "zh": {
+      "title": "HarmonySticker 隐私声明",
+      "content": "HarmonySticker 当前版本仅在应用运行时于内存中保存编辑状态，并使用应用内置背景资源。不申请照片、媒体、麦克风、位置或联系人权限。"
+    }
+  }
+}
