@@ -1,0 +1,31 @@
+{
+  "app": "HarmonyRecorder",
+  "version": "1.0.0",
+  "permissions": [
+    {
+      "name": "ohos.permission.CAPTURE_SCREEN",
+      "purpose": "Capture on-screen content after user confirmation.",
+      "scene": "Start a screen recording session."
+    },
+    {
+      "name": "ohos.permission.MICROPHONE",
+      "purpose": "Capture microphone audio while recording when audio is enabled.",
+      "scene": "Start a recording session with audio enabled."
+    },
+    {
+      "name": "ohos.permission.READ_MEDIA",
+      "purpose": "Load recorded videos, thumbnails, and converted GIF files.",
+      "scene": "Browse the recording library and preview saved files."
+    },
+    {
+      "name": "ohos.permission.WRITE_MEDIA",
+      "purpose": "Save recordings, thumbnails, and exported GIF files.",
+      "scene": "Stop a recording or finish a GIF conversion."
+    }
+  ],
+  "dataHandling": {
+    "localStorageOnly": true,
+    "networkTransfer": false,
+    "cloudSync": false
+  }
+}

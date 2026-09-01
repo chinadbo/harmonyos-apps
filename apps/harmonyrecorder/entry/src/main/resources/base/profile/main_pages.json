@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/HomePage",
+    "pages/RecordingPage",
+    "pages/RecordingListPage",
+    "pages/RecordingPreviewPage",
+    "pages/GifConvertPage",
+    "pages/SettingsPage",
+    "pages/FloatingPage"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyRecorder"
+    },
+    {
+      "name": "module_desc",
+      "value": "支持录屏、标注、录制库和 GIF 导出的应用。"
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "HarmonyRecorder 主能力"
+    },
+    {
+      "name": "permission_capture_screen_reason",
+      "value": "用于录制屏幕内容。"
+    },
+    {
+      "name": "permission_microphone_reason",
+      "value": "用于录制麦克风音频。"
+    },
+    {
+      "name": "permission_read_media_reason",
+      "value": "用于读取已保存的录制文件和 GIF。"
+    },
+    {
+      "name": "permission_write_media_reason",
+      "value": "用于保存录制文件、缩略图和 GIF。"
+    }
+  ]
+}

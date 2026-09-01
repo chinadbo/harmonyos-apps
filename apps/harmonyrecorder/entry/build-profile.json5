@@ -1,0 +1,8 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "arkOptions": {
+      "apPath": "./build/default/outputs/default/app/entry-default-unsigned.hap"
+    }
+  }
+}

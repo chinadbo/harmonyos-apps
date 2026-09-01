@@ -98,7 +98,5 @@ apps/
 | HarmonyBrowse | 浏览器/网页浏览工具 | Web组件+多标签+书签+RDB+历史记录+导航 | [apps/harmony-browse](apps/harmony-browse) | 2026-07-17 |
 | HarmonySchedule | 日历/日程管理/效率工具 | 月周周日视图+标签+多提醒+重复事件+relationalStore | [apps/harmony-schedule](apps/harmony-schedule) | 2026-08-05 |
 | HarmonyClock | 时钟/世界时钟/桌面工具 | 多时区+闹钟+秒表+计时器+通知+Widget | [apps/harmony-clock](apps/harmony-clock) | 2026-08-09 |
-| M_SPANID='0.145.1' HarmonySticker | M_SPANID='0.145.2' 表情包制作/图片创作/社交娱乐 | M_SPANID='0.145.3' Stack+ForEach图层+渐变背景+文字贴纸+按钮控制 | M_SPANID='0.145.4' [apps/harmony-sticker](apps/harmony-sticker) | M_SPANID='0.145.5' 2026-08-20 |
-M_SPANID='0.145.6' EOF
-echo "appended to README"
 | HarmonySticker | 表情包制作/图片创作/社交娱乐 | Stack+ForEach图层+渐变背景+文字贴纸+按钮控制 | [apps/harmony-sticker](apps/harmony-sticker) | 2026-08-20 |
+| HarmonyRecorder | 录屏/视频录制工具 | screenCapture+悬浮窗+批注Canvas+GIF转换+AVPlayer预览 | [apps/harmonyrecorder](apps/harmonyrecorder) | 2026-09-02 |

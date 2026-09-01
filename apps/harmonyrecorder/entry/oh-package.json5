@@ -1,0 +1,7 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "HarmonyRecorder entry module",
+  "main": "src/main/ets/pages/HomePage.ets",
+  "dependencies": {}
+}

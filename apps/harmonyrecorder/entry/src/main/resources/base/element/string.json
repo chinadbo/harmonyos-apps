@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyRecorder"
+    },
+    {
+      "name": "module_desc",
+      "value": "Screen recording app with annotation, library, and GIF conversion."
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "HarmonyRecorder main ability"
+    },
+    {
+      "name": "permission_capture_screen_reason",
+      "value": "Required to capture the screen during recording."
+    },
+    {
+      "name": "permission_microphone_reason",
+      "value": "Required to capture microphone audio during recording."
+    },
+    {
+      "name": "permission_read_media_reason",
+      "value": "Required to load saved recordings and GIF files."
+    },
+    {
+      "name": "permission_write_media_reason",
+      "value": "Required to save recordings, thumbnails, and GIF files."
+    }
+  ]
+}
