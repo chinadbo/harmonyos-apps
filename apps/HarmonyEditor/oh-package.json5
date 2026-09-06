@@ -1,0 +1,7 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "HarmonyEditor HarmonyOS application",
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "dependencies": {}
+}

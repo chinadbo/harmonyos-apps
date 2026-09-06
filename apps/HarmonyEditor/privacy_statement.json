@@ -1,0 +1,27 @@
+{
+  "appName": "HarmonyEditor",
+  "version": "1.0.0",
+  "summary": "HarmonyEditor processes media locally on the device to support clip selection, editing, and export workflows.",
+  "permissions": [
+    {
+      "name": "ohos.permission.READ_MEDIA",
+      "purpose": "Read videos that the user selects from the local media library for editing."
+    },
+    {
+      "name": "ohos.permission.WRITE_MEDIA",
+      "purpose": "Save exported videos from the app sandbox back to the user's media library."
+    }
+  ],
+  "dataStorage": {
+    "location": "Local device only",
+    "details": [
+      "Project metadata, clip trims, filter settings, audio settings, and export defaults are stored in the app's local relational database.",
+      "Temporary export files are written to the app sandbox before gallery save operations complete."
+    ]
+  },
+  "dataSharing": {
+    "networkTransfer": false,
+    "thirdPartySharing": false,
+    "details": "The app does not upload project data or media to remote services as part of the local editing workflow."
+  }
+}

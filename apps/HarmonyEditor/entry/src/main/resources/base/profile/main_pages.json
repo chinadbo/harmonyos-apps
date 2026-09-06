@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/ProjectListPage",
+    "pages/VideoPickerPage",
+    "pages/EditorPage",
+    "pages/FilterPanelPage",
+    "pages/ExportPage",
+    "pages/SettingsPage"
+  ]
+}

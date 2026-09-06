@@ -1,0 +1,42 @@
+[
+  {
+    "name": "app_name",
+    "value": "HarmonyEditor"
+  },
+  {
+    "name": "module_desc",
+    "value": "Video editing module for HarmonyEditor"
+  },
+  {
+    "name": "entryability_desc",
+    "value": "Main ability for HarmonyEditor"
+  },
+  {
+    "name": "permission_read_media_reason",
+    "value": "Used to read videos selected for editing"
+  },
+  {
+    "name": "permission_write_media_reason",
+    "value": "Used to save exported videos to the media library"
+  },
+  {
+    "name": "projects_title",
+    "value": "My Projects"
+  },
+  {
+    "name": "new_project",
+    "value": "New Project"
+  },
+  {
+    "name": "settings_title",
+    "value": "Settings"
+  },
+  {
+    "name": "export_title",
+    "value": "Export"
+  },
+  {
+    "name": "filter_title",
+    "value": "Filters"
+  }
+]

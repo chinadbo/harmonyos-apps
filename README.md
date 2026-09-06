@@ -100,3 +100,4 @@ apps/
 | HarmonyClock | 时钟/世界时钟/桌面工具 | 多时区+闹钟+秒表+计时器+通知+Widget | [apps/harmony-clock](apps/harmony-clock) | 2026-08-09 |
 | HarmonySticker | 表情包制作/图片创作/社交娱乐 | Stack+ForEach图层+渐变背景+文字贴纸+按钮控制 | [apps/harmony-sticker](apps/harmony-sticker) | 2026-08-20 |
 | HarmonyRecorder | 录屏/视频录制工具 | screenCapture+悬浮窗+批注Canvas+GIF转换+AVPlayer预览 | [apps/harmonyrecorder](apps/harmonyrecorder) | 2026-09-02 |
+| HarmonyEditor | 视频编辑/剪辑/媒体处理 | PhotoAccessHelper选片+时间轴裁剪+滤镜强度+音轨混合+videoEditor导出+RDB项目管理 | [apps/HarmonyEditor](apps/HarmonyEditor) | 2026-09-07 |

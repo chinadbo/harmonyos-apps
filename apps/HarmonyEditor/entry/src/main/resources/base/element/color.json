@@ -1,0 +1,46 @@
+[
+  {
+    "name": "start_window_background",
+    "value": "#FF0F172A"
+  },
+  {
+    "name": "brand_primary",
+    "value": "#FF4F46E5"
+  },
+  {
+    "name": "brand_secondary",
+    "value": "#FF8B5CF6"
+  },
+  {
+    "name": "surface_primary",
+    "value": "#FF111827"
+  },
+  {
+    "name": "surface_secondary",
+    "value": "#FF1F2937"
+  },
+  {
+    "name": "surface_tertiary",
+    "value": "#FF334155"
+  },
+  {
+    "name": "text_primary",
+    "value": "#FFF8FAFC"
+  },
+  {
+    "name": "text_secondary",
+    "value": "#FFCBD5E1"
+  },
+  {
+    "name": "success",
+    "value": "#FF22C55E"
+  },
+  {
+    "name": "warning",
+    "value": "#FFF59E0B"
+  },
+  {
+    "name": "danger",
+    "value": "#FFEF4444"
+  }
+]
