@@ -1,0 +1,19 @@
+{
+  "app": {
+    "bundleName": "com.harmonyos.harmonyinsight",
+    "vendor": "harmonyos",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name",
+    "description": "$string:app_description",
+    "targetAPIVersion": 16,
+    "apiReleaseType": "Current",
+    "minAPIVersion": 16,
+    "deviceTypes": [
+      "phone"
+    ],
+    "distributionType": "app_ga",
+    "developmentMode": "release"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "string": [
+    {"name": "module_desc", "value": "HarmonyInsight 数据可视化图表工具"},
+    {"name": "entry_desc", "value": "数据可视化图表工具"},
+    {"name": "entry_label", "value": "HarmonyInsight"},
+    {"name": "permission_read_media", "value": "读取媒体文件以导入 CSV 数据"},
+    {"name": "permission_write_media", "value": "写入媒体文件以保存图表截图"},
+    {"name": "permission_file_access", "value": "文件访问以操作 CSV 文件"}
+  ]
+}

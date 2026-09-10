@@ -1,0 +1,9 @@
+{
+  "buildOption": {},
+  "targets": [
+    {
+      "name": "default",
+      "runtimeOS": "HarmonyOS"
+    }
+  ]
+}

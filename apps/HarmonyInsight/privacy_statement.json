@@ -1,0 +1,17 @@
+{
+  "privacy": {
+    "privacyLink": "https://www.huawei.com/cn/privacy-policy",
+    "privacyDescription": "HarmonyInsight 是一款本地数据可视化工具。所有数据处理均在设备本地完成，不会上传任何用户数据到云端。我们不会收集、存储或传输您的个人数据。",
+    "dataCollection": [
+      {
+        "dataName": "图表数据",
+        "dataPurpose": "用于生成和展示图表",
+        "dataStorageLocation": "设备本地（RDB 数据库）",
+        "dataRetentionPeriod": "用户手动删除前",
+        "dataEncryptionMethod": "数据库加密（SecurityLevel.S1）",
+        "isDataShared": false,
+        "isDataThirdParty": false
+      }
+    ]
+  }
+}

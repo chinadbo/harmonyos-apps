@@ -1,0 +1,9 @@
+{
+  "name": "harmonyinsight",
+  "version": "1.0.0",
+  "description": "HarmonyInsight - 数据可视化图表工具",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

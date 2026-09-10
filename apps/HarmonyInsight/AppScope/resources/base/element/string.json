@@ -1,0 +1,6 @@
+{
+  "string": [
+    {"name": "app_name", "value": "HarmonyInsight"},
+    {"name": "app_description", "value": "数据可视化图表工具"}
+  ]
+}
