@@ -1,7 +1,8 @@
 import router from '@ohos.router';
 import canvas from '@ohos.graphics.canvas';
 import { RDBHelper } from '../data/RDBHelper';
-import { ChartDataModel, ChartType, ChartConfig, ChartRecord, CSVParser } from '../data/ChartDataModel';
+import { ChartDataModel, ChartType, ChartConfig, ChartRecord } from '../data/ChartDataModel';
+import { CSVParser } from '../data/CSVParser';
 import { BarChart } from '../chart/BarChart';
 import { LineChart } from '../chart/LineChart';
 import { PieChart } from '../chart/PieChart';
