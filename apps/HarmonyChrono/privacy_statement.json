@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "data": [
+    {
+      "name": "stopwatch sessions",
+      "purpose": "Store stopwatch history, laps, and user settings locally on device.",
+      "type": "local",
+      "shared": false
+    },
+    {
+      "name": "notifications",
+      "purpose": "Show ongoing stopwatch state while the app is in use or backgrounded.",
+      "type": "system",
+      "shared": false
+    }
+  ]
+}

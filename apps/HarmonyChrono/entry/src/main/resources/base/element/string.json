@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyChrono"
+    },
+    {
+      "name": "module_desc",
+      "value": "A HarmonyOS stopwatch with laps, history, persistence, and workout mode."
+    }
+  ]
+}
