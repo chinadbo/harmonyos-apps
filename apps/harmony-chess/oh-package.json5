@@ -1,0 +1,9 @@
+{
+  "name": "harmonychess",
+  "version": "1.0.0",
+  "description": "HarmonyOS Chess - 国际象棋对弈与棋谱学习",
+  "main": "",
+  "author": "guli",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

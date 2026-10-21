@@ -1,0 +1,9 @@
+{
+  "float": [
+    { "name": "text_title", "value": "24fp" },
+    { "name": "text_body", "value": "16fp" },
+    { "name": "text_small", "value": "12fp" },
+    { "name": "padding_page", "value": "16vp" },
+    { "name": "radius_card", "value": "8vp" }
+  ]
+}

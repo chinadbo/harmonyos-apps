@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "app_name", "value": "HarmonyChess" },
+    { "name": "module_desc", "value": "国际象棋对弈与棋谱学习" },
+    { "name": "EntryAbility_desc", "value": "HarmonyChess 主入口" },
+    { "name": "EntryAbility_label", "value": "HarmonyChess" }
+  ]
+}

@@ -103,3 +103,4 @@ apps/
 | HarmonySticker | 表情包制作/图片创作/社交娱乐 | Stack+ForEach图层+渐变背景+文字贴纸+按钮控制 | [apps/harmony-sticker](apps/harmony-sticker) | 2026-08-20 |
 | HarmonyRecorder | 录屏/视频录制工具 | screenCapture+悬浮窗+批注Canvas+GIF转换+AVPlayer预览 | [apps/harmonyrecorder](apps/harmonyrecorder) | 2026-09-02 |
 | HarmonyEditor | 视频编辑/剪辑/媒体处理 | PhotoAccessHelper选片+时间轴裁剪+滤镜强度+音轨混合+videoEditor导出+RDB项目管理 | [apps/HarmonyEditor](apps/HarmonyEditor) | 2026-09-07 |
+| HarmonyChess | 棋类游戏/国际象棋/策略/教育 | 完整棋规引擎+3档AI(Minimax+alpha-beta)+PGN棋谱+复盘回放+Canvas自绘 | [apps/harmony-chess](apps/harmony-chess) | 2026-10-22 |

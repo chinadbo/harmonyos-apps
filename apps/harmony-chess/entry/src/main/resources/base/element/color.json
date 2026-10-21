@@ -1,0 +1,11 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#FFFFFF" },
+    { "name": "board_light", "value": "#F0D9B5" },
+    { "name": "board_dark", "value": "#B58863" },
+    { "name": "highlight_selected", "value": "#F7EC6E" },
+    { "name": "highlight_last", "value": "#A9D18E" },
+    { "name": "highlight_check", "value": "#FF6B6B" },
+    { "name": "primary", "value": "#5B7DB1" }
+  ]
+}

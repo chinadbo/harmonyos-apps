@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "app_name", "value": "HarmonyChess" },
+    { "name": "module_desc", "value": "Chess game and PGN learning" },
+    { "name": "EntryAbility_desc", "value": "HarmonyChess Entry" },
+    { "name": "EntryAbility_label", "value": "HarmonyChess" }
+  ]
+}
