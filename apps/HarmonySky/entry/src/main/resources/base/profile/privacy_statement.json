@@ -1,0 +1,10 @@
+{
+  "privacy_statement": {
+    "app_name": "HarmonySky 观星",
+    "version": "1.0.0",
+    "collection_scope": "本应用为纯离线算法应用，不联网、不收集任何用户个人信息。",
+    "data_storage": "用户的观星打卡状态与偏好设置（城市/坐标/主题）仅通过 @ohos.data.preferences 存储在设备本地，不上传、不共享。",
+    "permissions": "本应用不申请任何系统权限。方向传感器属免权限能力，仅在前台用于指星辅助，不记录任何数据。",
+    "third_party": "无第三方 SDK、无统计埋点、无广告。"
+  }
+}

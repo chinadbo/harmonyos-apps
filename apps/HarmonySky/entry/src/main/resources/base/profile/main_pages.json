@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/MoonCalendar",
+    "pages/SunMoon",
+    "pages/StarList",
+    "pages/StarDetail",
+    "pages/Learn",
+    "pages/Settings"
+  ]
+}

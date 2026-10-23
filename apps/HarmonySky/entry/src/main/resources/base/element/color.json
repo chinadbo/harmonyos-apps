@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#0B1026"
+    },
+    {
+      "name": "sky_bg",
+      "value": "#0B1026"
+    },
+    {
+      "name": "sky_card_bg",
+      "value": "#161B3A"
+    },
+    {
+      "name": "sky_text_primary",
+      "value": "#F2F5FF"
+    },
+    {
+      "name": "sky_text_secondary",
+      "value": "#9AA3C7"
+    },
+    {
+      "name": "moon_gold",
+      "value": "#F5D76E"
+    },
+    {
+      "name": "accent_blue",
+      "value": "#5B8DEF"
+    }
+  ]
+}

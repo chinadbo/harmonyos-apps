@@ -1,0 +1,9 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "HarmonySky 桌面月相 Widget 模块",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

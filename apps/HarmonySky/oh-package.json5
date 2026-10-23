@@ -1,0 +1,12 @@
+{
+  "name": "harmonysky",
+  "version": "1.0.0",
+  "description": "HarmonySky 鸿蒙离线观星应用：今日天象/月相日历/日月升落/观星清单/天文知识卡/设置 + 桌面月相 Widget",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}

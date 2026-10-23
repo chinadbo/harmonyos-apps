@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonySky 主模块"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "HarmonySky 观星应用入口"
+    },
+    {
+      "name": "app_name",
+      "value": "HarmonySky 观星"
+    }
+  ]
+}

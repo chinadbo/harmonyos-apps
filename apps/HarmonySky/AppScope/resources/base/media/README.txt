@@ -1,0 +1,1 @@
+HarmonySky icon placeholder - replace with a real 512x512 PNG via DevEco Asset Studio.

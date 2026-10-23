@@ -1,0 +1,12 @@
+{
+  "app": {
+    "bundleName": "com.harmonysky.app",
+    "vendor": "harmonysky",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    },
+    "icon": "$media:icon",
+    "label": "$string:app_name"
+  }
+}
