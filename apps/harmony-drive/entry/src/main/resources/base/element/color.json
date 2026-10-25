@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#F5F7FA"
+    },
+    {
+      "name": "brand_primary",
+      "value": "#1C64F2"
+    },
+    {
+      "name": "brand_primary_light",
+      "value": "#3B82F6"
+    },
+    {
+      "name": "bg_page",
+      "value": "#F5F7FA"
+    },
+    {
+      "name": "bg_card",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1F2937"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#6B7280"
+    },
+    {
+      "name": "color_correct",
+      "value": "#16A34A"
+    },
+    {
+      "name": "color_wrong",
+      "value": "#DC2626"
+    },
+    {
+      "name": "color_accent",
+      "value": "#F59E0B"
+    }
+  ]
+}

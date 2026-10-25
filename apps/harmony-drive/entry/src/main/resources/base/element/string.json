@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "驾考通主模块"
+    },
+    {
+      "name": "ability_desc",
+      "value": "驾考通主入口"
+    },
+    {
+      "name": "app_name",
+      "value": "驾考通"
+    },
+    {
+      "name": "widget_name",
+      "value": "驾考每日一题"
+    },
+    {
+      "name": "widget_desc",
+      "value": "每日推送一道驾考题目，随时刷题"
+    },
+    {
+      "name": "page_practice",
+      "value": "顺序练习"
+    },
+    {
+      "name": "page_exam",
+      "value": "模拟考试"
+    },
+    {
+      "name": "page_wrongbook",
+      "value": "错题本"
+    },
+    {
+      "name": "page_special",
+      "value": "专项练习"
+    },
+    {
+      "name": "page_tips",
+      "value": "考点速记"
+    },
+    {
+      "name": "page_stats",
+      "value": "学习统计"
+    }
+  ]
+}

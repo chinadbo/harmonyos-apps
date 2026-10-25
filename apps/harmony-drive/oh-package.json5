@@ -1,0 +1,12 @@
+{
+  "name": "harmonydrive",
+  "version": "1.0.0",
+  "description": "HarmonyDrive 驾考通 — HarmonyOS 驾驶员考试学习应用（离线题库、模拟考试、错题本）",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}

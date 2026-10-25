@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PracticePage",
+    "pages/ExamPage",
+    "pages/ExamResultPage",
+    "pages/WrongBookPage",
+    "pages/SpecialPage",
+    "pages/TipsPage",
+    "pages/StatsPage"
+  ]
+}
