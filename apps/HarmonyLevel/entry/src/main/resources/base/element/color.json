@@ -1,0 +1,16 @@
+{
+  "color": {
+    "start_window_background": "#0e1319",
+    "bg_page": "#0e1319",
+    "bg_card": "#1a222c",
+    "bg_card_border": "#2c3947",
+    "text_primary": "#e8edf2",
+    "text_secondary": "#93a1b0",
+    "accent_cyan": "#37c8f0",
+    "status_level": "#35e08a",
+    "status_near": "#ffc14d",
+    "status_off": "#ff6d5a",
+    "dial_face": "#141b23",
+    "dial_ring": "#3a4654"
+  }
+}

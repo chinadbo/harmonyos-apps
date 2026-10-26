@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/BubblePage",
+    "pages/RulerPage",
+    "pages/CalibratePage",
+    "pages/HistoryPage",
+    "pages/SettingsPage"
+  ]
+}

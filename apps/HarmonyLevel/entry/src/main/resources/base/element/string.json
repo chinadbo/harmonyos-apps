@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "水平仪"
+    },
+    {
+      "name": "entry_ability_desc",
+      "value": "HarmonyOS 水平仪/倾角测量工具"
+    },
+    {
+      "name": "page_index_title",
+      "value": "水平仪"
+    },
+    {
+      "name": "page_bubble_title",
+      "value": "气泡水平仪"
+    },
+    {
+      "name": "page_ruler_title",
+      "value": "角度尺"
+    },
+    {
+      "name": "page_calibrate_title",
+      "value": "校准"
+    },
+    {
+      "name": "page_history_title",
+      "value": "测量记录"
+    },
+    {
+      "name": "page_settings_title",
+      "value": "设置"
+    }
+  ]
+}

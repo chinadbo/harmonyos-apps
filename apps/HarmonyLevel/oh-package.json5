@@ -1,0 +1,9 @@
+{
+  "name": "harmony-level",
+  "version": "1.0.0",
+  "description": "HarmonyOS ArkTS 水平仪/倾角测量 App（纯传感器、零权限）",
+  "main": "index.ets",
+  "author": "harmony",
+  "license": "MIT",
+  "dependencies": {}
+}
