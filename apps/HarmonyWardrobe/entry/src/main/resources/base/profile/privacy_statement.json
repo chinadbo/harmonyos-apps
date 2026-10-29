@@ -1,0 +1,23 @@
+{
+  "app_name": "衣橱穿搭",
+  "bundle_name": "com.example.harmonywardrobe",
+  "version": "1.0.0",
+  "update_date": "2026-10-29",
+  "statement": "衣橱穿搭是一款本地衣柜穿搭管理应用。所有数据（衣物、搭配、穿着记录）均存储在应用本地沙箱数据库中，不上传任何服务器，不采集任何个人信息。",
+  "data_collection": [],
+  "data_storage": [
+    {
+      "type": "衣物信息（名称、分类、颜色、季节、图片）",
+      "location": "应用沙箱 wardrobe.db（RDB）与 filesDir/wardrobe/ 目录",
+      "purpose": "本地衣柜管理展示"
+    },
+    {
+      "type": "穿搭搭配与穿着记录",
+      "location": "应用沙箱 wardrobe.db（RDB）",
+      "purpose": "本地穿搭记录与统计展示"
+    }
+  ],
+  "permissions": [],
+  "third_party_sharing": false,
+  "contact": "support@example.com"
+}

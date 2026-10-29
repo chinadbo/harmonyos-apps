@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/OutfitBuilder",
+    "pages/CalendarPage",
+    "pages/StatsPage",
+    "pages/ClothingEdit",
+    "pages/OutfitDetail"
+  ]
+}

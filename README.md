@@ -36,6 +36,7 @@
 | 28 | 2026-09-08 | [HarmonyInsight](apps/HarmonyInsight) | CSV数据可视化/图表 | ✅ |
 | 29 | 2026-10-25 | [HarmonyDrive](apps/harmony-drive) | 驾考理论刷题/模拟考试/错题本 | ✅ |
 | 30 | 2026-10-26 | [HarmonyLevel](apps/HarmonyLevel) | 水平仪/倾角测量/传感器工具 | ✅ |
+| 31 | 2026-10-29 | [HarmonyWardrobe](apps/HarmonyWardrobe) | 衣柜穿搭管理/每日穿搭记录 | ✅ |
 
 ## 技术栈
 

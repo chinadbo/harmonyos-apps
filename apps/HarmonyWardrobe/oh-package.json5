@@ -1,0 +1,12 @@
+{
+  "name": "harmonywardrobe",
+  "version": "1.0.0",
+  "description": "HarmonyOS 衣柜穿搭管理应用（ArkTS，0 权限）",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}

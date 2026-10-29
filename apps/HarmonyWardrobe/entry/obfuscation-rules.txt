@@ -1,0 +1,2 @@
+# HarmonyOS 代码混淆规则（本项目默认关闭混淆）
+-enable-property-obfuscation
