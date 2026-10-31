@@ -1,0 +1,14 @@
+{
+  "modelVersion": "5.0.0",
+  "dependencies": {},
+  "execution": {
+    // 分析、构建任务执行策略配置
+    "analyze": "normal",
+    "install": "normal",
+    "publish": "normal",
+    "type": "normal"
+  },
+  "logging": {},
+  "debugging": {},
+  "nodeOptions": {}
+}

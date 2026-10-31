@@ -1,0 +1,12 @@
+{
+  "name": "harmonybaby",
+  "version": "1.0.0",
+  "description": "HarmonyBaby - 鸿蒙婴儿日常记录应用（喂养 / 换尿布 / 睡眠 / 成长 / 月历回顾）",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}

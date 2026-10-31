@@ -1,0 +1,48 @@
+{
+  "appName": "HarmonyBaby",
+  "bundleName": "com.example.harmonybaby",
+  "version": "1.0.0",
+  "effectiveDate": "2026-10-31",
+  "summary": "HarmonyBaby 是一款纯本地运行的婴儿日常记录应用，不联网、不上传、不共享任何数据。",
+  "dataCollection": {
+    "collected": [],
+    "localData": [
+      {
+        "name": "喂养记录",
+        "storage": "设备本地 RDB（feeds 表）",
+        "fields": ["type", "amount", "duration", "note", "startTime", "endTime"]
+      },
+      {
+        "name": "换尿布记录",
+        "storage": "设备本地 RDB（diapers 表）",
+        "fields": ["type", "note", "changeTime"]
+      },
+      {
+        "name": "睡眠记录",
+        "storage": "设备本地 RDB（sleeps 表）",
+        "fields": ["startTime", "endTime", "quality", "note"]
+      },
+      {
+        "name": "成长记录",
+        "storage": "设备本地 RDB（growth 表）",
+        "fields": ["measureTime", "weight", "height", "headCirc", "note"]
+      },
+      {
+        "name": "宝宝档案",
+        "storage": "设备本地 Preferences（baby_profile）",
+        "fields": ["name", "birthday", "gender"]
+      }
+    ],
+    "statement": "以上所有数据仅保存在设备本地，不接入任何网络服务，不采集位置、通讯录、相册等任何系统或个人信息；卸载应用时数据随应用一并删除。"
+  },
+  "permissions": {
+    "requested": [],
+    "statement": "本应用不申请任何 ohos.permission 权限（0 权限应用）。"
+  },
+  "userRights": [
+    "可随时在应用内编辑宝宝档案",
+    "可随时删除任意一条喂养 / 尿布 / 睡眠 / 成长记录",
+    "卸载应用即彻底清除全部本地数据"
+  ],
+  "contact": "support@example.com"
+}
