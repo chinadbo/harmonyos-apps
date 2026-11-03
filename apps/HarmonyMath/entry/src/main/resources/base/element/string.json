@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "口算小达人"
+    },
+    {
+      "name": "module_desc",
+      "value": "小学生数学口算训练应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "口算训练主入口"
+    },
+    {
+      "name": "vibrate_reason",
+      "value": "答题时提供震动反馈"
+    },
+    {
+      "name": "title_index",
+      "value": "口算小达人"
+    },
+    {
+      "name": "title_practice",
+      "value": "口算练习"
+    },
+    {
+      "name": "title_result",
+      "value": "练习结果"
+    },
+    {
+      "name": "title_wrong_book",
+      "value": "错题本"
+    },
+    {
+      "name": "title_stats",
+      "value": "练习统计"
+    },
+    {
+      "name": "title_times_table",
+      "value": "乘法口诀表"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "declaration": {
+    "appPrivacyStatement": [
+      {
+        "lang": "zh-CN",
+        "title": "口算小达人隐私声明",
+        "content": "本应用为纯离线应用，不联网、不采集、不上传任何用户个人信息。练习记录、错题本、成就与偏好设置仅保存在设备本地数据库中，卸载应用即随之删除。应用申请震动权限仅用于答题反馈，不涉及通讯录、位置、媒体文件等敏感数据。"
+      },
+      {
+        "lang": "en-US",
+        "title": "HarmonyMath Privacy Statement",
+        "content": "This application works fully offline. It collects no personal data and transmits nothing over the network. Practice records, the wrong-question book, achievements and preferences are stored only in the local database of the device and are removed when the app is uninstalled. The vibrate permission is used only for answer feedback."
+      }
+    ]
+  },
+  "permissionDescription": {
+    "ohos.permission.VIBRATE": "用于答题正确或错误时的震动提示反馈"
+  }
+}
