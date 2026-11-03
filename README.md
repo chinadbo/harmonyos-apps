@@ -38,6 +38,7 @@
 | 30 | 2026-10-26 | [HarmonyLevel](apps/HarmonyLevel) | 水平仪/倾角测量/传感器工具 | ✅ |
 | 31 | 2026-10-29 | [HarmonyWardrobe](apps/HarmonyWardrobe) | 衣柜穿搭管理/每日穿搭记录 | ✅ |
 | 32 | 2026-10-31 | [HarmonyBaby](apps/HarmonyBaby) | 婴儿喂养记录/育儿助手/成长日记 | ✅ |
+| 33 | 2026-11-04 | [HarmonyMath](apps/HarmonyMath) | 数学口算训练/心算练习/教育工具 | ✅ |
 
 ## 技术栈
 
