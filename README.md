@@ -31,6 +31,7 @@
 | 23 | 2026-05-26 | HarmonySpeed | 网速测试/网络诊断 | ✅ |
 | 24 | 2026-05-27 | HarmonyCapture | 截图标注/图片编辑 | ✅ |
 | 25 | 2026-05-28 | HarmonyTime | 时间追踪/生产力工具 | ✅ |
+| 34 | 2026-11-05 | [HarmonyCine](apps/HarmonyCine) | 影视追踪/片单管理/观影记录 | ✅ |
 | 26 | 2026-05-29 | [HarmonySleep](apps/harmony-sleep) | 睡眠记录/健康管理 | ✅ |
 | 27 | 2026-09-06 | [HarmonyChrono](apps/HarmonyChrono) | 秒表/计时/运动模式 | ✅ |
 | 28 | 2026-09-08 | [HarmonyInsight](apps/HarmonyInsight) | CSV数据可视化/图表 | ✅ |

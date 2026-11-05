@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/AddMoviePage",
+    "pages/MovieDetailPage",
+    "pages/StatsPage",
+    "pages/AchievementsPage",
+    "pages/SettingsPage"
+  ]
+}

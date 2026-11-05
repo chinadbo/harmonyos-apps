@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_label",
+      "value": "HarmonyCine"
+    },
+    {
+      "name": "module_desc",
+      "value": "HarmonyCine 影视追踪与片单管理模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "影视追踪、片单管理与观影统计"
+    }
+  ]
+}

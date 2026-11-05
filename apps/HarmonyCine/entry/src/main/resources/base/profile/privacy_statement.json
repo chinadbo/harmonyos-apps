@@ -1,0 +1,19 @@
+{
+  "name": "HarmonyCine 隐私声明",
+  "version": "1.0.0",
+  "statement": "HarmonyCine 是一款纯本地离线应用。您的影视条目、评分、进度与观影记录仅保存在设备本地的关系型数据库（relationalStore）与轻量偏好设置（Preferences）中，用于片单展示与统计。应用不联网、不上传、不共享、不收集任何个人信息，也不申请任何系统权限（包括网络、媒体、振动等）。",
+  "dataStorage": {
+    "local": "relationalStore 数据库（harmonycine.db）与 Preferences（cine_prefs），仅存储于设备本地",
+    "cloud": "无云端存储"
+  },
+  "dataCollection": {
+    "collect": "不收集任何用户数据",
+    "thirdParty": "无第三方 SDK，无数据共享"
+  },
+  "permissions": {
+    "declared": "本应用未声明任何 ohos.permission 权限"
+  },
+  "dataDeletion": {
+    "description": "清除入口：设置页提供「清空所有数据」，一键删除本地数据库与偏好设置中的全部数据；卸载应用也会移除全部本地数据。"
+  }
+}

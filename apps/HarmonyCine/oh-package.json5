@@ -1,0 +1,12 @@
+{
+  "name": "harmonycine",
+  "version": "1.0.0",
+  "description": "HarmonyCine 影视追踪与片单管理应用（纯本地离线）",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}
