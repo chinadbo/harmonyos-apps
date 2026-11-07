@@ -1,0 +1,12 @@
+{
+  "name": "harmonyquotes",
+  "version": "1.0.0",
+  "description": "HarmonyQuotes 行情助手 - HarmonyOS ArkTS 自选行情应用",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/QuoteDetail",
+    "pages/PositionsPage",
+    "pages/StatsPage",
+    "pages/AddQuotePage",
+    "pages/SettingsPage"
+  ]
+}
