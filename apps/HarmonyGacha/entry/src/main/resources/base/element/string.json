@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyGacha 抽卡记录助手"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "本地抽卡记录与保底统计"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyGacha"
+    }
+  ]
+}

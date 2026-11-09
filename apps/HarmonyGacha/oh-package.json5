@@ -1,0 +1,12 @@
+{
+  "name": "harmonygacha",
+  "version": "1.0.0",
+  "description": "HarmonyGacha 抽卡记录助手：本地记录抽卡、保底进度、欧非统计",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}

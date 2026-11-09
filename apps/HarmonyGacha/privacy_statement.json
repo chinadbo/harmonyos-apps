@@ -1,0 +1,28 @@
+{
+  "privacyStatement": {
+    "appName": "HarmonyGacha",
+    "version": "1.0.0",
+    "updateDate": "2026-11-09",
+    "dataProcessing": "local-only",
+    "networkAccess": "none",
+    "permissionsRequested": [],
+    "statements": [
+      {
+        "title": "数据存储",
+        "content": "抽卡记录、卡池配置与主题偏好仅保存在设备本地的应用沙箱内（RDB 数据库 / Preferences / 缓存文件），不进行任何云端同步。"
+      },
+      {
+        "title": "数据采集",
+        "content": "本应用不采集任何个人信息，不获取设备标识、位置、通讯录等敏感数据，module.json5 中未声明任何 requestPermissions。"
+      },
+      {
+        "title": "数据导出",
+        "content": "用户可主动在设置页将全部记录导出为 JSON 文件，文件仅写入应用缓存目录，由用户自行管理，应用不上传该文件。"
+      },
+      {
+        "title": "数据删除",
+        "content": "用户可在设置页一键清空全部抽卡记录；卸载应用后所有本地数据随沙箱一并删除。"
+      }
+    ]
+  }
+}

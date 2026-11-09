@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/RecordPage",
+    "pages/AddRecordPage",
+    "pages/StatsPage",
+    "pages/PoolPage",
+    "pages/SettingsPage"
+  ]
+}
