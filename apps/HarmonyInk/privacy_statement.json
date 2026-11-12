@@ -1,0 +1,22 @@
+{
+  "appName": "墨迹笔顺",
+  "packageName": "com.harmonyink.app",
+  "version": "1.0.0",
+  "updatedAt": "2026-11-12",
+  "summary": "墨迹笔顺是一款完全离线的汉字笔顺练习应用，不收集、不存储、不上传任何个人信息。",
+  "permissions": [
+    {
+      "name": "ohos.permission.VIBRATE",
+      "level": "normal",
+      "purpose": "在用户写对一笔时提供触觉反馈，可在设置页关闭"
+    }
+  ],
+  "dataCollection": {
+    "collectsPersonalData": false,
+    "networkAccess": false,
+    "thirdPartySharing": false,
+    "localStorage": "练习记录（汉字、得分、笔画数、用时、时间戳）仅保存于本机 RDB 数据库 harmonyink.db，可在设置页一键清除",
+    "bundledData": "chars.json 汉字笔画数据随安装包内置，不涉及网络下载"
+  },
+  "childrenPrivacy": "应用面向儿童及汉字初学者，不包含账号、广告、支付、社交或任何数据回传功能。"
+}

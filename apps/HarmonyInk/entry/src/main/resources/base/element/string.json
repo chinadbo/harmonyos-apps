@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyInk 汉字笔顺练习主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "汉字笔顺练习"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "墨迹笔顺"
+    },
+    {
+      "name": "vibrate_reason",
+      "value": "书写正确时提供触觉反馈"
+    }
+  ]
+}
