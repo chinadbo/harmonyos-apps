@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FBF6EC"
+    },
+    {
+      "name": "page_background",
+      "value": "#FBF6EC"
+    },
+    {
+      "name": "ink_primary",
+      "value": "#2B2B2B"
+    },
+    {
+      "name": "ink_secondary",
+      "value": "#7A7468"
+    },
+    {
+      "name": "spring_color",
+      "value": "#5E9B6B"
+    },
+    {
+      "name": "summer_color",
+      "value": "#D96C4A"
+    },
+    {
+      "name": "autumn_color",
+      "value": "#C9922F"
+    },
+    {
+      "name": "winter_color",
+      "value": "#5B7E9E"
+    }
+  ]
+}

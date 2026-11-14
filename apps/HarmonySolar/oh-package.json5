@@ -1,0 +1,11 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "harmonysolar",
+  "version": "1.0.0",
+  "description": "HarmonySolar — HarmonyOS 二十四节气文化应用",
+  "main": "",
+  "author": "HarmonySolar",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}

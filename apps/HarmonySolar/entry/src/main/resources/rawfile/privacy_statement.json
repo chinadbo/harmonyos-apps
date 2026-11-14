@@ -1,0 +1,33 @@
+{
+  "appName": "HarmonySolar",
+  "bundleName": "com.harmony.solar",
+  "version": "1.0.0",
+  "effectiveDate": "2026-11-14",
+  "summary": "HarmonySolar 是一款纯离线的二十四节气文化应用。我们不收集、不上传、不共享任何个人数据。",
+  "dataCollection": [],
+  "devicePermissions": [],
+  "localStorage": [
+    {
+      "item": "收藏的节气",
+      "type": "relationalStore 本地数据库",
+      "purpose": "展示与删除用户收藏的节气详情",
+      "retention": "保存在设备本地，用户删除收藏或卸载应用后清除"
+    },
+    {
+      "item": "节气提醒开关",
+      "type": "Preferences 本地配置",
+      "purpose": "记住用户是否开启节气提醒",
+      "retention": "保存在设备本地，卸载应用后清除"
+    }
+  ],
+  "notification": {
+    "enabled": "由用户主动开启",
+    "description": "仅在用户打开提醒开关并授权通知后，发送本地节气提醒通知，不包含任何云端推送。",
+    "permissionRequestedInManifest": false
+  },
+  "network": "本应用不发起任何网络请求。",
+  "thirdPartySdk": [],
+  "childrenPrivacy": "本应用不面向儿童收集任何信息。",
+  "contact": "privacy@harmonysolar.example",
+  "changes": "如隐私政策发生更新，将在应用新版本说明中告知。"
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonySolar 二十四节气"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonySolar 二十四节气文化应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonySolar"
+    }
+  ]
+}

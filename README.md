@@ -43,6 +43,7 @@
 | 35 | 2026-11-07 | [HarmonyQuotes](apps/HarmonyQuotes) | 股票行情/自选管理/持仓盈亏/理财工具 | ✅ |
 | 36 | 2026-11-09 | [HarmonyGacha](apps/HarmonyGacha) | 抽卡记录/保底分析/欧非指数 | ✅ |
 | 37 | 2026-11-12 | [HarmonyInk](apps/HarmonyInk) | 汉字笔顺/书法练习/书写教育 | ✅ |
+| 38 | 2026-11-14 | [HarmonySolar](apps/HarmonySolar) | 二十四节气/传统文化/民俗养生 | ✅ |
 
 ## 技术栈
 
