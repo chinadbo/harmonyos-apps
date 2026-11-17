@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "元素周期表主模块",
+  "main": "",
+  "author": "chinadbo",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

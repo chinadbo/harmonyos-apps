@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ElementDetail",
+    "pages/FavoritesPage",
+    "pages/QuizPage",
+    "pages/QuizResult",
+    "pages/SettingsPage"
+  ]
+}

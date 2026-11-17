@@ -44,6 +44,7 @@
 | 36 | 2026-11-09 | [HarmonyGacha](apps/HarmonyGacha) | 抽卡记录/保底分析/欧非指数 | ✅ |
 | 37 | 2026-11-12 | [HarmonyInk](apps/HarmonyInk) | 汉字笔顺/书法练习/书写教育 | ✅ |
 | 38 | 2026-11-14 | [HarmonySolar](apps/HarmonySolar) | 二十四节气/传统文化/民俗养生 | ✅ |
+| 39 | 2026-11-18 | [HarmonyPeriodic](apps/HarmonyPeriodic) | 化学元素周期表/自然科学教育 | ✅ |
 
 ## 技术栈
 
