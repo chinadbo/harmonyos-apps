@@ -1,0 +1,25 @@
+{
+  "appName": "房贷计算器",
+  "bundleName": "com.example.harmonyloan",
+  "version": "1.0.0",
+  "privacyStatement": "本应用为本地房贷计算工具。所有计算在设备端完成，贷款方案与常用利率仅保存在应用沙箱内的本地数据库（relationalStore）和用户首选项中（Preferences），不会上传到任何服务器，也不收集、不共享任何个人数据。",
+  "permissions": [],
+  "dataCollection": {
+    "collectsPersonalData": false,
+    "uploadsData": false,
+    "thirdPartySharing": false,
+    "networkAccess": false
+  },
+  "localStorage": [
+    {
+      "type": "relationalStore",
+      "name": "loan.db",
+      "purpose": "保存用户主动保存的贷款方案历史"
+    },
+    {
+      "type": "Preferences",
+      "name": "loan_prefs",
+      "purpose": "保存常用利率（LPR、公积金）与上次输入参数"
+    }
+  ]
+}

@@ -45,6 +45,7 @@
 | 37 | 2026-11-12 | [HarmonyInk](apps/HarmonyInk) | 汉字笔顺/书法练习/书写教育 | ✅ |
 | 38 | 2026-11-14 | [HarmonySolar](apps/HarmonySolar) | 二十四节气/传统文化/民俗养生 | ✅ |
 | 39 | 2026-11-18 | [HarmonyPeriodic](apps/HarmonyPeriodic) | 化学元素周期表/自然科学教育 | ✅ |
+| 40 | 2026-11-19 | [HarmonyLoan](apps/HarmonyLoan) | 房贷计算/贷款分期/利息计算 | ✅ |
 
 ## 技术栈
 

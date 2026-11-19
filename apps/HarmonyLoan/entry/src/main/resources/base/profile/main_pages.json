@@ -1,0 +1,9 @@
+{
+  "src": [
+    "views/Index",
+    "views/ComparePage",
+    "views/SchedulePage",
+    "views/PrepayPage",
+    "views/HistoryPage"
+  ]
+}
