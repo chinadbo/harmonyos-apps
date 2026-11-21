@@ -1,0 +1,11 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "harmonymama",
+  "version": "1.0.0",
+  "description": "HarmonyMama 孕期伴侣 - 纯离线孕期全程管理应用",
+  "main": "",
+  "author": "chinadbo",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}

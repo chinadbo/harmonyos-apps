@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "primary_color",
+      "value": "#E91E63"
+    },
+    {
+      "name": "primary_dark",
+      "value": "#C2185B"
+    },
+    {
+      "name": "primary_light",
+      "value": "#FCE4EC"
+    },
+    {
+      "name": "text_primary",
+      "value": "#212121"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#757575"
+    },
+    {
+      "name": "divider_color",
+      "value": "#F0F0F0"
+    }
+  ]
+}

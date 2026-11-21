@@ -1,0 +1,9 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "HarmonyMama 孕期伴侣 entry 模块",
+  "main": "",
+  "author": "chinadbo",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

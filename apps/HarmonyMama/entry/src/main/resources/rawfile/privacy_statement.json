@@ -1,0 +1,47 @@
+{
+  "appName": "HarmonyMama 孕期伴侣",
+  "bundleName": "com.chinadbo.harmonymama",
+  "version": "1.0.0",
+  "effectiveDate": "2026-11-21",
+  "summary": "本应用是纯离线的孕期管理工具。您记录的全部数据仅保存在本机应用私有目录中，绝不上传至任何服务器，也不与任何第三方共享。",
+  "dataCollection": {
+    "networkAccess": false,
+    "accountRequired": false,
+    "permissions": [],
+    "description": "应用未申请网络权限、媒体权限、位置权限或账号登录能力，不收集、不采集、不追踪任何个人信息。"
+  },
+  "localData": {
+    "storageLocation": "应用私有目录（RDB 数据库与 Preferences 配置）",
+    "upload": false,
+    "shareWithThirdParty": false,
+    "items": [
+      {
+        "name": "产检记录",
+        "description": "产检项目名称、日期、备注与完成状态",
+        "storage": "本地 RDB 数据表 checkup"
+      },
+      {
+        "name": "体重记录",
+        "description": "记录日期与体重数值",
+        "storage": "本地 RDB 数据表 weight"
+      },
+      {
+        "name": "胎动会话",
+        "description": "会话开始时间、时长与胎动次数",
+        "storage": "本地 RDB 数据表 kick_session"
+      },
+      {
+        "name": "孕期档案",
+        "description": "末次月经日期或预产期等基础设置",
+        "storage": "本地 Preferences（profile KV）"
+      }
+    ]
+  },
+  "userRights": {
+    "deleteData": "卸载应用，或在系统设置中清除应用数据，即可删除全部本地记录。",
+    "exportData": "当前版本不提供数据导出功能，数据不会离开您的设备。"
+  },
+  "childrenPrivacy": "本应用不面向儿童收集任何信息。",
+  "contact": "如对本隐私声明有疑问，请通过应用发布渠道与我们联系。",
+  "updates": "本声明如有变更，将随应用版本更新在本文件中同步说明。"
+}
