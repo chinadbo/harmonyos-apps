@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "HarmonyAlgo"
+    },
+    {
+      "name": "privacy_statement_title",
+      "value": "隐私声明"
+    },
+    {
+      "name": "privacy_statement_content",
+      "value": "HarmonyAlgo 为纯本地应用，所有题库、收藏、错题与笔记数据均保存在设备本地，不联网、不上传、不收集任何个人信息。"
+    },
+    {
+      "name": "privacy_agreement",
+      "value": "隐私政策"
+    },
+    {
+      "name": "protocol_and_privacy",
+      "value": "同意并继续"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "harmonyalgo",
+  "version": "1.0.0",
+  "description": "HarmonyAlgo 算法刷题与学习应用",
+  "main": "",
+  "author": "harmonyalgo",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}

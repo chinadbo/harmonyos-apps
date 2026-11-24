@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyAlgo 算法刷题与学习"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyAlgo 算法刷题与学习应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyAlgo"
+    }
+  ]
+}
