@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "appName": "藏集阁 HarmonyCollect",
+  "upload": false,
+  "collectPersonalInfo": false,
+  "thirdPartySdk": [],
+  "permissions": [],
+  "storageLocation": "应用沙箱本地存储",
+  "description": "本应用全部数据仅保存在本机沙箱，不联网、不上传、不收集任何个人信息。图片通过系统 PhotoViewPicker 选择，无需相册权限。"
+}

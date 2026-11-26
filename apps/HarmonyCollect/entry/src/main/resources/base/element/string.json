@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyCollect 收藏品管理"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "收藏品管理主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "藏集阁"
+    }
+  ]
+}

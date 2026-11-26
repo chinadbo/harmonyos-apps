@@ -1,0 +1,36 @@
+{
+  "app": {
+    "compileSdkVersion": 12,
+    "compatibleSdkVersion": 12,
+    "products": [
+      {
+        "name": "default",
+        "compatibleSdkVersion": 12,
+        "runtimeOS": "HarmonyOS",
+        "bundleName": "com.harmony.collect"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

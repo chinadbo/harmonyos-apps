@@ -1,0 +1,13 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "harmony-collect",
+  "version": "1.0.0",
+  "description": "HarmonyCollect - 收藏品管理 App",
+  "main": "",
+  "author": "HarmonyCollect",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}

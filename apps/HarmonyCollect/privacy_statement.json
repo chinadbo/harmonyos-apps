@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "appName": "藏集阁 HarmonyCollect",
+  "lastUpdated": "2026-11-26",
+  "language": "zh-CN",
+  "summary": "本应用所有数据仅在您的设备本地存储与处理，不上传、不收集、不分享任何个人信息。",
+  "statement": {
+    "dataCollection": {
+      "enabled": false,
+      "description": "应用不收集任何个人身份信息，不需要登录注册，不接入网络。"
+    },
+    "dataStorage": {
+      "location": "应用沙箱本地存储（relationalStore 数据库与 filesDir 文件目录）",
+      "encryptionInTransit": "not_applicable",
+      "upload": false,
+      "description": "藏品信息、心愿单、图片素材均保存在本机应用沙箱内，仅在卸载应用时随沙箱一并清除。"
+    },
+    "permissions": {
+      "list": [],
+      "description": "应用不申请任何敏感权限。选择图片时使用系统 PhotoViewPicker，仅获得所选单张图片的临时读取授权，无需相册权限。"
+    },
+    "thirdParty": {
+      "sdk": [],
+      "share": false,
+      "description": "应用不集成任何第三方统计、广告或分析 SDK，不向任何第三方提供数据。"
+    },
+    "userRights": {
+      "access": "用户可在应用内随时查看、编辑、删除全部数据。",
+      "export": "用户可在设置页将全部数据导出为本地 JSON 文件。",
+      "delete": "删除应用即彻底清除全部本地数据。"
+    },
+    "contact": {
+      "email": "support@harmonycollect.local",
+      "description": "如对隐私有任何疑问，可通过以上邮箱联系开发者。"
+    }
+  }
+}
