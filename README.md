@@ -48,6 +48,7 @@
 | 40 | 2026-11-19 | [HarmonyLoan](apps/HarmonyLoan) | 房贷计算/贷款分期/利息计算 | ✅ |
 | 41 | 2026-11-22 | [HarmonyMama](apps/HarmonyMama) | 孕期管理/胎动计数/产检提醒 | ✅ |
 | 42 | 2026-11-24 | [HarmonyAlgo](apps/HarmonyAlgo) | 编程刷题/算法学习/错题本 | ✅ |
+| 43 | 2026-11-26 | [HarmonyCollect](apps/HarmonyCollect) | 收藏品管理/心愿单/价值追踪 | ✅ |
 
 ## 技术栈
 
